@@ -75,6 +75,7 @@ int vproc[3] = {2,2,1}, nproc = 4;
 int sid,vid[3],nn[6],myparity[3];
 double sv[6][3];
 int **lsb;
+int **mvque;
 MPI_Status status;
 MPI_Request requestr, requests;
 MPI_Comm workers;

@@ -340,7 +340,7 @@ boundary-atom list, LSB, then sends & receives boundary atoms.
 
     /* Reset the # of to-be-copied atoms for lower&higher directions */
     for (kdd=0; kdd<2; kdd++) { 
-      lsb[2*kd+kdd] = (int *) malloc(sizeof(int) * (n + nbnew));
+      lsb[2*kd+kdd] = (int *) malloc(sizeof(int) * (n + nbnew + 1));
       lsb[2*kd+kdd][0] = 0;
     }
 
@@ -596,14 +596,19 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
   ku; MVQUE[ku][k>0] is the atom ID, used in r, of the k-th atom to be
   moved.
 ----------------------------------------------------------------------*/
-  int mvque[6][NBMAX];
+
   int newim = 0; /* # of new immigrants */
   int ku,kd,i,kdd,kul,kuh,inode,ipt,a,nsd,nrc;
   double com1;
 
   if (sid == 0) printf("atom_move()\n");
   /* Reset the # of to-be-moved atoms, MVQUE[][0] */
-  for (ku=0; ku<6; ku++) mvque[ku][0] = 0;
+
+  mvque = (int **) malloc(sizeof(int *) * 6);
+  for (ku=0; ku<6; ku++) {
+    mvque[ku] = (int *) malloc(sizeof(int) * (n + newim + 1));
+    mvque[ku][0] = 0;
+  }
 
   /* Main loop over x, y & z directions starts------------------------*/
 
@@ -708,7 +713,6 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
 
   /* Compress resident arrays including new immigrants */
 
-
   ipt = 0;
   for (i=0; i<n+newim; i++) {
     if (r[i][0] > MOVED_OUT) {
@@ -727,6 +731,11 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
     free(rv[i]);
   }
   //rv = (double **)realloc(rv, sizeof(double*) * ipt);
+
+  for (i = 0; i < 6; i++) {
+    free(mvque[i]);
+  }
+  free(mvque);
 
   /* Update the compressed # of resident atoms */
   n = ipt;

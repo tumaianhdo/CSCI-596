@@ -97,6 +97,8 @@ int sid,vid[3],nn[6],myparity[3];
 double sv[6][3];
 //int lsb[6][NBMAX];
 int **lsb;
+//int mvque[6][NBMAX];
+int **mvque;
 MPI_Status status;
 MPI_Request requestr, requests;
 MPI_Comm workers;

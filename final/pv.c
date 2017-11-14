@@ -2,7 +2,7 @@
 Program pmd.c performs parallel molecular-dynamics for Lennard-Jones 
 systems using the Message Passing Interface (MPI) standard.
 ----------------------------------------------------------------------*/
-#include "pmd.h"
+#include "pv.h"
 
 
 /*--------------------------------------------------------------------*/
