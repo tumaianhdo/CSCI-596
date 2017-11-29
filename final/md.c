@@ -10,17 +10,38 @@ int main(int argc, char **argv) {
   int i, a;
   double cpu1;
 
+  transport_method = argv[1];
+
   MPI_Init(&argc,&argv); /* Initialize the MPI environment */
   //MPI_Comm_rank(MPI_COMM_WORLD, &sid);  /* My processor ID */
   MPI_Comm_rank(MPI_COMM_WORLD, &gid);  /* Global processor ID */
   md = 1;
   MPI_Comm_split(MPI_COMM_WORLD, md, gid, &workers);
   MPI_Comm_rank(workers, &sid);
+  MPI_Comm_size(workers, &nproc);
+
+  timer_init(&timer_, 1);
+  timer_start(&timer_);
+
+  tm_st = timer_read(&timer_);
+  adios_init_noxml(workers);
+  tm_end = timer_read(&timer_);
+  tm_diff = tm_end-tm_st;
+  
+  MPI_Reduce(&tm_diff, &tm_max, 1, MPI_DOUBLE, MPI_MAX, 0, workers);
+  if (sid == 0) printf("TIMING_PERF adios_init_noxml MAX time = %lf\n", tm_max); 
+
+  adios_declare_group(&gh, "md", "", adios_stat_default);
+  adios_set_max_buffer_size(10);
+  // Select output methods
+  adios_select_method(gh, "DATASPACES", "verbose=4", "");
 
   /* Vector index of this processor */
   vid[0] = sid/(vproc[1]*vproc[2]);
   vid[1] = (sid/vproc[2])%vproc[1];
   vid[2] = sid%vproc[2];
+
+  nlocal = (int *) malloc(sizeof(int) * nproc);
 
   init_params();
   set_topology();
@@ -31,32 +52,87 @@ int main(int argc, char **argv) {
   cpu1 = MPI_Wtime();
   for (stepCount=1; stepCount<=StepLimit; stepCount++) {
     single_step();
-    if (sid == 0) printf("Done step %d\n",stepCount);
+    //if (sid == 0) printf("Done step %d\n",stepCount);
     if (stepCount == StepLimit) {
       clean_up();
       free(head);
     }
     
     if (stepCount % StepAvg == 0) {
-      /* Send # of atoms n to rank gid-1 in MPI_COMM_WORLD */
-      MPI_Send(&n, 1, MPI_INT, gid - 1, 1000, MPI_COMM_WORLD);
-      /* Send velocities of n atoms to rank gid-1 in MPI_COMM_WORLD */
+      MPI_Allgather(&n, 1, MPI_INT, nlocal, 1, MPI_INT, workers);
+      nglob = 0;
+      offset = 0;  
+      for (i = 0; i < nproc; i++) {
+        if (i < sid) offset += nlocal[i];
+        nglob += nlocal[i];
+      }
+      if (sid == 0) printf("Step = %d nglob = %d\n", stepCount, nglob);
+      printf("Step = %d Rank = %d offset = %d\n",stepCount, sid, offset);
+
+      // Send # of atoms n to rank gid-1 in MPI_COMM_WORLD 
+      //MPI_Send(&n, 1, MPI_INT, gid - 1, 1000, MPI_COMM_WORLD);
+      // Send velocities of n atoms to rank gid-1 in MPI_COMM_WORLD
+
       dbuf = (double *)malloc(sizeof(double) * 3 * n);
       if (sid == 0) printf("Reaching\n");
       for (i = 0; i < n; i++)
         for (a = 0; a < 3; a++)
           dbuf[3*i+a] = rv[i][a];
+      //MPI_Send(dbuf, 3*n, MPI_DOUBLE, gid - 1, 2000, MPI_COMM_WORLD);
 
-      MPI_Send(dbuf, 3*n, MPI_DOUBLE, gid - 1, 2000, MPI_COMM_WORLD);
+      writetotal = 8 * 3 * n;
+
+      sprintf(dim_str,"%d", 3*n);
+      sprintf(glob_str,"%d", nglob*3);
+      sprintf(off_str,"%d", offset*3);
+
+      /*sprintf(dim_str,"%d,3", n);
+      sprintf(glob_str,"%d,3", nglob);
+      sprintf(off_str,"%d,0", offset);*/
+
+      tm_st = timer_read(&timer_);
+
+      //adios_define_var (gh, var, "", adios_double, dim_str, dim_str, "0");
+      adios_define_var (gh, "dbuf", "", adios_double, dim_str, glob_str, off_str);
+      adios_open (&fh, "md", "staged.bp", (stepCount==StepAvg ? "w" : "a"), workers);
+      adios_group_size (fh, writetotal, &totalsize);
+      adios_write(fh, "dbuf", dbuf);
+      //adios_write(fh, "dbuf", rv);
+
+      adios_close (fh);
+      adios_delete_vardefs (gh);
+      adios_delete_attrdefs (gh);
+
+      tm_end = timer_read(&timer_);
+      tm_diff = tm_end-tm_st;
+      MPI_Reduce(&tm_diff, &tm_max, 1, MPI_DOUBLE, MPI_MAX, 0, workers);
+
+      if (sid == 0) 
+        printf("TIMING_PERF Step = %u write MAX time= %lf\n", stepCount, tm_max);
+
       eval_props();
 
       free(dbuf);
+
+      //free(var);
+      //free(dim_str);
+      //MPI_Barrier(workers);
     }
   }
   cpu = MPI_Wtime() - cpu1;
   //if (sid == 0) printf("CPU & COMT = %le %le\n",cpu,comt);
   if (sid == 0)
     printf("CPU & COMT = %le %le\n",cpu,comt);
+
+  free(nlocal);
+
+  tm_st = timer_read(&timer_);
+  adios_finalize(sid);
+  tm_end = timer_read(&timer_);
+  tm_diff = tm_end-tm_st;
+  MPI_Reduce(&tm_diff, &tm_max, 1, MPI_DOUBLE, MPI_MAX, 0, workers);
+  //if (sid == 0) printf("TIMING_PERF adios_finalize MAX time = %lf\n", tm_max);
+  timer_stop(&timer_);
 
   MPI_Finalize(); /* Clean up the MPI environment */
   return 0;
@@ -145,7 +221,7 @@ void init_conf() {
 r are initialized to face-centered cubic (fcc) lattice positions.  
 rv are initialized with a random velocity corresponding to Temperature.  
 ----------------------------------------------------------------------*/
-  printf("init_conf()\n");
+  //printf("init_conf()\n");
   double c[3],gap[3],e[3],vSum[3],gvSum[3],vMag;
   int j,a,nX,nY,nZ;
   double seed;
@@ -173,9 +249,12 @@ rv are initialized with a random velocity corresponding to Temperature.
       }
     }
   }
+
   /* Total # of atoms summed over processors */
   MPI_Allreduce(&n,&nglob,1,MPI_INT,MPI_SUM,workers);
   if (sid == 0) printf("nglob = %d\n",nglob);
+
+  
 
   /* Generate random velocities */
   seed = 13597.0+sid;
@@ -206,7 +285,7 @@ void single_step() {
 /*----------------------------------------------------------------------
 r & rv are propagated by DeltaT using the velocity-Verlet scheme.
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("single_step() %d\n", stepCount);
+  //if (sid == 0) printf("single_step() %d\n", stepCount);
   int i,a;
 
   half_kick(); /* First half kick to obtain v(t+Dt/2) */
@@ -215,7 +294,7 @@ r & rv are propagated by DeltaT using the velocity-Verlet scheme.
 
   clean_up();
   atom_move();
-  if (sid == 0) printf("Done atom_move()\n");
+  //if (sid == 0) printf("Done atom_move()\n");
   atom_copy();
   compute_accel(); /* Computes new accelerations, a(t+Dt) */
   half_kick(); /* Second half kick to obtain v(t+Dt) */
@@ -226,7 +305,7 @@ void half_kick() {
 /*----------------------------------------------------------------------
 Accelerates atomic velocities, rv, by half the time step.
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("half_kick()\n");
+  //if (sid == 0) printf("half_kick()\n");
   int i,a;
   for (i=0; i<n; i++)
     for (a=0; a<3; a++) rv[i][a] = rv[i][a]+DeltaTH*ra[i][a];
@@ -237,7 +316,7 @@ void clean_up() {
 /*----------------------------------------------------------------------
 Free memory allocation 
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("clean_up()\n");
+  //if (sid == 0) printf("clean_up()\n");
   int i;
   for (i=0; i<n; i++) 
       free(ra[i]);
@@ -251,8 +330,7 @@ void atom_copy() {
 Exchanges boundary-atom coordinates among neighbor nodes:  Makes 
 boundary-atom list, LSB, then sends & receives boundary atoms.
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("atom_copy()\n");
-
+  //if (sid == 0) printf("atom_copy()\n");
   int kd,kdd,i,ku,inode,nsd,nrc,a;
   int nbnew = 0; /* # of "received" boundary atoms */
   double com1;
@@ -291,7 +369,7 @@ boundary-atom list, LSB, then sends & receives boundary atoms.
       /* Send & receive the # of boundary atoms-----------------------*/
 
       nsd = lsb[ku][0]; /* # of atoms to be sent */
-      if (sid == 0) printf("Done\n");
+      // /if (sid == 0) printf("Done\n");
       /* Even node: send & recv */
       /* Odd node: recv & send */
       MPI_Irecv(&nrc,1,MPI_INT,MPI_ANY_SOURCE,10,
@@ -364,7 +442,7 @@ Given atomic coordinates, r[0:n+nb-1][], for the extended (i.e.,
 resident & copied) system, computes the acceleration, ra[0:n-1][], for 
 the residents.
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("compute_accel()\n");
+  //if (sid == 0) printf("compute_accel()\n");
   int i,j,a,lc2[3],lcyz2,lcxyz2,mc[3],c,mc1[3],c1;
   int bintra;
   double dr[3],rr,ri2,ri6,r1,rrCut,fcVal,f,vVal,lpe;
@@ -484,7 +562,7 @@ void eval_props() {
 /*----------------------------------------------------------------------
 Evaluates physical properties: kinetic, potential & total energies.
 ----------------------------------------------------------------------*/
-  if (sid == 0) printf("eval_props()\n");
+  //if (sid == 0) printf("eval_props()\n");
   double vv,lke;
   int i,a;
 
@@ -525,7 +603,7 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
   int ku,kd,i,kdd,kul,kuh,inode,ipt,a,nsd,nrc;
   double com1;
 
-  if (sid == 0) printf("atom_move()\n");
+  //if (sid == 0) printf("atom_move()\n");
   /* Reset the # of to-be-moved atoms, MVQUE[][0] */
   mvque = (int **) malloc(sizeof(int *) * 6);
   for (ku=0; ku<6; ku++) {
@@ -570,6 +648,7 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
                  workers,&requestr);
       MPI_Send(&nsd,1,MPI_INT,inode,110,workers);
       MPI_Wait(&requestr, &status);
+
       /* Now nrc is the # of atoms to be received */
 
       /* Send & receive information on boundary atoms-----------------*/
@@ -661,7 +740,10 @@ mvque[6][NBMAX]: mvque[ku][0] is the # of to-be-moved atoms to neighbor
   free(mvque);
 
   /* Update the compressed # of resident atoms */
-  n = ipt;
+
+    n = ipt;
+    
+  
   //if (sid == 0) printf("A n = %d\n", n);
 }
 

@@ -16,6 +16,7 @@ void calc_pv() {
   }
   MPI_Allreduce(lpv,pv,NBIN,MPI_DOUBLE,MPI_SUM,workers);
   MPI_Allreduce(&n,&nglob,1,MPI_INT,MPI_SUM,workers);
+  printf("calc_pv nglob = %d\n",nglob);
   for (i=0; i<NBIN; i++) pv[i] /= (dv*nglob);  // Normalization
   if (sid == 0) {
     for (i=0; i<NBIN; i++) fprintf(fpv,"%le %le\n",i*dv,pv[i]);

@@ -5,6 +5,10 @@ pmd.h is an include file for a parallel MD program, pmd.c.
 #include <stdlib.h>
 #include <math.h>
 #include "mpi.h"
+#include "timer.h"
+#include "adios.h"
+#include "adios_error.h"
+#include "adios_types.h"
 
 /* Constants------------------------------------------------------------
 RCUT = Potential cut-off length
@@ -18,6 +22,8 @@ EMPTY: Signifies the end of a linked list.
 /* Constants for the random number generator */
 #define D2P31M 2147483647.0
 #define DMUL 16807.0
+
+#define BUFMAX 10
 
 /* Variables------------------------------------------------------------
 
@@ -66,12 +72,13 @@ stepCount = Current time step.
 
 double al[3];
 int n,nb,nglob;
+int *nlocal;
 double **r;
 double **rv;
 double **ra; 
 double *dbuf;
 double *dbufr;
-int vproc[3] = {2,2,1}, nproc = 4;
+int vproc[3] = {2,2,2}, nproc = 8;
 int sid,vid[3],nn[6],myparity[3];
 double sv[6][3];
 int **lsb;
@@ -90,6 +97,20 @@ double kinEnergy,potEnergy,totEnergy,temperature;
 int stepCount;
 double DeltaTH;    /* Half the time step */
 double Uc, Duc;    /* Potential cut-off parameters */
+struct timer timer_;
+double tm_st, tm_end, tm_diff, tm_max;
+char *transport_method;
+char dim_str[128], glob_str[128], off_str[128];
+//char filename[256];
+int offset;
+
+/* Input data-----------------------------------------------------------
+
+Control data: pmd.in.
+----------------------------------------------------------------------*/
+int64_t fh;     // ADIOS output file handle
+int64_t gh;     // ADIOS group for output definitions
+uint64_t    writetotal=0, totalsize;
 
 /* Input data-----------------------------------------------------------
 

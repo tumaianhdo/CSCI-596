@@ -2,15 +2,27 @@ CC := mpicc
 CXX := mpicxx
 FC := mpif90
 
+override ADIOS_DIR := ${SCRATCH}/software/install/adios
+override ADIOS_INC := $(shell ${ADIOS_DIR}/bin/adios_config -c)
+override ADIOS_LIB := $(shell ${ADIOS_DIR}/bin/adios_config -l)
+
 SOURCES := $(wildcard *.c)
 OBJECTS := $(patsubst %.c, %.o, ${SOURCES})
-EXECS	:= $(patsubst %.c, %, ${SOURCES})
 
-all : ${EXECS}
+all : md pv stage_read_write
 
-%: %.c
-	${CC} $< -o $@ -lm
+md: md.o
+	${CC} -o $@ $^ ${ADIOS_LIB}
+
+pv: pv.o decompose_block.o utils.o
+	${CC} -o $@ $^ ${ADIOS_LIB}
+
+stage_read_write: utils.o decompose_block.o stage_read_write.o
+	${CC} -o $@ $^ ${ADIOS_LIB} -lm
+
+%.o : %.c
+	${CC} ${ADIOS_INC} -c $< -o $@
+
 
 clean:
-	rm -f ${EXECS}
-
+	rm -f md pv stage_read_write *.o

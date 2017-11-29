@@ -5,6 +5,11 @@ pmd.h is an include file for a parallel MD program, pmd.c.
 #include <stdlib.h>
 #include <math.h>
 #include "mpi.h"
+#include "adios.h"
+#include "adios_read.h"
+#include "adios_error.h"
+#include "timer.h"
+#include "decompose.h"
 
 /* Constants------------------------------------------------------------  
 VMAX: Max. velocity value to construct a velocity histogram
@@ -39,6 +44,17 @@ int gid, sid, md;
 FILE *fpv;
 double cpu,comt;
 int stepCount;
+char var[128];
+int vproc[3] = {4}, nproc = 4;
+ADIOS_FILE *f;
+ADIOS_VARINFO * varinfo;
+ADIOS_SELECTION *sel;
+void *data = NULL;
+uint64_t start[10], count[10];
+uint64_t writesize;
+uint64_t datasize;
+struct timer timer_;
+double tm_st, tm_end, tm_diff, tm_max;
 
 /* Input data-----------------------------------------------------------
 
