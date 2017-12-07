@@ -10,7 +10,8 @@ int main(int argc, char **argv) {
   int i, a;
   double cpu1;
 
-  transport_method = argv[1];
+  strncpy(wmethodname,    argv[1], sizeof(wmethodname));
+  strncpy(wmethodparams,  argv[2], sizeof(wmethodparams));
 
   MPI_Init(&argc,&argv); /* Initialize the MPI environment */
   //MPI_Comm_rank(MPI_COMM_WORLD, &sid);  /* My processor ID */
@@ -34,7 +35,7 @@ int main(int argc, char **argv) {
   adios_declare_group(&gh, "md", "", adios_stat_default);
   adios_set_max_buffer_size(10);
   // Select output methods
-  adios_select_method(gh, "DATASPACES", "verbose=4", "");
+  adios_select_method(gh, wmethodname, wmethodparams, "");
 
   /* Vector index of this processor */
   vid[0] = sid/(vproc[1]*vproc[2]);
@@ -50,6 +51,7 @@ int main(int argc, char **argv) {
   compute_accel();
 
   cpu1 = MPI_Wtime();
+
   for (stepCount=1; stepCount<=StepLimit; stepCount++) {
     single_step();
     //if (sid == 0) printf("Done step %d\n",stepCount);
@@ -66,15 +68,15 @@ int main(int argc, char **argv) {
         if (i < sid) offset += nlocal[i];
         nglob += nlocal[i];
       }
-      if (sid == 0) printf("Step = %d nglob = %d\n", stepCount, nglob);
-      printf("Step = %d Rank = %d offset = %d\n",stepCount, sid, offset);
+      //if (sid == 0) printf("Step = %d nglob = %d\n", stepCount, nglob);
+      //printf("Step = %d Rank = %d offset = %d\n",stepCount, sid, offset);
 
       // Send # of atoms n to rank gid-1 in MPI_COMM_WORLD 
       //MPI_Send(&n, 1, MPI_INT, gid - 1, 1000, MPI_COMM_WORLD);
       // Send velocities of n atoms to rank gid-1 in MPI_COMM_WORLD
-
+      printf("Step = %d n = %d\n",stepCount,n);
       dbuf = (double *)malloc(sizeof(double) * 3 * n);
-      if (sid == 0) printf("Reaching\n");
+      //if (sid == 0) printf("Reaching\n");
       for (i = 0; i < n; i++)
         for (a = 0; a < 3; a++)
           dbuf[3*i+a] = rv[i][a];
@@ -119,6 +121,7 @@ int main(int argc, char **argv) {
       //MPI_Barrier(workers);
     }
   }
+  
   cpu = MPI_Wtime() - cpu1;
   //if (sid == 0) printf("CPU & COMT = %le %le\n",cpu,comt);
   if (sid == 0)

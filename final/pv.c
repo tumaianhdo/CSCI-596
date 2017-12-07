@@ -11,6 +11,22 @@ int main(int argc, char **argv) {
   int i, a;
   double cpu1;
 
+  strncpy(rmethodname,    argv[1], sizeof(rmethodname));
+  strncpy(rmethodparams,  argv[2], sizeof(rmethodparams));
+
+  if (!strcmp(rmethodname,"BP")) {
+      read_method = ADIOS_READ_METHOD_BP;
+  } else if (!strcmp(rmethodname,"DATASPACES")) {
+      read_method = ADIOS_READ_METHOD_DATASPACES;
+  } else if (!strcmp(rmethodname,"DIMES")) {
+      read_method = ADIOS_READ_METHOD_DIMES;
+  } else if (!strcmp(rmethodname,"FLEXPATH")) {
+      read_method = ADIOS_READ_METHOD_FLEXPATH;
+  } else {
+      printf("ERROR: Supported read methods are: BP, DATASPACES, DIMES, FLEXPATH. You selected %s\n", rmethodname);
+  }
+  
+
   MPI_Init(&argc,&argv); /* Initialize the MPI environment */
   //MPI_Comm_rank(MPI_COMM_WORLD, &sid);  /* My processor ID */
   MPI_Comm_rank(MPI_COMM_WORLD, &gid);  /* Global processor ID */
@@ -26,35 +42,35 @@ int main(int argc, char **argv) {
   
   if (sid == 0) fpv = fopen("pv.dat","w");
 
-  adios_read_init_method(ADIOS_READ_METHOD_DATASPACES, workers, "verbose=4;poll_interval=100");
-  f = adios_read_open ("staged.bp", ADIOS_READ_METHOD_DATASPACES, workers, 
+  adios_read_init_method(read_method, workers, rmethodparams);
+  f = adios_read_open ("staged.bp", read_method, workers,  
                          ADIOS_LOCKMODE_ALL, 0);
   if (f != NULL) {
    cpu1 = MPI_Wtime();
 
     for (stepCount=StepAvg; stepCount<=StepLimit; stepCount+=StepAvg) {
         tm_st = timer_read(&timer_);
-        printf("Rank = %d Step = %d\n", sid, stepCount);
+        //printf("Rank = %d Step = %d\n", sid, stepCount);
         //sprintf(var, "dbuf_%d", sid);
 
         //varinfo = adios_inq_var (f, var);
         varinfo = adios_inq_var(f, "dbuf");
         if (varinfo) {
-            printf("Rank = %d ndim = %d\n", sid, varinfo->ndim);
-            printf("Rank = %d dims = (", sid);
+            //printf("Rank = %d ndim = %d\n", sid, varinfo->ndim);
+            //printf("Rank = %d dims = (", sid);
             datasize = adios_type_size(varinfo->type, varinfo->value);
             for (i = 0; i < varinfo->ndim; i++) {
                 datasize *= varinfo->dims[i];
-                printf ("%d" , varinfo->dims[i]);
+                /*printf ("%d" , varinfo->dims[i]);
                 if (i != varinfo->ndim - 1) {
                     printf (",");
-                }
+                }*/
             }
-            printf (")\n");
+            //printf (")\n");*/
             data = malloc (datasize);
             decompose (nproc, sid, varinfo->ndim, varinfo->dims, vproc, count, start, &writesize);
             writesize = writesize * adios_type_size(varinfo->type, varinfo->value);
-            printf("Rank = %d offset = (", sid);
+            /*printf("Rank = %d offset = (", sid);
             for (i = 0; i < varinfo->ndim; i++) {
                 printf ("%d" , start[i]);
                 if (i != varinfo->ndim - 1) {
@@ -69,7 +85,7 @@ int main(int argc, char **argv) {
                     printf (",");
                 }
             }
-            printf (")\n");
+            printf (")\n");*/
             sel = adios_selection_boundingbox (varinfo->ndim, start, count);
             adios_schedule_read (f, sel, "dbuf", 0, 1, data);
             adios_perform_reads (f, 1);
@@ -122,7 +138,7 @@ int main(int argc, char **argv) {
     cpu = MPI_Wtime() - cpu1;
   }
 
-  adios_read_finalize_method (ADIOS_READ_METHOD_DATASPACES);
+  adios_read_finalize_method (read_method);
   adios_finalize (sid);
 
   if (sid == 0) fclose(fpv);

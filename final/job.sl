@@ -7,6 +7,7 @@
 ## On the Cray, you need at least 3 nodes for 3 separate application runs
 
 DATASPACES_DIR=$SCRATCH/software/install/dataspaces
+STAGING_METHOD=$1
 
 #RUNCMD="srun -n"
 RUNCMD="mpirun -np"
@@ -19,8 +20,8 @@ READPROC=4
 let "PROCALL=WRITEPROC+READPROC"
 
 # clean-up previous run
-rm -f log.* core* conf dataspaces.conf cred
-rm staged.bp genarray.bp
+rm -f log.* conf dataspaces.conf cred
+rm staged.bp pv.dat
 
 # Prepare config file for DataSpaces
 echo "## Config file for DataSpaces
@@ -33,7 +34,7 @@ lock_type = 2
 
 # Run DataSpaces
 echo "-- Start DataSpaces server "$SERVER" on $STAGINGPROC PEs, -s$STAGINGPROC -c$PROCALL"
-$RUNCMD $STAGINGPROC $SERVER -s$STAGINGPROC -c$PROCALL &> log.server &
+$RUNCMD $STAGINGPROC $SERVER -s$STAGINGPROC -c$PROCALL &> log.server_$STAGING_METHOD &
 
 ## Give some time for the servers to load and startup
 sleep 1s
@@ -52,7 +53,8 @@ echo "-- DataSpaces IDs: P2TNID = $P2TNID   P2TPID = $P2TPID"
 
 # Start STAGE_READ_WRITE
 echo "-- Start MD on $WRITEPROC PEs"
-$RUNCMD $WRITEPROC ./md >& log.md &
+#$RUNCMD $WRITEPROC ./md $STAGING_METHOD "verbose=3" >& log.md_$STAGING_METHOD &
+$RUNCMD $WRITEPROC ./md $STAGING_METHOD "" &
 
 # Start STAGE_READ_WRITE
 #echo "-- Start STAGE_READ_WRITE on $READPROC PEs"
@@ -60,7 +62,8 @@ $RUNCMD $WRITEPROC ./md >& log.md &
 
 # Start STAGE_WRITER
 echo "-- Start PV on $READPROC PEs"
-$RUNCMD $READPROC ./pv >& log.pv &
+#$RUNCMD $READPROC ./pv $STAGING_METHOD "verbose=3" >& log.pv_$STAGING_METHOD &
+$RUNCMD $READPROC ./pv $STAGING_METHOD "" &
 
 echo "-- Wait until all applications exit."
 wait

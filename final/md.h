@@ -3,6 +3,7 @@ pmd.h is an include file for a parallel MD program, pmd.c.
 ----------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <math.h>
 #include "mpi.h"
 #include "timer.h"
@@ -111,6 +112,8 @@ Control data: pmd.in.
 int64_t fh;     // ADIOS output file handle
 int64_t gh;     // ADIOS group for output definitions
 uint64_t    writetotal=0, totalsize;
+char   wmethodname[16];     // ADIOS write method
+char   wmethodparams[256];  // ADIOS write method
 
 /* Input data-----------------------------------------------------------
 
