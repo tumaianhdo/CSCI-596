@@ -1,1 +1,1 @@
-# CSCI-596
+# CSCI-596 Final Project
