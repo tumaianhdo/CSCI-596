@@ -1,0 +1,278 @@
+TIMING_PERF init_dspaces peer 9 time 6.618282
+TIMING_PERF init_dspaces peer 10 time 6.618322
+TIMING_PERF init_dspaces peer 12 time 6.618284
+TIMING_PERF init_dspaces peer 0 time 6.618290
+TIMING_PERF init_dspaces peer 1 time 6.618382
+TIMING_PERF init_dspaces peer 2 time 6.618276
+TIMING_PERF init_dspaces peer 3 time 6.618321
+TIMING_PERF init_dspaces peer 4 time 6.618294
+TIMING_PERF init_dspaces peer 5 time 6.618367
+TIMING_PERF init_dspaces peer 6 time 6.618311
+TIMING_PERF init_dspaces peer 7 time 6.618291
+TIMING_PERF init_dspaces peer 8 time 6.618270
+TIMING_PERF init_dspaces peer 11 time 6.618298
+TIMING_PERF init_dspaces peer 13 time 6.618294
+TIMING_PERF init_dspaces peer 14 time 6.618289
+TIMING_PERF init_dspaces peer 15 time 6.618268
+Timestep=1, 0 read mnd (0,0,0,),(511,511,127,) from space
+Timestep=1, 1 read mnd (512,0,0,),(1023,511,127,) from space
+Timestep=1, 2 read mnd (0,512,0,),(511,1023,127,) from space
+Timestep=1, 3 read mnd (512,512,0,),(1023,1023,127,) from space
+Timestep=1, 4 read mnd (0,0,128,),(511,511,255,) from space
+Timestep=1, 5 read mnd (512,0,128,),(1023,511,255,) from space
+Timestep=1, 6 read mnd (0,512,128,),(511,1023,255,) from space
+Timestep=1, 7 read mnd (512,512,128,),(1023,1023,255,) from space
+Timestep=1, 8 read mnd (0,0,256,),(511,511,383,) from space
+Timestep=1, 9 read mnd (512,0,256,),(1023,511,383,) from space
+Timestep=1, 10 read mnd (0,512,256,),(511,1023,383,) from space
+Timestep=1, 11 read mnd (512,512,256,),(1023,1023,383,) from space
+Timestep=1, 12 read mnd (0,0,384,),(511,511,511,) from space
+Timestep=1, 13 read mnd (512,0,384,),(1023,511,511,) from space
+Timestep=1, 14 read mnd (0,512,384,),(511,1023,511,) from space
+Timestep=1, 15 read mnd (512,512,384,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 1 peer 3 time 0.611706
+TIMING_PERF get_data ts 1 peer 5 time 0.489729
+TIMING_PERF get_data ts 1 peer 9 time 0.586423
+TIMING_PERF get_data ts 1 peer 1 time 0.545966
+TIMING_PERF get_data ts 1 peer 7 time 0.455480
+TIMING_PERF get_data ts 1 peer 11 time 0.550017
+TIMING_PERF get_data ts 1 peer 13 time 0.522669
+TIMING_PERF get_data ts 1 peer 15 time 0.615545
+TIMING_PERF get_data ts 1 peer 2 time 0.457295
+TIMING_PERF get_data ts 1 peer 4 time 0.668016
+TIMING_PERF get_data ts 1 peer 6 time 0.521185
+TIMING_PERF get_data ts 1 peer 10 time 0.646134
+TIMING_PERF get_data ts 1 peer 12 time 0.667519
+TIMING_PERF get_data ts 1 peer 14 time 0.642612
+TIMING_PERF get_data ts 1 peer 0 time 0.487837
+TS= 1 TRANSPORT_TYPE= DIMES read MAX time= 0.668016
+TIMING_PERF get_data ts 1 peer 8 time 0.585725
+check_data(): var= mnd_0, rank= 5, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 7, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 11, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 9, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 3, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 15, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 13, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 1, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 14, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 4, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 2, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 6, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 0, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 10, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 8, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 12, max= 1.000000, min= 1.000000, avg= 1.000000
+Timestep=2, 0 read mnd (0,0,0,),(511,511,127,) from space
+Timestep=2, 1 read mnd (512,0,0,),(1023,511,127,) from space
+Timestep=2, 2 read mnd (0,512,0,),(511,1023,127,) from space
+Timestep=2, 3 read mnd (512,512,0,),(1023,1023,127,) from space
+Timestep=2, 4 read mnd (0,0,128,),(511,511,255,) from space
+Timestep=2, 5 read mnd (512,0,128,),(1023,511,255,) from space
+Timestep=2, 6 read mnd (0,512,128,),(511,1023,255,) from space
+Timestep=2, 7 read mnd (512,512,128,),(1023,1023,255,) from space
+Timestep=2, 8 read mnd (0,0,256,),(511,511,383,) from space
+Timestep=2, 9 read mnd (512,0,256,),(1023,511,383,) from space
+Timestep=2, 10 read mnd (0,512,256,),(511,1023,383,) from space
+Timestep=2, 11 read mnd (512,512,256,),(1023,1023,383,) from space
+Timestep=2, 12 read mnd (0,0,384,),(511,511,511,) from space
+Timestep=2, 13 read mnd (512,0,384,),(1023,511,511,) from space
+Timestep=2, 14 read mnd (0,512,384,),(511,1023,511,) from space
+Timestep=2, 15 read mnd (512,512,384,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 2 peer 0 time 0.594705
+TS= 2 TRANSPORT_TYPE= DIMES read MAX time= 0.594705
+TIMING_PERF get_data ts 2 peer 1 time 0.459661
+TIMING_PERF get_data ts 2 peer 2 time 0.565753
+TIMING_PERF get_data ts 2 peer 3 time 0.566136
+TIMING_PERF get_data ts 2 peer 4 time 0.402988
+TIMING_PERF get_data ts 2 peer 5 time 0.535167
+TIMING_PERF get_data ts 2 peer 6 time 0.433298
+TIMING_PERF get_data ts 2 peer 7 time 0.532622
+TIMING_PERF get_data ts 2 peer 8 time 0.376430
+TIMING_PERF get_data ts 2 peer 9 time 0.594114
+TIMING_PERF get_data ts 2 peer 10 time 0.408289
+TIMING_PERF get_data ts 2 peer 11 time 0.492433
+TIMING_PERF get_data ts 2 peer 12 time 0.494751
+TIMING_PERF get_data ts 2 peer 13 time 0.433883
+TIMING_PERF get_data ts 2 peer 14 time 0.463445
+TIMING_PERF get_data ts 2 peer 15 time 0.376463
+check_data(): var= mnd_0, rank= 1, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 8, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 12, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 13, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 15, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 11, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 4, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 7, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 9, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 6, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 14, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 3, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 2, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 10, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 5, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 0, max= 2.000000, min= 2.000000, avg= 2.000000
+Timestep=3, 0 read mnd (0,0,0,),(511,511,127,) from space
+Timestep=3, 1 read mnd (512,0,0,),(1023,511,127,) from space
+Timestep=3, 2 read mnd (0,512,0,),(511,1023,127,) from space
+Timestep=3, 3 read mnd (512,512,0,),(1023,1023,127,) from space
+Timestep=3, 4 read mnd (0,0,128,),(511,511,255,) from space
+Timestep=3, 5 read mnd (512,0,128,),(1023,511,255,) from space
+Timestep=3, 6 read mnd (0,512,128,),(511,1023,255,) from space
+Timestep=3, 7 read mnd (512,512,128,),(1023,1023,255,) from space
+Timestep=3, 8 read mnd (0,0,256,),(511,511,383,) from space
+Timestep=3, 9 read mnd (512,0,256,),(1023,511,383,) from space
+Timestep=3, 10 read mnd (0,512,256,),(511,1023,383,) from space
+Timestep=3, 11 read mnd (512,512,256,),(1023,1023,383,) from space
+Timestep=3, 12 read mnd (0,0,384,),(511,511,511,) from space
+Timestep=3, 13 read mnd (512,0,384,),(1023,511,511,) from space
+Timestep=3, 14 read mnd (0,512,384,),(511,1023,511,) from space
+Timestep=3, 15 read mnd (512,512,384,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 3 peer 0 time 0.569586
+TS= 3 TRANSPORT_TYPE= DIMES read MAX time= 0.602539
+TIMING_PERF get_data ts 3 peer 1 time 0.421841
+TIMING_PERF get_data ts 3 peer 2 time 0.541783
+TIMING_PERF get_data ts 3 peer 3 time 0.602539
+TIMING_PERF get_data ts 3 peer 4 time 0.510877
+TIMING_PERF get_data ts 3 peer 5 time 0.516541
+TIMING_PERF get_data ts 3 peer 6 time 0.482304
+TIMING_PERF get_data ts 3 peer 7 time 0.451958
+TIMING_PERF get_data ts 3 peer 8 time 0.391994
+TIMING_PERF get_data ts 3 peer 9 time 0.570401
+TIMING_PERF get_data ts 3 peer 10 time 0.599080
+TIMING_PERF get_data ts 3 peer 11 time 0.541809
+TIMING_PERF get_data ts 3 peer 12 time 0.477444
+TIMING_PERF get_data ts 3 peer 13 time 0.388323
+TIMING_PERF get_data ts 3 peer 14 time 0.417382
+TIMING_PERF get_data ts 3 peer 15 time 0.451170
+check_data(): var= mnd_0, rank= 12, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 0, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 13, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 14, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 9, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 2, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 10, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 11, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 4, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 15, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 1, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 8, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 7, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 6, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 3, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 5, max= 3.000000, min= 3.000000, avg= 3.000000
+Timestep=4, 0 read mnd (0,0,0,),(511,511,127,) from space
+Timestep=4, 1 read mnd (512,0,0,),(1023,511,127,) from space
+Timestep=4, 2 read mnd (0,512,0,),(511,1023,127,) from space
+Timestep=4, 3 read mnd (512,512,0,),(1023,1023,127,) from space
+Timestep=4, 4 read mnd (0,0,128,),(511,511,255,) from space
+Timestep=4, 5 read mnd (512,0,128,),(1023,511,255,) from space
+Timestep=4, 6 read mnd (0,512,128,),(511,1023,255,) from space
+Timestep=4, 7 read mnd (512,512,128,),(1023,1023,255,) from space
+Timestep=4, 8 read mnd (0,0,256,),(511,511,383,) from space
+Timestep=4, 9 read mnd (512,0,256,),(1023,511,383,) from space
+Timestep=4, 10 read mnd (0,512,256,),(511,1023,383,) from space
+Timestep=4, 11 read mnd (512,512,256,),(1023,1023,383,) from space
+Timestep=4, 12 read mnd (0,0,384,),(511,511,511,) from space
+Timestep=4, 13 read mnd (512,0,384,),(1023,511,511,) from space
+Timestep=4, 14 read mnd (0,512,384,),(511,1023,511,) from space
+Timestep=4, 15 read mnd (512,512,384,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 4 peer 0 time 0.612366
+TS= 4 TRANSPORT_TYPE= DIMES read MAX time= 0.612366
+TIMING_PERF get_data ts 4 peer 1 time 0.448907
+TIMING_PERF get_data ts 4 peer 2 time 0.479051
+TIMING_PERF get_data ts 4 peer 3 time 0.453659
+TIMING_PERF get_data ts 4 peer 4 time 0.517510
+TIMING_PERF get_data ts 4 peer 5 time 0.517473
+TIMING_PERF get_data ts 4 peer 6 time 0.488183
+TIMING_PERF get_data ts 4 peer 7 time 0.584067
+TIMING_PERF get_data ts 4 peer 8 time 0.415242
+TIMING_PERF get_data ts 4 peer 9 time 0.585800
+TIMING_PERF get_data ts 4 peer 10 time 0.416505
+TIMING_PERF get_data ts 4 peer 11 time 0.378873
+TIMING_PERF get_data ts 4 peer 12 time 0.609257
+TIMING_PERF get_data ts 4 peer 13 time 0.557534
+TIMING_PERF get_data ts 4 peer 14 time 0.554835
+TIMING_PERF get_data ts 4 peer 15 time 0.378394
+check_data(): var= mnd_0, rank= 11, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 8, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 1, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 15, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 14, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 12, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 2, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 7, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 5, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 0, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 4, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 9, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 10, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 6, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 13, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 3, max= 4.000000, min= 4.000000, avg= 4.000000
+Timestep=5, 0 read mnd (0,0,0,),(511,511,127,) from space
+Timestep=5, 1 read mnd (512,0,0,),(1023,511,127,) from space
+Timestep=5, 2 read mnd (0,512,0,),(511,1023,127,) from space
+Timestep=5, 3 read mnd (512,512,0,),(1023,1023,127,) from space
+Timestep=5, 4 read mnd (0,0,128,),(511,511,255,) from space
+Timestep=5, 5 read mnd (512,0,128,),(1023,511,255,) from space
+Timestep=5, 6 read mnd (0,512,128,),(511,1023,255,) from space
+Timestep=5, 7 read mnd (512,512,128,),(1023,1023,255,) from space
+Timestep=5, 8 read mnd (0,0,256,),(511,511,383,) from space
+Timestep=5, 9 read mnd (512,0,256,),(1023,511,383,) from space
+Timestep=5, 10 read mnd (0,512,256,),(511,1023,383,) from space
+Timestep=5, 11 read mnd (512,512,256,),(1023,1023,383,) from space
+Timestep=5, 12 read mnd (0,0,384,),(511,511,511,) from space
+Timestep=5, 13 read mnd (512,0,384,),(1023,511,511,) from space
+Timestep=5, 14 read mnd (0,512,384,),(511,1023,511,) from space
+Timestep=5, 15 read mnd (512,512,384,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 5 peer 0 time 0.597615
+TS= 5 TRANSPORT_TYPE= DIMES read MAX time= 0.597949
+TIMING_PERF get_data ts 5 peer 1 time 0.400305
+TIMING_PERF get_data ts 5 peer 2 time 0.462196
+TIMING_PERF get_data ts 5 peer 3 time 0.467899
+TIMING_PERF get_data ts 5 peer 4 time 0.571860
+TIMING_PERF get_data ts 5 peer 5 time 0.501730
+TIMING_PERF get_data ts 5 peer 6 time 0.371435
+TIMING_PERF get_data ts 5 peer 7 time 0.508787
+TIMING_PERF get_data ts 5 peer 8 time 0.401000
+TIMING_PERF get_data ts 5 peer 9 time 0.543518
+TIMING_PERF get_data ts 5 peer 10 time 0.597949
+TIMING_PERF get_data ts 5 peer 11 time 0.435579
+TIMING_PERF get_data ts 5 peer 12 time 0.567247
+TIMING_PERF get_data ts 5 peer 13 time 0.372092
+TIMING_PERF get_data ts 5 peer 14 time 0.537169
+TIMING_PERF get_data ts 5 peer 15 time 0.435671
+check_data(): var= mnd_0, rank= 3, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 1, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 6, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 8, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 13, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 2, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 5, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 14, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 0, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 12, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 10, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 15, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 11, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 4, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 9, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 7, max= 5.000000, min= 5.000000, avg= 5.000000
+test_get_run(): done
+TIMING_PERF fini_dspaces peer 0 time= 0.144107
+TIMING_PERF fini_dspaces peer 1 time= 0.144106
+TIMING_PERF fini_dspaces peer 2 time= 0.144106
+TIMING_PERF fini_dspaces peer 3 time= 0.144105
+TIMING_PERF fini_dspaces peer 4 time= 0.144106
+TIMING_PERF fini_dspaces peer 5 time= 0.144106
+TIMING_PERF fini_dspaces peer 6 time= 0.144106
+TIMING_PERF fini_dspaces peer 7 time= 0.144104
+TIMING_PERF fini_dspaces peer 8 time= 0.144106
+TIMING_PERF fini_dspaces peer 9 time= 0.144105
+TIMING_PERF fini_dspaces peer 10 time= 0.144105
+TIMING_PERF fini_dspaces peer 11 time= 0.144105
+TIMING_PERF fini_dspaces peer 12 time= 0.144105
+TIMING_PERF fini_dspaces peer 13 time= 0.144105
+TIMING_PERF fini_dspaces peer 14 time= 0.144105
+TIMING_PERF fini_dspaces peer 15 time= 0.144105

@@ -1,0 +1,380 @@
+TIMING_PERF init_dspaces peer 0 time 5.860203
+TIMING_PERF init_dspaces peer 1 time 5.860217
+TIMING_PERF init_dspaces peer 2 time 5.860218
+TIMING_PERF init_dspaces peer 3 time 5.860216
+Timestep=1, 0 read mnd (0,0,0,),(511,511,1023,) from space
+Timestep=1, 1 read mnd (512,0,0,),(1023,511,1023,) from space
+Timestep=1, 2 read mnd (0,512,0,),(511,1023,1023,) from space
+Timestep=1, 3 read mnd (512,512,0,),(1023,1023,1023,) from space
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 7 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 6 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 5 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 4 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 3 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 2 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 1 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 0 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 7 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 6 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 5 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 4 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 3 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 2 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 1 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 0 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 7 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 6 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 5 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 4 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 3 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 2 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 1 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 0 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 7 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 6 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 5 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 4 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 3 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 2 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 1 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 0 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+TIMING_PERF get_data ts 1 peer 1 time 0.223494
+TIMING_PERF get_data ts 1 peer 3 time 0.215322
+TIMING_PERF get_data ts 1 peer 0 time 0.218874
+TS= 1 TRANSPORT_TYPE= DIMES read MAX time= 0.223494
+TIMING_PERF get_data ts 1 peer 2 time 0.221432
+check_data(): var= mnd_0, rank= 3, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 3, ts= 1, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 1, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 1, ts= 1, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 0, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 0, ts= 1, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 2, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 2, ts= 1, error elem cnt= 268435455, total elem= 268435456
+Timestep=2, 0 read mnd (0,0,0,),(511,511,1023,) from space
+Timestep=2, 1 read mnd (512,0,0,),(1023,511,1023,) from space
+Timestep=2, 2 read mnd (0,512,0,),(511,1023,1023,) from space
+Timestep=2, 3 read mnd (512,512,0,),(1023,1023,1023,) from space
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 15 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 14 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 13 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 12 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 11 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 10 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 9 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 8 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 15 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 14 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 13 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 12 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 11 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 10 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 9 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 8 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 15 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 14 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 13 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 12 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 11 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 10 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 9 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 8 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 15 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 14 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 13 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 12 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 11 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 10 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 9 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 8 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+TIMING_PERF get_data ts 2 peer 1 time 0.190479
+TIMING_PERF get_data ts 2 peer 2 time 0.186508
+TIMING_PERF get_data ts 2 peer 3 time 0.189873
+TIMING_PERF get_data ts 2 peer 0 time 0.190371
+TS= 2 TRANSPORT_TYPE= DIMES read MAX time= 0.190479
+check_data(): var= mnd_0, rank= 3, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 3, ts= 2, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 1, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 1, ts= 2, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 2, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 2, ts= 2, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 0, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 0, ts= 2, error elem cnt= 268435455, total elem= 268435456
+Timestep=3, 0 read mnd (0,0,0,),(511,511,1023,) from space
+Timestep=3, 1 read mnd (512,0,0,),(1023,511,1023,) from space
+Timestep=3, 2 read mnd (0,512,0,),(511,1023,1023,) from space
+Timestep=3, 3 read mnd (512,512,0,),(1023,1023,1023,) from space
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 23 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 22 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 21 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 20 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 19 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 18 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 17 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 16 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 23 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 22 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 21 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 20 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 19 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 18 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 17 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 16 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 23 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 22 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 21 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 20 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 19 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 18 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 17 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 16 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 23 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 22 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 21 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 20 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 19 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 18 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 17 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 16 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+TIMING_PERF get_data ts 3 peer 1 time 0.190735
+TIMING_PERF get_data ts 3 peer 2 time 0.190808
+TIMING_PERF get_data ts 3 peer 3 time 0.189506
+TIMING_PERF get_data ts 3 peer 0 time 0.183052
+TS= 3 TRANSPORT_TYPE= DIMES read MAX time= 0.190808
+check_data(): var= mnd_0, rank= 2, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 2, ts= 3, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 0, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 0, ts= 3, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 1, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 1, ts= 3, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 3, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 3, ts= 3, error elem cnt= 268435455, total elem= 268435456
+Timestep=4, 0 read mnd (0,0,0,),(511,511,1023,) from space
+Timestep=4, 1 read mnd (512,0,0,),(1023,511,1023,) from space
+Timestep=4, 2 read mnd (0,512,0,),(511,1023,1023,) from space
+Timestep=4, 3 read mnd (512,512,0,),(1023,1023,1023,) from space
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 31 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 30 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 29 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 28 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 27 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 26 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 25 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 24 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 31 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 30 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 29 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 28 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 27 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 26 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 25 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 24 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 31 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 30 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 29 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 28 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 27 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 26 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 25 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 24 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 31 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 30 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 29 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 28 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 27 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 26 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 25 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 24 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+TIMING_PERF get_data ts 4 peer 0 time 0.175538
+TIMING_PERF get_data ts 4 peer 1 time 0.180581
+TIMING_PERF get_data ts 4 peer 3 time 0.180116
+TS= 4 TRANSPORT_TYPE= DIMES read MAX time= 0.180581
+TIMING_PERF get_data ts 4 peer 2 time 0.171332
+check_data(): var= mnd_0, rank= 2, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 2, ts= 4, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 1, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 1, ts= 4, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 0, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 0, ts= 4, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 3, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 3, ts= 4, error elem cnt= 268435455, total elem= 268435456
+Timestep=5, 0 read mnd (0,0,0,),(511,511,1023,) from space
+Timestep=5, 1 read mnd (512,0,0,),(1023,511,1023,) from space
+Timestep=5, 2 read mnd (0,512,0,),(511,1023,1023,) from space
+Timestep=5, 3 read mnd (512,512,0,),(1023,1023,1023,) from space
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+dimes_memory_alloc(): ERROR: no sufficient RDMA memory for caching data with 268435456 bytes. Suggested fix: increase the value of '--with-dimes-rdma-buffer-size' at configuration.
+'get_next_fetch()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 39 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 38 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 37 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 36 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 35 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 34 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 33 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 32 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 39 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 38 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 37 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 36 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 35 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 34 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 33 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 32 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 39 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 38 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 37 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 36 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 35 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 34 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 33 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 32 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+'dimes_fetch_data()': failed with -1.
+common_dart_rdma_delete_tran(): dart tran with id= 39 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 38 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 37 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 36 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 35 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 34 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 33 not complete!
+common_dart_rdma_delete_tran(): dart tran with id= 32 not complete!
+'dimes_obj_get()': failed with -1.
+'dimes_client_get()': failed with -1.
+TIMING_PERF get_data ts 5 peer 1 time 0.189075
+TIMING_PERF get_data ts 5 peer 2 time 0.189708
+TIMING_PERF get_data ts 5 peer 3 time 0.185985
+TIMING_PERF get_data ts 5 peer 0 time 0.186213
+TS= 5 TRANSPORT_TYPE= DIMES read MAX time= 0.189708
+check_data(): var= mnd_0, rank= 1, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 1, ts= 5, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 0, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 0, ts= 5, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 3, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 3, ts= 5, error elem cnt= 268435455, total elem= 268435456
+check_data(): var= mnd_0, rank= 2, max= 0.000000, min= 0.000000, avg= 0.000000
+check_data(): var= mnd_0, rank= 2, ts= 5, error elem cnt= 268435455, total elem= 268435456
+test_get_run(): done
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 5 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 3 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 1 (cancelled 0) at line 200 in file req_management.c
+Warning: outstanding_tx_reqs out of sync: 2 (cancelled 0) at line 200 in file req_management.c
+TIMING_PERF fini_dspaces peer 0 time= 0.060544
+TIMING_PERF fini_dspaces peer 1 time= 0.060542
+TIMING_PERF fini_dspaces peer 2 time= 0.060540
+TIMING_PERF fini_dspaces peer 3 time= 0.060540

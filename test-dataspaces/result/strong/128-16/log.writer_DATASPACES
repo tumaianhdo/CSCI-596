@@ -1,0 +1,1542 @@
+TIMING_PERF init_dspaces peer 6 time 6.122695
+TIMING_PERF init_dspaces peer 15 time 6.122715
+TIMING_PERF init_dspaces peer 20 time 6.122862
+TIMING_PERF init_dspaces peer 22 time 6.122906
+TIMING_PERF init_dspaces peer 25 time 6.122839
+TIMING_PERF init_dspaces peer 27 time 6.122703
+TIMING_PERF init_dspaces peer 30 time 6.122910
+TIMING_PERF init_dspaces peer 35 time 6.122631
+TIMING_PERF init_dspaces peer 38 time 6.122839
+TIMING_PERF init_dspaces peer 39 time 6.122963
+TIMING_PERF init_dspaces peer 41 time 6.122792
+TIMING_PERF init_dspaces peer 46 time 6.123017
+TIMING_PERF init_dspaces peer 48 time 6.122727
+TIMING_PERF init_dspaces peer 49 time 6.122854
+TIMING_PERF init_dspaces peer 54 time 6.122649
+TIMING_PERF init_dspaces peer 60 time 6.122750
+TIMING_PERF init_dspaces peer 61 time 6.122828
+TIMING_PERF init_dspaces peer 0 time 6.123024
+TIMING_PERF init_dspaces peer 1 time 6.122679
+TIMING_PERF init_dspaces peer 2 time 6.122875
+TIMING_PERF init_dspaces peer 3 time 6.122823
+TIMING_PERF init_dspaces peer 4 time 6.122725
+TIMING_PERF init_dspaces peer 5 time 6.122773
+TIMING_PERF init_dspaces peer 7 time 6.122930
+TIMING_PERF init_dspaces peer 8 time 6.122736
+TIMING_PERF init_dspaces peer 9 time 6.122895
+TIMING_PERF init_dspaces peer 10 time 6.122849
+TIMING_PERF init_dspaces peer 11 time 6.122718
+TIMING_PERF init_dspaces peer 12 time 6.122932
+TIMING_PERF init_dspaces peer 13 time 6.122630
+TIMING_PERF init_dspaces peer 14 time 6.122752
+TIMING_PERF init_dspaces peer 16 time 6.122771
+TIMING_PERF init_dspaces peer 17 time 6.122836
+TIMING_PERF init_dspaces peer 18 time 6.122752
+TIMING_PERF init_dspaces peer 19 time 6.122688
+TIMING_PERF init_dspaces peer 21 time 6.122943
+TIMING_PERF init_dspaces peer 23 time 6.122729
+TIMING_PERF init_dspaces peer 24 time 6.122848
+TIMING_PERF init_dspaces peer 26 time 6.122779
+TIMING_PERF init_dspaces peer 28 time 6.123010
+TIMING_PERF init_dspaces peer 29 time 6.122530
+TIMING_PERF init_dspaces peer 31 time 6.122714
+TIMING_PERF init_dspaces peer 32 time 6.122940
+TIMING_PERF init_dspaces peer 33 time 6.122768
+TIMING_PERF init_dspaces peer 34 time 6.122997
+TIMING_PERF init_dspaces peer 36 time 6.122676
+TIMING_PERF init_dspaces peer 37 time 6.122700
+TIMING_PERF init_dspaces peer 40 time 6.122694
+TIMING_PERF init_dspaces peer 42 time 6.123032
+TIMING_PERF init_dspaces peer 43 time 6.122853
+TIMING_PERF init_dspaces peer 44 time 6.122821
+TIMING_PERF init_dspaces peer 45 time 6.122815
+TIMING_PERF init_dspaces peer 47 time 6.122791
+TIMING_PERF init_dspaces peer 50 time 6.122614
+TIMING_PERF init_dspaces peer 51 time 6.122637
+TIMING_PERF init_dspaces peer 52 time 6.122734
+TIMING_PERF init_dspaces peer 53 time 6.122672
+TIMING_PERF init_dspaces peer 55 time 6.122649
+TIMING_PERF init_dspaces peer 56 time 6.122653
+TIMING_PERF init_dspaces peer 57 time 6.122813
+TIMING_PERF init_dspaces peer 58 time 6.122836
+TIMING_PERF init_dspaces peer 59 time 6.122661
+TIMING_PERF init_dspaces peer 62 time 6.122820
+TIMING_PERF init_dspaces peer 63 time 6.122929
+TIMING_PERF init_dspaces peer 79 time 6.122793
+Timestep=1, 0 write mnd (0,0,0,),(127,255,255,) into space
+Timestep=1, 1 write mnd (128,0,0,),(255,255,255,) into space
+Timestep=1, 2 write mnd (256,0,0,),(383,255,255,) into space
+Timestep=1, 3 write mnd (384,0,0,),(511,255,255,) into space
+Timestep=1, 4 write mnd (512,0,0,),(639,255,255,) into space
+Timestep=1, 5 write mnd (640,0,0,),(767,255,255,) into space
+Timestep=1, 6 write mnd (768,0,0,),(895,255,255,) into space
+Timestep=1, 7 write mnd (896,0,0,),(1023,255,255,) into space
+Timestep=1, 8 write mnd (0,256,0,),(127,511,255,) into space
+Timestep=1, 9 write mnd (128,256,0,),(255,511,255,) into space
+Timestep=1, 10 write mnd (256,256,0,),(383,511,255,) into space
+Timestep=1, 11 write mnd (384,256,0,),(511,511,255,) into space
+Timestep=1, 12 write mnd (512,256,0,),(639,511,255,) into space
+Timestep=1, 13 write mnd (640,256,0,),(767,511,255,) into space
+Timestep=1, 14 write mnd (768,256,0,),(895,511,255,) into space
+Timestep=1, 15 write mnd (896,256,0,),(1023,511,255,) into space
+Timestep=1, 16 write mnd (0,512,0,),(127,767,255,) into space
+Timestep=1, 17 write mnd (128,512,0,),(255,767,255,) into space
+Timestep=1, 18 write mnd (256,512,0,),(383,767,255,) into space
+Timestep=1, 19 write mnd (384,512,0,),(511,767,255,) into space
+Timestep=1, 20 write mnd (512,512,0,),(639,767,255,) into space
+Timestep=1, 21 write mnd (640,512,0,),(767,767,255,) into space
+Timestep=1, 22 write mnd (768,512,0,),(895,767,255,) into space
+Timestep=1, 23 write mnd (896,512,0,),(1023,767,255,) into space
+Timestep=1, 24 write mnd (0,768,0,),(127,1023,255,) into space
+Timestep=1, 25 write mnd (128,768,0,),(255,1023,255,) into space
+Timestep=1, 26 write mnd (256,768,0,),(383,1023,255,) into space
+Timestep=1, 27 write mnd (384,768,0,),(511,1023,255,) into space
+Timestep=1, 28 write mnd (512,768,0,),(639,1023,255,) into space
+Timestep=1, 29 write mnd (640,768,0,),(767,1023,255,) into space
+Timestep=1, 30 write mnd (768,768,0,),(895,1023,255,) into space
+Timestep=1, 31 write mnd (896,768,0,),(1023,1023,255,) into space
+Timestep=1, 32 write mnd (0,0,256,),(127,255,511,) into space
+Timestep=1, 33 write mnd (128,0,256,),(255,255,511,) into space
+Timestep=1, 34 write mnd (256,0,256,),(383,255,511,) into space
+Timestep=1, 35 write mnd (384,0,256,),(511,255,511,) into space
+Timestep=1, 36 write mnd (512,0,256,),(639,255,511,) into space
+Timestep=1, 37 write mnd (640,0,256,),(767,255,511,) into space
+Timestep=1, 38 write mnd (768,0,256,),(895,255,511,) into space
+Timestep=1, 39 write mnd (896,0,256,),(1023,255,511,) into space
+Timestep=1, 40 write mnd (0,256,256,),(127,511,511,) into space
+Timestep=1, 41 write mnd (128,256,256,),(255,511,511,) into space
+Timestep=1, 42 write mnd (256,256,256,),(383,511,511,) into space
+Timestep=1, 43 write mnd (384,256,256,),(511,511,511,) into space
+Timestep=1, 44 write mnd (512,256,256,),(639,511,511,) into space
+Timestep=1, 45 write mnd (640,256,256,),(767,511,511,) into space
+Timestep=1, 46 write mnd (768,256,256,),(895,511,511,) into space
+Timestep=1, 47 write mnd (896,256,256,),(1023,511,511,) into space
+Timestep=1, 48 write mnd (0,512,256,),(127,767,511,) into space
+Timestep=1, 49 write mnd (128,512,256,),(255,767,511,) into space
+Timestep=1, 50 write mnd (256,512,256,),(383,767,511,) into space
+Timestep=1, 51 write mnd (384,512,256,),(511,767,511,) into space
+Timestep=1, 52 write mnd (512,512,256,),(639,767,511,) into space
+Timestep=1, 53 write mnd (640,512,256,),(767,767,511,) into space
+Timestep=1, 54 write mnd (768,512,256,),(895,767,511,) into space
+Timestep=1, 55 write mnd (896,512,256,),(1023,767,511,) into space
+Timestep=1, 56 write mnd (0,768,256,),(127,1023,511,) into space
+Timestep=1, 57 write mnd (128,768,256,),(255,1023,511,) into space
+Timestep=1, 58 write mnd (256,768,256,),(383,1023,511,) into space
+Timestep=1, 59 write mnd (384,768,256,),(511,1023,511,) into space
+Timestep=1, 60 write mnd (512,768,256,),(639,1023,511,) into space
+Timestep=1, 61 write mnd (640,768,256,),(767,1023,511,) into space
+Timestep=1, 62 write mnd (768,768,256,),(895,1023,511,) into space
+Timestep=1, 63 write mnd (896,768,256,),(1023,1023,511,) into space
+TIMING_PERF init_dspaces peer 89 time 6.122640
+TIMING_PERF init_dspaces peer 90 time 6.122639
+TIMING_PERF init_dspaces peer 94 time 6.122496
+TIMING_PERF init_dspaces peer 98 time 6.122658
+TIMING_PERF init_dspaces peer 103 time 6.122640
+TIMING_PERF init_dspaces peer 111 time 6.122576
+TIMING_PERF init_dspaces peer 64 time 6.122555
+TIMING_PERF init_dspaces peer 65 time 6.122619
+TIMING_PERF init_dspaces peer 66 time 6.122722
+TIMING_PERF init_dspaces peer 67 time 6.122694
+TIMING_PERF init_dspaces peer 68 time 6.122680
+TIMING_PERF init_dspaces peer 69 time 6.122831
+TIMING_PERF init_dspaces peer 70 time 6.122741
+TIMING_PERF init_dspaces peer 72 time 6.122621
+TIMING_PERF init_dspaces peer 73 time 6.122609
+TIMING_PERF init_dspaces peer 74 time 6.122524
+TIMING_PERF init_dspaces peer 75 time 6.122654
+TIMING_PERF init_dspaces peer 76 time 6.122520
+TIMING_PERF init_dspaces peer 77 time 6.122622
+TIMING_PERF init_dspaces peer 78 time 6.122628
+TIMING_PERF init_dspaces peer 81 time 6.122761
+TIMING_PERF init_dspaces peer 82 time 6.122567
+TIMING_PERF init_dspaces peer 83 time 6.122659
+TIMING_PERF init_dspaces peer 84 time 6.122746
+TIMING_PERF init_dspaces peer 86 time 6.122618
+TIMING_PERF init_dspaces peer 87 time 6.122712
+TIMING_PERF init_dspaces peer 88 time 6.122512
+TIMING_PERF init_dspaces peer 95 time 6.122606
+TIMING_PERF init_dspaces peer 96 time 6.122632
+TIMING_PERF init_dspaces peer 99 time 6.122746
+TIMING_PERF init_dspaces peer 100 time 6.122645
+TIMING_PERF init_dspaces peer 101 time 6.122794
+TIMING_PERF init_dspaces peer 102 time 6.122759
+TIMING_PERF init_dspaces peer 104 time 6.122706
+TIMING_PERF init_dspaces peer 105 time 6.122758
+TIMING_PERF init_dspaces peer 107 time 6.122600
+TIMING_PERF init_dspaces peer 108 time 6.122609
+TIMING_PERF init_dspaces peer 109 time 6.122773
+TIMING_PERF init_dspaces peer 110 time 6.122495
+TIMING_PERF init_dspaces peer 112 time 6.122839
+TIMING_PERF init_dspaces peer 113 time 6.122642
+TIMING_PERF init_dspaces peer 114 time 6.122763
+TIMING_PERF init_dspaces peer 115 time 6.122660
+TIMING_PERF init_dspaces peer 116 time 6.122635
+TIMING_PERF init_dspaces peer 117 time 6.122747
+TIMING_PERF init_dspaces peer 118 time 6.122767
+TIMING_PERF init_dspaces peer 119 time 6.122598
+TIMING_PERF init_dspaces peer 120 time 6.122620
+TIMING_PERF init_dspaces peer 121 time 6.122753
+TIMING_PERF init_dspaces peer 122 time 6.122648
+TIMING_PERF init_dspaces peer 123 time 6.122597
+TIMING_PERF init_dspaces peer 124 time 6.122745
+TIMING_PERF init_dspaces peer 125 time 6.122821
+TIMING_PERF init_dspaces peer 126 time 6.122700
+TIMING_PERF init_dspaces peer 71 time 6.122641
+TIMING_PERF init_dspaces peer 80 time 6.122661
+TIMING_PERF init_dspaces peer 85 time 6.122571
+TIMING_PERF init_dspaces peer 91 time 6.122720
+TIMING_PERF init_dspaces peer 92 time 6.122516
+TIMING_PERF init_dspaces peer 93 time 6.122668
+TIMING_PERF init_dspaces peer 106 time 6.122736
+TIMING_PERF init_dspaces peer 127 time 6.122601
+TIMING_PERF init_dspaces peer 97 time 6.122766
+Timestep=1, 64 write mnd (0,0,512,),(127,255,767,) into space
+Timestep=1, 65 write mnd (128,0,512,),(255,255,767,) into space
+Timestep=1, 66 write mnd (256,0,512,),(383,255,767,) into space
+Timestep=1, 67 write mnd (384,0,512,),(511,255,767,) into space
+Timestep=1, 68 write mnd (512,0,512,),(639,255,767,) into space
+Timestep=1, 69 write mnd (640,0,512,),(767,255,767,) into space
+Timestep=1, 70 write mnd (768,0,512,),(895,255,767,) into space
+Timestep=1, 71 write mnd (896,0,512,),(1023,255,767,) into space
+Timestep=1, 72 write mnd (0,256,512,),(127,511,767,) into space
+Timestep=1, 73 write mnd (128,256,512,),(255,511,767,) into space
+Timestep=1, 74 write mnd (256,256,512,),(383,511,767,) into space
+Timestep=1, 75 write mnd (384,256,512,),(511,511,767,) into space
+Timestep=1, 76 write mnd (512,256,512,),(639,511,767,) into space
+Timestep=1, 77 write mnd (640,256,512,),(767,511,767,) into space
+Timestep=1, 78 write mnd (768,256,512,),(895,511,767,) into space
+Timestep=1, 79 write mnd (896,256,512,),(1023,511,767,) into space
+Timestep=1, 80 write mnd (0,512,512,),(127,767,767,) into space
+Timestep=1, 81 write mnd (128,512,512,),(255,767,767,) into space
+Timestep=1, 82 write mnd (256,512,512,),(383,767,767,) into space
+Timestep=1, 83 write mnd (384,512,512,),(511,767,767,) into space
+Timestep=1, 84 write mnd (512,512,512,),(639,767,767,) into space
+Timestep=1, 85 write mnd (640,512,512,),(767,767,767,) into space
+Timestep=1, 86 write mnd (768,512,512,),(895,767,767,) into space
+Timestep=1, 87 write mnd (896,512,512,),(1023,767,767,) into space
+Timestep=1, 88 write mnd (0,768,512,),(127,1023,767,) into space
+Timestep=1, 89 write mnd (128,768,512,),(255,1023,767,) into space
+Timestep=1, 90 write mnd (256,768,512,),(383,1023,767,) into space
+Timestep=1, 91 write mnd (384,768,512,),(511,1023,767,) into space
+Timestep=1, 92 write mnd (512,768,512,),(639,1023,767,) into space
+Timestep=1, 93 write mnd (640,768,512,),(767,1023,767,) into space
+Timestep=1, 94 write mnd (768,768,512,),(895,1023,767,) into space
+Timestep=1, 95 write mnd (896,768,512,),(1023,1023,767,) into space
+Timestep=1, 96 write mnd (0,0,768,),(127,255,1023,) into space
+Timestep=1, 97 write mnd (128,0,768,),(255,255,1023,) into space
+Timestep=1, 98 write mnd (256,0,768,),(383,255,1023,) into space
+Timestep=1, 99 write mnd (384,0,768,),(511,255,1023,) into space
+Timestep=1, 100 write mnd (512,0,768,),(639,255,1023,) into space
+Timestep=1, 101 write mnd (640,0,768,),(767,255,1023,) into space
+Timestep=1, 102 write mnd (768,0,768,),(895,255,1023,) into space
+Timestep=1, 103 write mnd (896,0,768,),(1023,255,1023,) into space
+Timestep=1, 104 write mnd (0,256,768,),(127,511,1023,) into space
+Timestep=1, 105 write mnd (128,256,768,),(255,511,1023,) into space
+Timestep=1, 106 write mnd (256,256,768,),(383,511,1023,) into space
+Timestep=1, 107 write mnd (384,256,768,),(511,511,1023,) into space
+Timestep=1, 108 write mnd (512,256,768,),(639,511,1023,) into space
+Timestep=1, 109 write mnd (640,256,768,),(767,511,1023,) into space
+Timestep=1, 110 write mnd (768,256,768,),(895,511,1023,) into space
+Timestep=1, 111 write mnd (896,256,768,),(1023,511,1023,) into space
+Timestep=1, 112 write mnd (0,512,768,),(127,767,1023,) into space
+Timestep=1, 113 write mnd (128,512,768,),(255,767,1023,) into space
+Timestep=1, 114 write mnd (256,512,768,),(383,767,1023,) into space
+Timestep=1, 115 write mnd (384,512,768,),(511,767,1023,) into space
+Timestep=1, 116 write mnd (512,512,768,),(639,767,1023,) into space
+Timestep=1, 117 write mnd (640,512,768,),(767,767,1023,) into space
+Timestep=1, 118 write mnd (768,512,768,),(895,767,1023,) into space
+Timestep=1, 119 write mnd (896,512,768,),(1023,767,1023,) into space
+Timestep=1, 120 write mnd (0,768,768,),(127,1023,1023,) into space
+Timestep=1, 121 write mnd (128,768,768,),(255,1023,1023,) into space
+Timestep=1, 122 write mnd (256,768,768,),(383,1023,1023,) into space
+Timestep=1, 123 write mnd (384,768,768,),(511,1023,1023,) into space
+Timestep=1, 124 write mnd (512,768,768,),(639,1023,1023,) into space
+Timestep=1, 125 write mnd (640,768,768,),(767,1023,1023,) into space
+Timestep=1, 126 write mnd (768,768,768,),(895,1023,1023,) into space
+Timestep=1, 127 write mnd (896,768,768,),(1023,1023,1023,) into space
+TIMING_PERF put_data ts 1 peer 1 time 1.191973
+TIMING_PERF put_data ts 1 peer 97 time 0.390646
+TIMING_PERF put_data ts 1 peer 109 time 0.253889
+TIMING_PERF put_data ts 1 peer 3 time 1.151477
+TIMING_PERF put_data ts 1 peer 111 time 0.186943
+TIMING_PERF put_data ts 1 peer 19 time 1.009533
+TIMING_PERF put_data ts 1 peer 113 time 0.723284
+TIMING_PERF put_data ts 1 peer 21 time 0.888710
+TIMING_PERF put_data ts 1 peer 115 time 0.639929
+TIMING_PERF put_data ts 1 peer 23 time 0.908826
+TIMING_PERF put_data ts 1 peer 119 time 0.495169
+TIMING_PERF put_data ts 1 peer 27 time 0.949116
+TIMING_PERF put_data ts 1 peer 121 time 0.618907
+TIMING_PERF put_data ts 1 peer 31 time 1.131253
+TIMING_PERF put_data ts 1 peer 123 time 0.322401
+TIMING_PERF put_data ts 1 peer 41 time 1.311584
+TIMING_PERF put_data ts 1 peer 125 time 0.764996
+TIMING_PERF put_data ts 1 peer 43 time 1.110962
+TIMING_PERF put_data ts 1 peer 65 time 0.834141
+TIMING_PERF put_data ts 1 peer 53 time 1.391346
+TIMING_PERF put_data ts 1 peer 67 time 0.812729
+TIMING_PERF put_data ts 1 peer 57 time 1.272203
+TIMING_PERF put_data ts 1 peer 69 time 0.556761
+TIMING_PERF put_data ts 1 peer 59 time 1.350590
+TIMING_PERF put_data ts 1 peer 71 time 0.744218
+TIMING_PERF put_data ts 1 peer 5 time 1.070574
+TIMING_PERF put_data ts 1 peer 73 time 0.454270
+TIMING_PERF put_data ts 1 peer 7 time 1.292075
+TIMING_PERF put_data ts 1 peer 75 time 0.345267
+TIMING_PERF put_data ts 1 peer 9 time 1.371730
+TIMING_PERF put_data ts 1 peer 77 time 0.515684
+TIMING_PERF put_data ts 1 peer 11 time 1.409534
+TIMING_PERF put_data ts 1 peer 79 time 0.577159
+TIMING_PERF put_data ts 1 peer 81 time 0.276609
+TIMING_PERF put_data ts 1 peer 13 time 1.446756
+TIMING_PERF put_data ts 1 peer 15 time 1.466875
+TIMING_PERF put_data ts 1 peer 83 time 0.208802
+TIMING_PERF put_data ts 1 peer 17 time 1.171833
+TIMING_PERF put_data ts 1 peer 25 time 0.968964
+TIMING_PERF put_data ts 1 peer 85 time 0.660889
+TIMING_PERF put_data ts 1 peer 87 time 0.536131
+TIMING_PERF put_data ts 1 peer 29 time 1.212009
+TIMING_PERF put_data ts 1 peer 89 time 0.413136
+TIMING_PERF put_data ts 1 peer 33 time 0.849120
+TIMING_PERF put_data ts 1 peer 91 time 0.367756
+TIMING_PERF put_data ts 1 peer 35 time 0.929118
+TIMING_PERF put_data ts 1 peer 93 time 0.433659
+TIMING_PERF put_data ts 1 peer 37 time 0.868085
+TIMING_PERF put_data ts 1 peer 95 time 0.475085
+TIMING_PERF put_data ts 1 peer 39 time 1.028724
+TIMING_PERF put_data ts 1 peer 99 time 0.299178
+TIMING_PERF put_data ts 1 peer 103 time 0.681610
+TIMING_PERF put_data ts 1 peer 45 time 1.050629
+TIMING_PERF put_data ts 1 peer 105 time 0.230500
+TIMING_PERF put_data ts 1 peer 47 time 0.988826
+TIMING_PERF put_data ts 1 peer 107 time 0.167195
+TIMING_PERF put_data ts 1 peer 49 time 1.090714
+TIMING_PERF put_data ts 1 peer 117 time 0.597910
+TIMING_PERF put_data ts 1 peer 51 time 1.426429
+TIMING_PERF put_data ts 1 peer 127 time 0.785884
+TIMING_PERF put_data ts 1 peer 55 time 1.331067
+TIMING_PERF put_data ts 1 peer 61 time 1.232188
+TIMING_PERF put_data ts 1 peer 63 time 1.252709
+TIMING_PERF put_data ts 1 peer 6 time 0.306523
+TIMING_PERF put_data ts 1 peer 36 time 0.243252
+TIMING_PERF put_data ts 1 peer 38 time 0.285057
+TIMING_PERF put_data ts 1 peer 50 time 0.688637
+TIMING_PERF put_data ts 1 peer 54 time 0.748759
+TIMING_PERF put_data ts 1 peer 2 time 0.223981
+TIMING_PERF put_data ts 1 peer 4 time 0.528860
+TIMING_PERF put_data ts 1 peer 8 time 0.587424
+TIMING_PERF put_data ts 1 peer 10 time 0.768619
+TIMING_PERF put_data ts 1 peer 12 time 0.470318
+TIMING_PERF put_data ts 1 peer 14 time 0.628231
+TIMING_PERF put_data ts 1 peer 28 time 0.509186
+TIMING_PERF put_data ts 1 peer 30 time 0.264089
+TIMING_PERF put_data ts 1 peer 44 time 0.431624
+TIMING_PERF put_data ts 1 peer 46 time 0.450845
+TIMING_PERF put_data ts 1 peer 56 time 0.668628
+TIMING_PERF put_data ts 1 peer 58 time 0.648215
+TIMING_PERF put_data ts 1 peer 60 time 0.708719
+TIMING_PERF put_data ts 1 peer 62 time 0.567759
+TIMING_PERF put_data ts 1 peer 0 time 0.391797
+TS= 1 TRANSPORT_TYPE= DATASPACES write MAX time= 1.466875
+TIMING_PERF put_data ts 1 peer 16 time 0.548170
+TIMING_PERF put_data ts 1 peer 18 time 0.489552
+TIMING_PERF put_data ts 1 peer 20 time 0.328360
+TIMING_PERF put_data ts 1 peer 22 time 0.164213
+TIMING_PERF put_data ts 1 peer 24 time 0.607523
+TIMING_PERF put_data ts 1 peer 26 time 0.370606
+TIMING_PERF put_data ts 1 peer 32 time 0.184893
+TIMING_PERF put_data ts 1 peer 34 time 0.204561
+TIMING_PERF put_data ts 1 peer 40 time 0.349587
+TIMING_PERF put_data ts 1 peer 42 time 0.412828
+TIMING_PERF put_data ts 1 peer 48 time 0.728856
+TIMING_PERF put_data ts 1 peer 52 time 0.788810
+TIMING_PERF put_data ts 1 peer 64 time 1.330101
+TIMING_PERF put_data ts 1 peer 66 time 1.292094
+TIMING_PERF put_data ts 1 peer 68 time 1.406905
+TIMING_PERF put_data ts 1 peer 70 time 1.369986
+TIMING_PERF put_data ts 1 peer 72 time 1.349198
+TIMING_PERF put_data ts 1 peer 74 time 1.389112
+TIMING_PERF put_data ts 1 peer 76 time 1.272610
+TIMING_PERF put_data ts 1 peer 78 time 1.311268
+TIMING_PERF put_data ts 1 peer 80 time 1.135941
+TIMING_PERF put_data ts 1 peer 82 time 0.960944
+TIMING_PERF put_data ts 1 peer 84 time 1.057715
+TIMING_PERF put_data ts 1 peer 86 time 0.903822
+TIMING_PERF put_data ts 1 peer 88 time 1.155685
+TIMING_PERF put_data ts 1 peer 90 time 1.077418
+TIMING_PERF put_data ts 1 peer 92 time 0.922446
+TIMING_PERF put_data ts 1 peer 94 time 1.018447
+TIMING_PERF put_data ts 1 peer 96 time 1.037770
+TIMING_PERF put_data ts 1 peer 98 time 0.814229
+TIMING_PERF put_data ts 1 peer 100 time 0.941659
+TIMING_PERF put_data ts 1 peer 101 time 0.702485
+TIMING_PERF put_data ts 1 peer 102 time 0.979666
+TIMING_PERF put_data ts 1 peer 104 time 0.834312
+TIMING_PERF put_data ts 1 peer 106 time 0.848700
+TIMING_PERF put_data ts 1 peer 108 time 0.864359
+TIMING_PERF put_data ts 1 peer 110 time 0.885077
+TIMING_PERF put_data ts 1 peer 112 time 1.253663
+TIMING_PERF put_data ts 1 peer 114 time 1.233773
+TIMING_PERF put_data ts 1 peer 116 time 1.214370
+TIMING_PERF put_data ts 1 peer 118 time 1.194680
+TIMING_PERF put_data ts 1 peer 120 time 1.097185
+TIMING_PERF put_data ts 1 peer 122 time 0.998661
+TIMING_PERF put_data ts 1 peer 124 time 1.175222
+TIMING_PERF put_data ts 1 peer 126 time 1.116512
+Timestep=2, 0 write mnd (0,0,0,),(127,255,255,) into space
+Timestep=2, 64 write mnd (0,0,512,),(127,255,767,) into space
+Timestep=2, 65 write mnd (128,0,512,),(255,255,767,) into space
+Timestep=2, 1 write mnd (128,0,0,),(255,255,255,) into space
+Timestep=2, 66 write mnd (256,0,512,),(383,255,767,) into space
+Timestep=2, 2 write mnd (256,0,0,),(383,255,255,) into space
+Timestep=2, 67 write mnd (384,0,512,),(511,255,767,) into space
+Timestep=2, 3 write mnd (384,0,0,),(511,255,255,) into space
+Timestep=2, 68 write mnd (512,0,512,),(639,255,767,) into space
+Timestep=2, 4 write mnd (512,0,0,),(639,255,255,) into space
+Timestep=2, 69 write mnd (640,0,512,),(767,255,767,) into space
+Timestep=2, 5 write mnd (640,0,0,),(767,255,255,) into space
+Timestep=2, 70 write mnd (768,0,512,),(895,255,767,) into space
+Timestep=2, 6 write mnd (768,0,0,),(895,255,255,) into space
+Timestep=2, 7 write mnd (896,0,0,),(1023,255,255,) into space
+Timestep=2, 71 write mnd (896,0,512,),(1023,255,767,) into space
+Timestep=2, 72 write mnd (0,256,512,),(127,511,767,) into space
+Timestep=2, 8 write mnd (0,256,0,),(127,511,255,) into space
+Timestep=2, 73 write mnd (128,256,512,),(255,511,767,) into space
+Timestep=2, 9 write mnd (128,256,0,),(255,511,255,) into space
+Timestep=2, 74 write mnd (256,256,512,),(383,511,767,) into space
+Timestep=2, 10 write mnd (256,256,0,),(383,511,255,) into space
+Timestep=2, 75 write mnd (384,256,512,),(511,511,767,) into space
+Timestep=2, 11 write mnd (384,256,0,),(511,511,255,) into space
+Timestep=2, 76 write mnd (512,256,512,),(639,511,767,) into space
+Timestep=2, 12 write mnd (512,256,0,),(639,511,255,) into space
+Timestep=2, 13 write mnd (640,256,0,),(767,511,255,) into space
+Timestep=2, 77 write mnd (640,256,512,),(767,511,767,) into space
+Timestep=2, 14 write mnd (768,256,0,),(895,511,255,) into space
+Timestep=2, 78 write mnd (768,256,512,),(895,511,767,) into space
+Timestep=2, 15 write mnd (896,256,0,),(1023,511,255,) into space
+Timestep=2, 79 write mnd (896,256,512,),(1023,511,767,) into space
+Timestep=2, 16 write mnd (0,512,0,),(127,767,255,) into space
+Timestep=2, 80 write mnd (0,512,512,),(127,767,767,) into space
+Timestep=2, 17 write mnd (128,512,0,),(255,767,255,) into space
+Timestep=2, 81 write mnd (128,512,512,),(255,767,767,) into space
+Timestep=2, 18 write mnd (256,512,0,),(383,767,255,) into space
+Timestep=2, 82 write mnd (256,512,512,),(383,767,767,) into space
+Timestep=2, 19 write mnd (384,512,0,),(511,767,255,) into space
+Timestep=2, 83 write mnd (384,512,512,),(511,767,767,) into space
+Timestep=2, 20 write mnd (512,512,0,),(639,767,255,) into space
+Timestep=2, 84 write mnd (512,512,512,),(639,767,767,) into space
+Timestep=2, 21 write mnd (640,512,0,),(767,767,255,) into space
+Timestep=2, 85 write mnd (640,512,512,),(767,767,767,) into space
+Timestep=2, 22 write mnd (768,512,0,),(895,767,255,) into space
+Timestep=2, 86 write mnd (768,512,512,),(895,767,767,) into space
+Timestep=2, 23 write mnd (896,512,0,),(1023,767,255,) into space
+Timestep=2, 87 write mnd (896,512,512,),(1023,767,767,) into space
+Timestep=2, 24 write mnd (0,768,0,),(127,1023,255,) into space
+Timestep=2, 25 write mnd (128,768,0,),(255,1023,255,) into space
+Timestep=2, 88 write mnd (0,768,512,),(127,1023,767,) into space
+Timestep=2, 26 write mnd (256,768,0,),(383,1023,255,) into space
+Timestep=2, 89 write mnd (128,768,512,),(255,1023,767,) into space
+Timestep=2, 27 write mnd (384,768,0,),(511,1023,255,) into space
+Timestep=2, 90 write mnd (256,768,512,),(383,1023,767,) into space
+Timestep=2, 28 write mnd (512,768,0,),(639,1023,255,) into space
+Timestep=2, 91 write mnd (384,768,512,),(511,1023,767,) into space
+Timestep=2, 29 write mnd (640,768,0,),(767,1023,255,) into space
+Timestep=2, 92 write mnd (512,768,512,),(639,1023,767,) into space
+Timestep=2, 30 write mnd (768,768,0,),(895,1023,255,) into space
+Timestep=2, 93 write mnd (640,768,512,),(767,1023,767,) into space
+Timestep=2, 31 write mnd (896,768,0,),(1023,1023,255,) into space
+Timestep=2, 94 write mnd (768,768,512,),(895,1023,767,) into space
+Timestep=2, 32 write mnd (0,0,256,),(127,255,511,) into space
+Timestep=2, 95 write mnd (896,768,512,),(1023,1023,767,) into space
+Timestep=2, 33 write mnd (128,0,256,),(255,255,511,) into space
+Timestep=2, 96 write mnd (0,0,768,),(127,255,1023,) into space
+Timestep=2, 34 write mnd (256,0,256,),(383,255,511,) into space
+Timestep=2, 97 write mnd (128,0,768,),(255,255,1023,) into space
+Timestep=2, 35 write mnd (384,0,256,),(511,255,511,) into space
+Timestep=2, 98 write mnd (256,0,768,),(383,255,1023,) into space
+Timestep=2, 36 write mnd (512,0,256,),(639,255,511,) into space
+Timestep=2, 99 write mnd (384,0,768,),(511,255,1023,) into space
+Timestep=2, 37 write mnd (640,0,256,),(767,255,511,) into space
+Timestep=2, 100 write mnd (512,0,768,),(639,255,1023,) into space
+Timestep=2, 38 write mnd (768,0,256,),(895,255,511,) into space
+Timestep=2, 39 write mnd (896,0,256,),(1023,255,511,) into space
+Timestep=2, 101 write mnd (640,0,768,),(767,255,1023,) into space
+Timestep=2, 40 write mnd (0,256,256,),(127,511,511,) into space
+Timestep=2, 102 write mnd (768,0,768,),(895,255,1023,) into space
+Timestep=2, 41 write mnd (128,256,256,),(255,511,511,) into space
+Timestep=2, 103 write mnd (896,0,768,),(1023,255,1023,) into space
+Timestep=2, 42 write mnd (256,256,256,),(383,511,511,) into space
+Timestep=2, 104 write mnd (0,256,768,),(127,511,1023,) into space
+Timestep=2, 43 write mnd (384,256,256,),(511,511,511,) into space
+Timestep=2, 105 write mnd (128,256,768,),(255,511,1023,) into space
+Timestep=2, 44 write mnd (512,256,256,),(639,511,511,) into space
+Timestep=2, 106 write mnd (256,256,768,),(383,511,1023,) into space
+Timestep=2, 45 write mnd (640,256,256,),(767,511,511,) into space
+Timestep=2, 107 write mnd (384,256,768,),(511,511,1023,) into space
+Timestep=2, 46 write mnd (768,256,256,),(895,511,511,) into space
+Timestep=2, 108 write mnd (512,256,768,),(639,511,1023,) into space
+Timestep=2, 47 write mnd (896,256,256,),(1023,511,511,) into space
+Timestep=2, 109 write mnd (640,256,768,),(767,511,1023,) into space
+Timestep=2, 48 write mnd (0,512,256,),(127,767,511,) into space
+Timestep=2, 110 write mnd (768,256,768,),(895,511,1023,) into space
+Timestep=2, 49 write mnd (128,512,256,),(255,767,511,) into space
+Timestep=2, 111 write mnd (896,256,768,),(1023,511,1023,) into space
+Timestep=2, 50 write mnd (256,512,256,),(383,767,511,) into space
+Timestep=2, 51 write mnd (384,512,256,),(511,767,511,) into space
+Timestep=2, 112 write mnd (0,512,768,),(127,767,1023,) into space
+Timestep=2, 52 write mnd (512,512,256,),(639,767,511,) into space
+Timestep=2, 113 write mnd (128,512,768,),(255,767,1023,) into space
+Timestep=2, 53 write mnd (640,512,256,),(767,767,511,) into space
+Timestep=2, 114 write mnd (256,512,768,),(383,767,1023,) into space
+Timestep=2, 54 write mnd (768,512,256,),(895,767,511,) into space
+Timestep=2, 115 write mnd (384,512,768,),(511,767,1023,) into space
+Timestep=2, 55 write mnd (896,512,256,),(1023,767,511,) into space
+Timestep=2, 116 write mnd (512,512,768,),(639,767,1023,) into space
+Timestep=2, 56 write mnd (0,768,256,),(127,1023,511,) into space
+Timestep=2, 117 write mnd (640,512,768,),(767,767,1023,) into space
+Timestep=2, 57 write mnd (128,768,256,),(255,1023,511,) into space
+Timestep=2, 118 write mnd (768,512,768,),(895,767,1023,) into space
+Timestep=2, 58 write mnd (256,768,256,),(383,1023,511,) into space
+Timestep=2, 119 write mnd (896,512,768,),(1023,767,1023,) into space
+Timestep=2, 59 write mnd (384,768,256,),(511,1023,511,) into space
+Timestep=2, 120 write mnd (0,768,768,),(127,1023,1023,) into space
+Timestep=2, 60 write mnd (512,768,256,),(639,1023,511,) into space
+Timestep=2, 121 write mnd (128,768,768,),(255,1023,1023,) into space
+Timestep=2, 61 write mnd (640,768,256,),(767,1023,511,) into space
+Timestep=2, 122 write mnd (256,768,768,),(383,1023,1023,) into space
+Timestep=2, 62 write mnd (768,768,256,),(895,1023,511,) into space
+Timestep=2, 123 write mnd (384,768,768,),(511,1023,1023,) into space
+Timestep=2, 63 write mnd (896,768,256,),(1023,1023,511,) into space
+Timestep=2, 124 write mnd (512,768,768,),(639,1023,1023,) into space
+Timestep=2, 125 write mnd (640,768,768,),(767,1023,1023,) into space
+Timestep=2, 126 write mnd (768,768,768,),(895,1023,1023,) into space
+Timestep=2, 127 write mnd (896,768,768,),(1023,1023,1023,) into space
+TIMING_PERF put_data ts 2 peer 65 time 0.862105
+TIMING_PERF put_data ts 2 peer 66 time 1.350268
+TIMING_PERF put_data ts 2 peer 67 time 0.837904
+TIMING_PERF put_data ts 2 peer 68 time 1.434188
+TIMING_PERF put_data ts 2 peer 69 time 0.710079
+TIMING_PERF put_data ts 2 peer 1 time 1.320871
+TIMING_PERF put_data ts 2 peer 70 time 1.371312
+TIMING_PERF put_data ts 2 peer 2 time 0.221281
+TIMING_PERF put_data ts 2 peer 71 time 0.817046
+TIMING_PERF put_data ts 2 peer 3 time 1.152903
+TIMING_PERF put_data ts 2 peer 72 time 1.455351
+TIMING_PERF put_data ts 2 peer 4 time 0.686628
+TIMING_PERF put_data ts 2 peer 73 time 0.645478
+TIMING_PERF put_data ts 2 peer 5 time 1.342453
+TIMING_PERF put_data ts 2 peer 74 time 1.476183
+TIMING_PERF put_data ts 2 peer 6 time 0.493781
+TIMING_PERF put_data ts 2 peer 75 time 0.469898
+TIMING_PERF put_data ts 2 peer 7 time 1.472943
+TIMING_PERF put_data ts 2 peer 8 time 0.729388
+TIMING_PERF put_data ts 2 peer 76 time 1.266939
+TIMING_PERF put_data ts 2 peer 9 time 1.495005
+TIMING_PERF put_data ts 2 peer 77 time 0.774323
+TIMING_PERF put_data ts 2 peer 10 time 0.812758
+TIMING_PERF put_data ts 2 peer 78 time 1.413257
+TIMING_PERF put_data ts 2 peer 11 time 1.407857
+TIMING_PERF put_data ts 2 peer 79 time 0.795857
+TIMING_PERF put_data ts 2 peer 80 time 1.104781
+TIMING_PERF put_data ts 2 peer 12 time 0.558091
+TIMING_PERF put_data ts 2 peer 81 time 0.731887
+TIMING_PERF put_data ts 2 peer 13 time 1.429526
+TIMING_PERF put_data ts 2 peer 82 time 0.895045
+TIMING_PERF put_data ts 2 peer 14 time 0.707971
+TIMING_PERF put_data ts 2 peer 83 time 0.667288
+TIMING_PERF put_data ts 2 peer 15 time 1.534900
+TIMING_PERF put_data ts 2 peer 16 time 0.310881
+TIMING_PERF put_data ts 2 peer 84 time 1.084070
+TIMING_PERF put_data ts 2 peer 17 time 1.256609
+TIMING_PERF put_data ts 2 peer 18 time 0.513899
+TIMING_PERF put_data ts 2 peer 85 time 0.444941
+TIMING_PERF put_data ts 2 peer 19 time 0.985829
+TIMING_PERF put_data ts 2 peer 86 time 0.937332
+TIMING_PERF put_data ts 2 peer 20 time 0.622191
+TIMING_PERF put_data ts 2 peer 87 time 0.301376
+TIMING_PERF put_data ts 2 peer 21 time 1.027860
+TIMING_PERF put_data ts 2 peer 88 time 1.226384
+TIMING_PERF put_data ts 2 peer 22 time 0.401861
+TIMING_PERF put_data ts 2 peer 89 time 0.254195
+TIMING_PERF put_data ts 2 peer 90 time 1.144897
+TIMING_PERF put_data ts 2 peer 23 time 1.173865
+TIMING_PERF put_data ts 2 peer 91 time 0.421812
+TIMING_PERF put_data ts 2 peer 24 time 0.600949
+TIMING_PERF put_data ts 2 peer 92 time 1.022174
+TIMING_PERF put_data ts 2 peer 25 time 1.006767
+TIMING_PERF put_data ts 2 peer 93 time 0.538954
+TIMING_PERF put_data ts 2 peer 26 time 0.243568
+TIMING_PERF put_data ts 2 peer 94 time 0.979807
+TIMING_PERF put_data ts 2 peer 95 time 0.350500
+TIMING_PERF put_data ts 2 peer 27 time 1.090506
+TIMING_PERF put_data ts 2 peer 101 time 0.560442
+TIMING_PERF put_data ts 2 peer 28 time 0.470837
+TIMING_PERF put_data ts 2 peer 103 time 0.207793
+TIMING_PERF put_data ts 2 peer 29 time 1.111307
+TIMING_PERF put_data ts 2 peer 105 time 0.279166
+TIMING_PERF put_data ts 2 peer 107 time 0.162051
+TIMING_PERF put_data ts 2 peer 30 time 0.201533
+TIMING_PERF put_data ts 2 peer 110 time 0.857487
+TIMING_PERF put_data ts 2 peer 31 time 1.236323
+TIMING_PERF put_data ts 2 peer 111 time 0.182917
+TIMING_PERF put_data ts 2 peer 37 time 0.901675
+TIMING_PERF put_data ts 2 peer 114 time 1.308515
+TIMING_PERF put_data ts 2 peer 115 time 0.624378
+TIMING_PERF put_data ts 2 peer 39 time 1.069790
+TIMING_PERF put_data ts 2 peer 121 time 0.603231
+TIMING_PERF put_data ts 2 peer 43 time 0.922684
+TIMING_PERF put_data ts 2 peer 125 time 0.687955
+TIMING_PERF put_data ts 2 peer 50 time 0.750368
+TIMING_PERF put_data ts 2 peer 127 time 0.581593
+TIMING_PERF put_data ts 2 peer 100 time 1.063429
+TIMING_PERF put_data ts 2 peer 51 time 1.513004
+TIMING_PERF put_data ts 2 peer 102 time 1.206330
+TIMING_PERF put_data ts 2 peer 57 time 1.214987
+TIMING_PERF put_data ts 2 peer 106 time 1.165342
+TIMING_PERF put_data ts 2 peer 59 time 1.299076
+TIMING_PERF put_data ts 2 peer 109 time 0.230594
+TIMING_PERF put_data ts 2 peer 113 time 0.753310
+TIMING_PERF put_data ts 2 peer 32 time 0.334661
+TIMING_PERF put_data ts 2 peer 117 time 0.493947
+TIMING_PERF put_data ts 2 peer 33 time 0.880766
+TIMING_PERF put_data ts 2 peer 118 time 1.185869
+TIMING_PERF put_data ts 2 peer 34 time 0.158652
+TIMING_PERF put_data ts 2 peer 119 time 0.516915
+TIMING_PERF put_data ts 2 peer 35 time 0.943725
+TIMING_PERF put_data ts 2 peer 122 time 1.000869
+TIMING_PERF put_data ts 2 peer 123 time 0.327840
+TIMING_PERF put_data ts 2 peer 36 time 0.288325
+TIMING_PERF put_data ts 2 peer 126 time 1.329567
+TIMING_PERF put_data ts 2 peer 38 time 0.425152
+TIMING_PERF put_data ts 2 peer 40 time 0.265987
+TIMING_PERF put_data ts 2 peer 41 time 1.048836
+TIMING_PERF put_data ts 2 peer 42 time 0.380315
+TIMING_PERF put_data ts 2 peer 44 time 0.177822
+TIMING_PERF put_data ts 2 peer 45 time 1.132217
+TIMING_PERF put_data ts 2 peer 46 time 0.356831
+TIMING_PERF put_data ts 2 peer 47 time 0.964605
+TIMING_PERF put_data ts 2 peer 48 time 0.792009
+TIMING_PERF put_data ts 2 peer 49 time 1.194523
+TIMING_PERF put_data ts 2 peer 52 time 0.833376
+TIMING_PERF put_data ts 2 peer 53 time 1.451035
+TIMING_PERF put_data ts 2 peer 54 time 0.579895
+TIMING_PERF put_data ts 2 peer 55 time 1.386026
+TIMING_PERF put_data ts 2 peer 56 time 0.665017
+TIMING_PERF put_data ts 2 peer 58 time 0.536614
+TIMING_PERF put_data ts 2 peer 60 time 0.771315
+TIMING_PERF put_data ts 2 peer 61 time 1.277718
+TIMING_PERF put_data ts 2 peer 62 time 0.643282
+TIMING_PERF put_data ts 2 peer 63 time 1.364157
+TIMING_PERF put_data ts 2 peer 0 time 0.447750
+TS= 2 TRANSPORT_TYPE= DATASPACES write MAX time= 1.534900
+TIMING_PERF put_data ts 2 peer 64 time 1.497873
+TIMING_PERF put_data ts 2 peer 96 time 0.958423
+TIMING_PERF put_data ts 2 peer 97 time 0.374697
+TIMING_PERF put_data ts 2 peer 98 time 0.874576
+TIMING_PERF put_data ts 2 peer 99 time 0.397453
+TIMING_PERF put_data ts 2 peer 104 time 1.042598
+TIMING_PERF put_data ts 2 peer 108 time 0.916131
+TIMING_PERF put_data ts 2 peer 112 time 1.392422
+TIMING_PERF put_data ts 2 peer 116 time 1.246913
+TIMING_PERF put_data ts 2 peer 120 time 1.124758
+TIMING_PERF put_data ts 2 peer 124 time 1.287848
+Timestep=3, 0 write mnd (0,0,0,),(127,255,255,) into space
+Timestep=3, 64 write mnd (0,0,512,),(127,255,767,) into space
+Timestep=3, 1 write mnd (128,0,0,),(255,255,255,) into space
+Timestep=3, 65 write mnd (128,0,512,),(255,255,767,) into space
+Timestep=3, 66 write mnd (256,0,512,),(383,255,767,) into space
+Timestep=3, 2 write mnd (256,0,0,),(383,255,255,) into space
+Timestep=3, 67 write mnd (384,0,512,),(511,255,767,) into space
+Timestep=3, 3 write mnd (384,0,0,),(511,255,255,) into space
+Timestep=3, 68 write mnd (512,0,512,),(639,255,767,) into space
+Timestep=3, 4 write mnd (512,0,0,),(639,255,255,) into space
+Timestep=3, 69 write mnd (640,0,512,),(767,255,767,) into space
+Timestep=3, 5 write mnd (640,0,0,),(767,255,255,) into space
+Timestep=3, 70 write mnd (768,0,512,),(895,255,767,) into space
+Timestep=3, 6 write mnd (768,0,0,),(895,255,255,) into space
+Timestep=3, 71 write mnd (896,0,512,),(1023,255,767,) into space
+Timestep=3, 7 write mnd (896,0,0,),(1023,255,255,) into space
+Timestep=3, 72 write mnd (0,256,512,),(127,511,767,) into space
+Timestep=3, 8 write mnd (0,256,0,),(127,511,255,) into space
+Timestep=3, 73 write mnd (128,256,512,),(255,511,767,) into space
+Timestep=3, 9 write mnd (128,256,0,),(255,511,255,) into space
+Timestep=3, 74 write mnd (256,256,512,),(383,511,767,) into space
+Timestep=3, 10 write mnd (256,256,0,),(383,511,255,) into space
+Timestep=3, 75 write mnd (384,256,512,),(511,511,767,) into space
+Timestep=3, 11 write mnd (384,256,0,),(511,511,255,) into space
+Timestep=3, 76 write mnd (512,256,512,),(639,511,767,) into space
+Timestep=3, 12 write mnd (512,256,0,),(639,511,255,) into space
+Timestep=3, 77 write mnd (640,256,512,),(767,511,767,) into space
+Timestep=3, 13 write mnd (640,256,0,),(767,511,255,) into space
+Timestep=3, 14 write mnd (768,256,0,),(895,511,255,) into space
+Timestep=3, 78 write mnd (768,256,512,),(895,511,767,) into space
+Timestep=3, 79 write mnd (896,256,512,),(1023,511,767,) into space
+Timestep=3, 15 write mnd (896,256,0,),(1023,511,255,) into space
+Timestep=3, 80 write mnd (0,512,512,),(127,767,767,) into space
+Timestep=3, 16 write mnd (0,512,0,),(127,767,255,) into space
+Timestep=3, 81 write mnd (128,512,512,),(255,767,767,) into space
+Timestep=3, 82 write mnd (256,512,512,),(383,767,767,) into space
+Timestep=3, 17 write mnd (128,512,0,),(255,767,255,) into space
+Timestep=3, 18 write mnd (256,512,0,),(383,767,255,) into space
+Timestep=3, 83 write mnd (384,512,512,),(511,767,767,) into space
+Timestep=3, 19 write mnd (384,512,0,),(511,767,255,) into space
+Timestep=3, 20 write mnd (512,512,0,),(639,767,255,) into space
+Timestep=3, 84 write mnd (512,512,512,),(639,767,767,) into space
+Timestep=3, 21 write mnd (640,512,0,),(767,767,255,) into space
+Timestep=3, 85 write mnd (640,512,512,),(767,767,767,) into space
+Timestep=3, 22 write mnd (768,512,0,),(895,767,255,) into space
+Timestep=3, 86 write mnd (768,512,512,),(895,767,767,) into space
+Timestep=3, 23 write mnd (896,512,0,),(1023,767,255,) into space
+Timestep=3, 87 write mnd (896,512,512,),(1023,767,767,) into space
+Timestep=3, 24 write mnd (0,768,0,),(127,1023,255,) into space
+Timestep=3, 88 write mnd (0,768,512,),(127,1023,767,) into space
+Timestep=3, 25 write mnd (128,768,0,),(255,1023,255,) into space
+Timestep=3, 89 write mnd (128,768,512,),(255,1023,767,) into space
+Timestep=3, 26 write mnd (256,768,0,),(383,1023,255,) into space
+Timestep=3, 27 write mnd (384,768,0,),(511,1023,255,) into space
+Timestep=3, 90 write mnd (256,768,512,),(383,1023,767,) into space
+Timestep=3, 28 write mnd (512,768,0,),(639,1023,255,) into space
+Timestep=3, 91 write mnd (384,768,512,),(511,1023,767,) into space
+Timestep=3, 29 write mnd (640,768,0,),(767,1023,255,) into space
+Timestep=3, 92 write mnd (512,768,512,),(639,1023,767,) into space
+Timestep=3, 30 write mnd (768,768,0,),(895,1023,255,) into space
+Timestep=3, 93 write mnd (640,768,512,),(767,1023,767,) into space
+Timestep=3, 31 write mnd (896,768,0,),(1023,1023,255,) into space
+Timestep=3, 94 write mnd (768,768,512,),(895,1023,767,) into space
+Timestep=3, 32 write mnd (0,0,256,),(127,255,511,) into space
+Timestep=3, 95 write mnd (896,768,512,),(1023,1023,767,) into space
+Timestep=3, 33 write mnd (128,0,256,),(255,255,511,) into space
+Timestep=3, 96 write mnd (0,0,768,),(127,255,1023,) into space
+Timestep=3, 97 write mnd (128,0,768,),(255,255,1023,) into space
+Timestep=3, 34 write mnd (256,0,256,),(383,255,511,) into space
+Timestep=3, 35 write mnd (384,0,256,),(511,255,511,) into space
+Timestep=3, 98 write mnd (256,0,768,),(383,255,1023,) into space
+Timestep=3, 36 write mnd (512,0,256,),(639,255,511,) into space
+Timestep=3, 99 write mnd (384,0,768,),(511,255,1023,) into space
+Timestep=3, 37 write mnd (640,0,256,),(767,255,511,) into space
+Timestep=3, 38 write mnd (768,0,256,),(895,255,511,) into space
+Timestep=3, 100 write mnd (512,0,768,),(639,255,1023,) into space
+Timestep=3, 101 write mnd (640,0,768,),(767,255,1023,) into space
+Timestep=3, 39 write mnd (896,0,256,),(1023,255,511,) into space
+Timestep=3, 40 write mnd (0,256,256,),(127,511,511,) into space
+Timestep=3, 102 write mnd (768,0,768,),(895,255,1023,) into space
+Timestep=3, 41 write mnd (128,256,256,),(255,511,511,) into space
+Timestep=3, 103 write mnd (896,0,768,),(1023,255,1023,) into space
+Timestep=3, 42 write mnd (256,256,256,),(383,511,511,) into space
+Timestep=3, 104 write mnd (0,256,768,),(127,511,1023,) into space
+Timestep=3, 43 write mnd (384,256,256,),(511,511,511,) into space
+Timestep=3, 105 write mnd (128,256,768,),(255,511,1023,) into space
+Timestep=3, 44 write mnd (512,256,256,),(639,511,511,) into space
+Timestep=3, 106 write mnd (256,256,768,),(383,511,1023,) into space
+Timestep=3, 45 write mnd (640,256,256,),(767,511,511,) into space
+Timestep=3, 107 write mnd (384,256,768,),(511,511,1023,) into space
+Timestep=3, 46 write mnd (768,256,256,),(895,511,511,) into space
+Timestep=3, 108 write mnd (512,256,768,),(639,511,1023,) into space
+Timestep=3, 109 write mnd (640,256,768,),(767,511,1023,) into space
+Timestep=3, 47 write mnd (896,256,256,),(1023,511,511,) into space
+Timestep=3, 48 write mnd (0,512,256,),(127,767,511,) into space
+Timestep=3, 110 write mnd (768,256,768,),(895,511,1023,) into space
+Timestep=3, 49 write mnd (128,512,256,),(255,767,511,) into space
+Timestep=3, 111 write mnd (896,256,768,),(1023,511,1023,) into space
+Timestep=3, 50 write mnd (256,512,256,),(383,767,511,) into space
+Timestep=3, 112 write mnd (0,512,768,),(127,767,1023,) into space
+Timestep=3, 51 write mnd (384,512,256,),(511,767,511,) into space
+Timestep=3, 113 write mnd (128,512,768,),(255,767,1023,) into space
+Timestep=3, 52 write mnd (512,512,256,),(639,767,511,) into space
+Timestep=3, 114 write mnd (256,512,768,),(383,767,1023,) into space
+Timestep=3, 53 write mnd (640,512,256,),(767,767,511,) into space
+Timestep=3, 115 write mnd (384,512,768,),(511,767,1023,) into space
+Timestep=3, 54 write mnd (768,512,256,),(895,767,511,) into space
+Timestep=3, 116 write mnd (512,512,768,),(639,767,1023,) into space
+Timestep=3, 55 write mnd (896,512,256,),(1023,767,511,) into space
+Timestep=3, 117 write mnd (640,512,768,),(767,767,1023,) into space
+Timestep=3, 56 write mnd (0,768,256,),(127,1023,511,) into space
+Timestep=3, 118 write mnd (768,512,768,),(895,767,1023,) into space
+Timestep=3, 57 write mnd (128,768,256,),(255,1023,511,) into space
+Timestep=3, 119 write mnd (896,512,768,),(1023,767,1023,) into space
+Timestep=3, 58 write mnd (256,768,256,),(383,1023,511,) into space
+Timestep=3, 120 write mnd (0,768,768,),(127,1023,1023,) into space
+Timestep=3, 59 write mnd (384,768,256,),(511,1023,511,) into space
+Timestep=3, 121 write mnd (128,768,768,),(255,1023,1023,) into space
+Timestep=3, 60 write mnd (512,768,256,),(639,1023,511,) into space
+Timestep=3, 122 write mnd (256,768,768,),(383,1023,1023,) into space
+Timestep=3, 61 write mnd (640,768,256,),(767,1023,511,) into space
+Timestep=3, 123 write mnd (384,768,768,),(511,1023,1023,) into space
+Timestep=3, 62 write mnd (768,768,256,),(895,1023,511,) into space
+Timestep=3, 124 write mnd (512,768,768,),(639,1023,1023,) into space
+Timestep=3, 63 write mnd (896,768,256,),(1023,1023,511,) into space
+Timestep=3, 125 write mnd (640,768,768,),(767,1023,1023,) into space
+Timestep=3, 126 write mnd (768,768,768,),(895,1023,1023,) into space
+Timestep=3, 127 write mnd (896,768,768,),(1023,1023,1023,) into space
+TIMING_PERF put_data ts 3 peer 0 time 0.398238
+TS= 3 TRANSPORT_TYPE= DATASPACES write MAX time= 1.548789
+TIMING_PERF put_data ts 3 peer 64 time 1.471602
+TIMING_PERF put_data ts 3 peer 1 time 1.214470
+TIMING_PERF put_data ts 3 peer 65 time 0.875500
+TIMING_PERF put_data ts 3 peer 2 time 0.260728
+TIMING_PERF put_data ts 3 peer 66 time 1.388195
+TIMING_PERF put_data ts 3 peer 3 time 1.235502
+TIMING_PERF put_data ts 3 peer 67 time 0.765519
+TIMING_PERF put_data ts 3 peer 68 time 1.408912
+TIMING_PERF put_data ts 3 peer 69 time 0.787111
+TIMING_PERF put_data ts 3 peer 70 time 1.430209
+TIMING_PERF put_data ts 3 peer 71 time 0.833518
+TIMING_PERF put_data ts 3 peer 72 time 1.492282
+TIMING_PERF put_data ts 3 peer 73 time 0.492910
+TIMING_PERF put_data ts 3 peer 4 time 0.785851
+TIMING_PERF put_data ts 3 peer 5 time 1.445601
+TIMING_PERF put_data ts 3 peer 6 time 0.532556
+TIMING_PERF put_data ts 3 peer 7 time 1.362026
+TIMING_PERF put_data ts 3 peer 8 time 1.096963
+TIMING_PERF put_data ts 3 peer 9 time 1.508389
+TIMING_PERF put_data ts 3 peer 10 time 0.723263
+TIMING_PERF put_data ts 3 peer 11 time 1.298357
+TIMING_PERF put_data ts 3 peer 12 time 0.489722
+TIMING_PERF put_data ts 3 peer 13 time 1.382637
+TIMING_PERF put_data ts 3 peer 14 time 0.680240
+TIMING_PERF put_data ts 3 peer 15 time 1.527271
+TIMING_PERF put_data ts 3 peer 16 time 0.374930
+TIMING_PERF put_data ts 3 peer 17 time 1.277197
+TIMING_PERF put_data ts 3 peer 18 time 0.329958
+TIMING_PERF put_data ts 3 peer 19 time 1.151544
+TIMING_PERF put_data ts 3 peer 20 time 0.594071
+TIMING_PERF put_data ts 3 peer 21 time 1.002011
+TIMING_PERF put_data ts 3 peer 22 time 0.420328
+TIMING_PERF put_data ts 3 peer 23 time 1.108176
+TIMING_PERF put_data ts 3 peer 24 time 0.701601
+TIMING_PERF put_data ts 3 peer 25 time 1.043944
+TIMING_PERF put_data ts 3 peer 26 time 0.306982
+TIMING_PERF put_data ts 3 peer 27 time 1.172524
+TIMING_PERF put_data ts 3 peer 28 time 0.442786
+TIMING_PERF put_data ts 3 peer 29 time 1.088234
+TIMING_PERF put_data ts 3 peer 30 time 0.166122
+TIMING_PERF put_data ts 3 peer 31 time 1.193440
+TIMING_PERF put_data ts 3 peer 32 time 0.465983
+TIMING_PERF put_data ts 3 peer 33 time 0.916256
+TIMING_PERF put_data ts 3 peer 34 time 0.352972
+TIMING_PERF put_data ts 3 peer 35 time 0.980684
+TIMING_PERF put_data ts 3 peer 36 time 0.284538
+TIMING_PERF put_data ts 3 peer 37 time 0.895794
+TIMING_PERF put_data ts 3 peer 38 time 0.213686
+TIMING_PERF put_data ts 3 peer 39 time 1.023347
+TIMING_PERF put_data ts 3 peer 40 time 0.189447
+TIMING_PERF put_data ts 3 peer 41 time 1.130197
+TIMING_PERF put_data ts 3 peer 42 time 0.236551
+TIMING_PERF put_data ts 3 peer 43 time 0.959013
+TIMING_PERF put_data ts 3 peer 44 time 0.511155
+TIMING_PERF put_data ts 3 peer 45 time 1.065895
+TIMING_PERF put_data ts 3 peer 46 time 0.614624
+TIMING_PERF put_data ts 3 peer 47 time 0.937155
+TIMING_PERF put_data ts 3 peer 48 time 0.950356
+TIMING_PERF put_data ts 3 peer 49 time 1.319245
+TIMING_PERF put_data ts 3 peer 50 time 0.635888
+TIMING_PERF put_data ts 3 peer 51 time 1.548789
+TIMING_PERF put_data ts 3 peer 52 time 1.033561
+TIMING_PERF put_data ts 3 peer 53 time 1.466724
+TIMING_PERF put_data ts 3 peer 54 time 0.574350
+TIMING_PERF put_data ts 3 peer 55 time 1.487532
+TIMING_PERF put_data ts 3 peer 56 time 0.765602
+TIMING_PERF put_data ts 3 peer 57 time 1.256071
+TIMING_PERF put_data ts 3 peer 58 time 0.889072
+TIMING_PERF put_data ts 3 peer 59 time 1.340451
+TIMING_PERF put_data ts 3 peer 60 time 0.807408
+TIMING_PERF put_data ts 3 peer 61 time 1.403197
+TIMING_PERF put_data ts 3 peer 62 time 0.554038
+TIMING_PERF put_data ts 3 peer 63 time 1.424663
+TIMING_PERF put_data ts 3 peer 74 time 1.513572
+TIMING_PERF put_data ts 3 peer 75 time 0.333061
+TIMING_PERF put_data ts 3 peer 76 time 1.221427
+TIMING_PERF put_data ts 3 peer 77 time 0.627319
+TIMING_PERF put_data ts 3 peer 78 time 1.325761
+TIMING_PERF put_data ts 3 peer 79 time 0.721737
+TIMING_PERF put_data ts 3 peer 80 time 1.116754
+TIMING_PERF put_data ts 3 peer 81 time 0.261561
+TIMING_PERF put_data ts 3 peer 82 time 0.928979
+TIMING_PERF put_data ts 3 peer 83 time 0.379383
+TIMING_PERF put_data ts 3 peer 84 time 0.749565
+TIMING_PERF put_data ts 3 peer 85 time 0.401636
+TIMING_PERF put_data ts 3 peer 86 time 0.659156
+TIMING_PERF put_data ts 3 peer 87 time 0.469603
+TIMING_PERF put_data ts 3 peer 88 time 1.180203
+TIMING_PERF put_data ts 3 peer 89 time 0.603523
+TIMING_PERF put_data ts 3 peer 90 time 1.138123
+TIMING_PERF put_data ts 3 peer 91 time 0.581369
+TIMING_PERF put_data ts 3 peer 92 time 1.012279
+TIMING_PERF put_data ts 3 peer 93 time 0.515480
+TIMING_PERF put_data ts 3 peer 94 time 0.907754
+TIMING_PERF put_data ts 3 peer 95 time 0.447266
+TIMING_PERF put_data ts 3 peer 96 time 1.074990
+TIMING_PERF put_data ts 3 peer 97 time 0.424337
+TIMING_PERF put_data ts 3 peer 98 time 1.054025
+TIMING_PERF put_data ts 3 peer 99 time 0.213692
+TIMING_PERF put_data ts 3 peer 100 time 0.970874
+TIMING_PERF put_data ts 3 peer 101 time 0.355639
+TIMING_PERF put_data ts 3 peer 102 time 0.869195
+TIMING_PERF put_data ts 3 peer 103 time 0.537497
+TIMING_PERF put_data ts 3 peer 104 time 1.159145
+TIMING_PERF put_data ts 3 peer 105 time 0.286305
+TIMING_PERF put_data ts 3 peer 106 time 0.851278
+TIMING_PERF put_data ts 3 peer 107 time 0.309078
+TIMING_PERF put_data ts 3 peer 108 time 0.829968
+TIMING_PERF put_data ts 3 peer 109 time 0.189050
+TIMING_PERF put_data ts 3 peer 110 time 0.991616
+TIMING_PERF put_data ts 3 peer 111 time 0.164086
+TIMING_PERF put_data ts 3 peer 112 time 1.450769
+TIMING_PERF put_data ts 3 peer 113 time 0.652884
+TIMING_PERF put_data ts 3 peer 114 time 1.346822
+TIMING_PERF put_data ts 3 peer 115 time 0.749380
+TIMING_PERF put_data ts 3 peer 116 time 1.367637
+TIMING_PERF put_data ts 3 peer 117 time 0.697363
+TIMING_PERF put_data ts 3 peer 118 time 1.242505
+TIMING_PERF put_data ts 3 peer 119 time 0.559283
+TIMING_PERF put_data ts 3 peer 120 time 1.283955
+TIMING_PERF put_data ts 3 peer 121 time 0.675540
+TIMING_PERF put_data ts 3 peer 122 time 1.263434
+TIMING_PERF put_data ts 3 peer 123 time 0.238177
+TIMING_PERF put_data ts 3 peer 124 time 1.201176
+TIMING_PERF put_data ts 3 peer 125 time 0.854943
+TIMING_PERF put_data ts 3 peer 126 time 1.305146
+TIMING_PERF put_data ts 3 peer 127 time 0.808404
+Timestep=4, 0 write mnd (0,0,0,),(127,255,255,) into space
+Timestep=4, 64 write mnd (0,0,512,),(127,255,767,) into space
+Timestep=4, 1 write mnd (128,0,0,),(255,255,255,) into space
+Timestep=4, 2 write mnd (256,0,0,),(383,255,255,) into space
+Timestep=4, 65 write mnd (128,0,512,),(255,255,767,) into space
+Timestep=4, 3 write mnd (384,0,0,),(511,255,255,) into space
+Timestep=4, 66 write mnd (256,0,512,),(383,255,767,) into space
+Timestep=4, 67 write mnd (384,0,512,),(511,255,767,) into space
+Timestep=4, 4 write mnd (512,0,0,),(639,255,255,) into space
+Timestep=4, 5 write mnd (640,0,0,),(767,255,255,) into space
+Timestep=4, 68 write mnd (512,0,512,),(639,255,767,) into space
+Timestep=4, 6 write mnd (768,0,0,),(895,255,255,) into space
+Timestep=4, 69 write mnd (640,0,512,),(767,255,767,) into space
+Timestep=4, 7 write mnd (896,0,0,),(1023,255,255,) into space
+Timestep=4, 70 write mnd (768,0,512,),(895,255,767,) into space
+Timestep=4, 8 write mnd (0,256,0,),(127,511,255,) into space
+Timestep=4, 71 write mnd (896,0,512,),(1023,255,767,) into space
+Timestep=4, 9 write mnd (128,256,0,),(255,511,255,) into space
+Timestep=4, 72 write mnd (0,256,512,),(127,511,767,) into space
+Timestep=4, 10 write mnd (256,256,0,),(383,511,255,) into space
+Timestep=4, 73 write mnd (128,256,512,),(255,511,767,) into space
+Timestep=4, 11 write mnd (384,256,0,),(511,511,255,) into space
+Timestep=4, 74 write mnd (256,256,512,),(383,511,767,) into space
+Timestep=4, 12 write mnd (512,256,0,),(639,511,255,) into space
+Timestep=4, 75 write mnd (384,256,512,),(511,511,767,) into space
+Timestep=4, 13 write mnd (640,256,0,),(767,511,255,) into space
+Timestep=4, 76 write mnd (512,256,512,),(639,511,767,) into space
+Timestep=4, 14 write mnd (768,256,0,),(895,511,255,) into space
+Timestep=4, 77 write mnd (640,256,512,),(767,511,767,) into space
+Timestep=4, 15 write mnd (896,256,0,),(1023,511,255,) into space
+Timestep=4, 78 write mnd (768,256,512,),(895,511,767,) into space
+Timestep=4, 16 write mnd (0,512,0,),(127,767,255,) into space
+Timestep=4, 79 write mnd (896,256,512,),(1023,511,767,) into space
+Timestep=4, 17 write mnd (128,512,0,),(255,767,255,) into space
+Timestep=4, 18 write mnd (256,512,0,),(383,767,255,) into space
+Timestep=4, 80 write mnd (0,512,512,),(127,767,767,) into space
+Timestep=4, 81 write mnd (128,512,512,),(255,767,767,) into space
+Timestep=4, 19 write mnd (384,512,0,),(511,767,255,) into space
+Timestep=4, 82 write mnd (256,512,512,),(383,767,767,) into space
+Timestep=4, 20 write mnd (512,512,0,),(639,767,255,) into space
+Timestep=4, 83 write mnd (384,512,512,),(511,767,767,) into space
+Timestep=4, 21 write mnd (640,512,0,),(767,767,255,) into space
+Timestep=4, 84 write mnd (512,512,512,),(639,767,767,) into space
+Timestep=4, 22 write mnd (768,512,0,),(895,767,255,) into space
+Timestep=4, 85 write mnd (640,512,512,),(767,767,767,) into space
+Timestep=4, 23 write mnd (896,512,0,),(1023,767,255,) into space
+Timestep=4, 86 write mnd (768,512,512,),(895,767,767,) into space
+Timestep=4, 24 write mnd (0,768,0,),(127,1023,255,) into space
+Timestep=4, 25 write mnd (128,768,0,),(255,1023,255,) into space
+Timestep=4, 87 write mnd (896,512,512,),(1023,767,767,) into space
+Timestep=4, 26 write mnd (256,768,0,),(383,1023,255,) into space
+Timestep=4, 88 write mnd (0,768,512,),(127,1023,767,) into space
+Timestep=4, 27 write mnd (384,768,0,),(511,1023,255,) into space
+Timestep=4, 89 write mnd (128,768,512,),(255,1023,767,) into space
+Timestep=4, 28 write mnd (512,768,0,),(639,1023,255,) into space
+Timestep=4, 90 write mnd (256,768,512,),(383,1023,767,) into space
+Timestep=4, 29 write mnd (640,768,0,),(767,1023,255,) into space
+Timestep=4, 91 write mnd (384,768,512,),(511,1023,767,) into space
+Timestep=4, 30 write mnd (768,768,0,),(895,1023,255,) into space
+Timestep=4, 92 write mnd (512,768,512,),(639,1023,767,) into space
+Timestep=4, 31 write mnd (896,768,0,),(1023,1023,255,) into space
+Timestep=4, 93 write mnd (640,768,512,),(767,1023,767,) into space
+Timestep=4, 32 write mnd (0,0,256,),(127,255,511,) into space
+Timestep=4, 94 write mnd (768,768,512,),(895,1023,767,) into space
+Timestep=4, 33 write mnd (128,0,256,),(255,255,511,) into space
+Timestep=4, 95 write mnd (896,768,512,),(1023,1023,767,) into space
+Timestep=4, 34 write mnd (256,0,256,),(383,255,511,) into space
+Timestep=4, 96 write mnd (0,0,768,),(127,255,1023,) into space
+Timestep=4, 35 write mnd (384,0,256,),(511,255,511,) into space
+Timestep=4, 97 write mnd (128,0,768,),(255,255,1023,) into space
+Timestep=4, 36 write mnd (512,0,256,),(639,255,511,) into space
+Timestep=4, 98 write mnd (256,0,768,),(383,255,1023,) into space
+Timestep=4, 37 write mnd (640,0,256,),(767,255,511,) into space
+Timestep=4, 99 write mnd (384,0,768,),(511,255,1023,) into space
+Timestep=4, 38 write mnd (768,0,256,),(895,255,511,) into space
+Timestep=4, 100 write mnd (512,0,768,),(639,255,1023,) into space
+Timestep=4, 39 write mnd (896,0,256,),(1023,255,511,) into space
+Timestep=4, 101 write mnd (640,0,768,),(767,255,1023,) into space
+Timestep=4, 40 write mnd (0,256,256,),(127,511,511,) into space
+Timestep=4, 102 write mnd (768,0,768,),(895,255,1023,) into space
+Timestep=4, 41 write mnd (128,256,256,),(255,511,511,) into space
+Timestep=4, 103 write mnd (896,0,768,),(1023,255,1023,) into space
+Timestep=4, 42 write mnd (256,256,256,),(383,511,511,) into space
+Timestep=4, 104 write mnd (0,256,768,),(127,511,1023,) into space
+Timestep=4, 43 write mnd (384,256,256,),(511,511,511,) into space
+Timestep=4, 105 write mnd (128,256,768,),(255,511,1023,) into space
+Timestep=4, 44 write mnd (512,256,256,),(639,511,511,) into space
+Timestep=4, 45 write mnd (640,256,256,),(767,511,511,) into space
+Timestep=4, 46 write mnd (768,256,256,),(895,511,511,) into space
+Timestep=4, 47 write mnd (896,256,256,),(1023,511,511,) into space
+Timestep=4, 106 write mnd (256,256,768,),(383,511,1023,) into space
+Timestep=4, 107 write mnd (384,256,768,),(511,511,1023,) into space
+Timestep=4, 108 write mnd (512,256,768,),(639,511,1023,) into space
+Timestep=4, 109 write mnd (640,256,768,),(767,511,1023,) into space
+Timestep=4, 48 write mnd (0,512,256,),(127,767,511,) into space
+Timestep=4, 49 write mnd (128,512,256,),(255,767,511,) into space
+Timestep=4, 110 write mnd (768,256,768,),(895,511,1023,) into space
+Timestep=4, 50 write mnd (256,512,256,),(383,767,511,) into space
+Timestep=4, 51 write mnd (384,512,256,),(511,767,511,) into space
+Timestep=4, 52 write mnd (512,512,256,),(639,767,511,) into space
+Timestep=4, 111 write mnd (896,256,768,),(1023,511,1023,) into space
+Timestep=4, 112 write mnd (0,512,768,),(127,767,1023,) into space
+Timestep=4, 113 write mnd (128,512,768,),(255,767,1023,) into space
+Timestep=4, 53 write mnd (640,512,256,),(767,767,511,) into space
+Timestep=4, 114 write mnd (256,512,768,),(383,767,1023,) into space
+Timestep=4, 115 write mnd (384,512,768,),(511,767,1023,) into space
+Timestep=4, 54 write mnd (768,512,256,),(895,767,511,) into space
+Timestep=4, 116 write mnd (512,512,768,),(639,767,1023,) into space
+Timestep=4, 55 write mnd (896,512,256,),(1023,767,511,) into space
+Timestep=4, 117 write mnd (640,512,768,),(767,767,1023,) into space
+Timestep=4, 56 write mnd (0,768,256,),(127,1023,511,) into space
+Timestep=4, 57 write mnd (128,768,256,),(255,1023,511,) into space
+Timestep=4, 118 write mnd (768,512,768,),(895,767,1023,) into space
+Timestep=4, 58 write mnd (256,768,256,),(383,1023,511,) into space
+Timestep=4, 119 write mnd (896,512,768,),(1023,767,1023,) into space
+Timestep=4, 120 write mnd (0,768,768,),(127,1023,1023,) into space
+Timestep=4, 59 write mnd (384,768,256,),(511,1023,511,) into space
+Timestep=4, 60 write mnd (512,768,256,),(639,1023,511,) into space
+Timestep=4, 121 write mnd (128,768,768,),(255,1023,1023,) into space
+Timestep=4, 61 write mnd (640,768,256,),(767,1023,511,) into space
+Timestep=4, 122 write mnd (256,768,768,),(383,1023,1023,) into space
+Timestep=4, 62 write mnd (768,768,256,),(895,1023,511,) into space
+Timestep=4, 123 write mnd (384,768,768,),(511,1023,1023,) into space
+Timestep=4, 124 write mnd (512,768,768,),(639,1023,1023,) into space
+Timestep=4, 63 write mnd (896,768,256,),(1023,1023,511,) into space
+Timestep=4, 125 write mnd (640,768,768,),(767,1023,1023,) into space
+Timestep=4, 126 write mnd (768,768,768,),(895,1023,1023,) into space
+Timestep=4, 127 write mnd (896,768,768,),(1023,1023,1023,) into space
+TIMING_PERF put_data ts 4 peer 0 time 0.415932
+TS= 4 TRANSPORT_TYPE= DATASPACES write MAX time= 1.531474
+TIMING_PERF put_data ts 4 peer 64 time 1.473355
+TIMING_PERF put_data ts 4 peer 1 time 1.238783
+TIMING_PERF put_data ts 4 peer 65 time 0.747423
+TIMING_PERF put_data ts 4 peer 2 time 0.187593
+TIMING_PERF put_data ts 4 peer 66 time 1.369642
+TIMING_PERF put_data ts 4 peer 3 time 1.066503
+TIMING_PERF put_data ts 4 peer 4 time 0.712294
+TIMING_PERF put_data ts 4 peer 67 time 0.852645
+TIMING_PERF put_data ts 4 peer 68 time 1.494497
+TIMING_PERF put_data ts 4 peer 5 time 1.429511
+TIMING_PERF put_data ts 4 peer 69 time 0.705266
+TIMING_PERF put_data ts 4 peer 70 time 1.452799
+TIMING_PERF put_data ts 4 peer 6 time 0.436681
+TIMING_PERF put_data ts 4 peer 71 time 0.831801
+TIMING_PERF put_data ts 4 peer 7 time 1.492633
+TIMING_PERF put_data ts 4 peer 72 time 1.431888
+TIMING_PERF put_data ts 4 peer 73 time 0.683318
+TIMING_PERF put_data ts 4 peer 8 time 0.905409
+TIMING_PERF put_data ts 4 peer 9 time 1.366287
+TIMING_PERF put_data ts 4 peer 10 time 0.627915
+TIMING_PERF put_data ts 4 peer 74 time 1.515574
+TIMING_PERF put_data ts 4 peer 11 time 1.301845
+TIMING_PERF put_data ts 4 peer 12 time 0.476996
+TIMING_PERF put_data ts 4 peer 75 time 0.528380
+TIMING_PERF put_data ts 4 peer 76 time 1.327578
+TIMING_PERF put_data ts 4 peer 13 time 1.323196
+TIMING_PERF put_data ts 4 peer 77 time 0.483179
+TIMING_PERF put_data ts 4 peer 78 time 1.390692
+TIMING_PERF put_data ts 4 peer 14 time 0.755798
+TIMING_PERF put_data ts 4 peer 79 time 0.598211
+TIMING_PERF put_data ts 4 peer 80 time 1.138300
+TIMING_PERF put_data ts 4 peer 15 time 1.531474
+TIMING_PERF put_data ts 4 peer 16 time 0.456880
+TIMING_PERF put_data ts 4 peer 81 time 0.239592
+TIMING_PERF put_data ts 4 peer 82 time 0.968462
+TIMING_PERF put_data ts 4 peer 17 time 1.280041
+TIMING_PERF put_data ts 4 peer 18 time 0.691839
+TIMING_PERF put_data ts 4 peer 83 time 0.260234
+TIMING_PERF put_data ts 4 peer 19 time 1.087386
+TIMING_PERF put_data ts 4 peer 84 time 1.203040
+TIMING_PERF put_data ts 4 peer 85 time 0.550086
+TIMING_PERF put_data ts 4 peer 20 time 0.396204
+TIMING_PERF put_data ts 4 peer 21 time 0.896304
+TIMING_PERF put_data ts 4 peer 86 time 1.159350
+TIMING_PERF put_data ts 4 peer 22 time 0.235919
+TIMING_PERF put_data ts 4 peer 87 time 0.617887
+TIMING_PERF put_data ts 4 peer 88 time 1.096227
+TIMING_PERF put_data ts 4 peer 23 time 0.960377
+TIMING_PERF put_data ts 4 peer 89 time 0.439574
+TIMING_PERF put_data ts 4 peer 24 time 0.607172
+TIMING_PERF put_data ts 4 peer 25 time 1.108629
+TIMING_PERF put_data ts 4 peer 90 time 1.011018
+TIMING_PERF put_data ts 4 peer 91 time 0.572746
+TIMING_PERF put_data ts 4 peer 26 time 0.350770
+TIMING_PERF put_data ts 4 peer 92 time 0.989485
+TIMING_PERF put_data ts 4 peer 27 time 1.002728
+TIMING_PERF put_data ts 4 peer 28 time 0.517868
+TIMING_PERF put_data ts 4 peer 29 time 1.045395
+TIMING_PERF put_data ts 4 peer 93 time 0.505466
+TIMING_PERF put_data ts 4 peer 30 time 0.328047
+TIMING_PERF put_data ts 4 peer 94 time 0.819732
+TIMING_PERF put_data ts 4 peer 95 time 0.397785
+TIMING_PERF put_data ts 4 peer 31 time 1.129971
+TIMING_PERF put_data ts 4 peer 96 time 1.117310
+TIMING_PERF put_data ts 4 peer 97 time 0.639168
+TIMING_PERF put_data ts 4 peer 32 time 0.372615
+TIMING_PERF put_data ts 4 peer 98 time 0.861901
+TIMING_PERF put_data ts 4 peer 33 time 0.875978
+TIMING_PERF put_data ts 4 peer 34 time 0.214439
+TIMING_PERF put_data ts 4 peer 99 time 0.374807
+TIMING_PERF put_data ts 4 peer 35 time 0.918370
+TIMING_PERF put_data ts 4 peer 100 time 0.840910
+TIMING_PERF put_data ts 4 peer 36 time 0.167856
+TIMING_PERF put_data ts 4 peer 101 time 0.216059
+TIMING_PERF put_data ts 4 peer 37 time 0.941391
+TIMING_PERF put_data ts 4 peer 102 time 0.926574
+TIMING_PERF put_data ts 4 peer 38 time 0.303743
+TIMING_PERF put_data ts 4 peer 103 time 0.352319
+TIMING_PERF put_data ts 4 peer 39 time 1.151496
+TIMING_PERF put_data ts 4 peer 104 time 1.074901
+TIMING_PERF put_data ts 4 peer 40 time 0.259305
+TIMING_PERF put_data ts 4 peer 105 time 0.190026
+TIMING_PERF put_data ts 4 peer 41 time 1.196146
+TIMING_PERF put_data ts 4 peer 106 time 0.799114
+TIMING_PERF put_data ts 4 peer 42 time 0.281309
+TIMING_PERF put_data ts 4 peer 107 time 0.169013
+TIMING_PERF put_data ts 4 peer 43 time 0.981986
+TIMING_PERF put_data ts 4 peer 108 time 1.032001
+TIMING_PERF put_data ts 4 peer 44 time 0.497218
+TIMING_PERF put_data ts 4 peer 109 time 0.329761
+TIMING_PERF put_data ts 4 peer 45 time 1.216885
+TIMING_PERF put_data ts 4 peer 110 time 1.053548
+TIMING_PERF put_data ts 4 peer 46 time 0.671024
+TIMING_PERF put_data ts 4 peer 111 time 0.304765
+TIMING_PERF put_data ts 4 peer 47 time 1.023724
+TIMING_PERF put_data ts 4 peer 112 time 1.411482
+TIMING_PERF put_data ts 4 peer 48 time 0.884752
+TIMING_PERF put_data ts 4 peer 113 time 0.791030
+TIMING_PERF put_data ts 4 peer 49 time 1.258898
+TIMING_PERF put_data ts 4 peer 114 time 1.306751
+TIMING_PERF put_data ts 4 peer 50 time 0.649369
+TIMING_PERF put_data ts 4 peer 115 time 0.726232
+TIMING_PERF put_data ts 4 peer 51 time 1.513808
+TIMING_PERF put_data ts 4 peer 116 time 1.264636
+TIMING_PERF put_data ts 4 peer 117 time 0.662355
+TIMING_PERF put_data ts 4 peer 52 time 0.949198
+TIMING_PERF put_data ts 4 peer 53 time 1.450427
+TIMING_PERF put_data ts 4 peer 54 time 0.540061
+TIMING_PERF put_data ts 4 peer 118 time 1.180475
+TIMING_PERF put_data ts 4 peer 119 time 0.417883
+TIMING_PERF put_data ts 4 peer 55 time 1.471264
+TIMING_PERF put_data ts 4 peer 120 time 1.244248
+TIMING_PERF put_data ts 4 peer 121 time 0.460850
+TIMING_PERF put_data ts 4 peer 56 time 0.734590
+TIMING_PERF put_data ts 4 peer 122 time 1.223689
+TIMING_PERF put_data ts 4 peer 57 time 1.172824
+TIMING_PERF put_data ts 4 peer 58 time 0.588663
+TIMING_PERF put_data ts 4 peer 59 time 1.344337
+TIMING_PERF put_data ts 4 peer 60 time 0.777336
+TIMING_PERF put_data ts 4 peer 123 time 0.282714
+TIMING_PERF put_data ts 4 peer 124 time 1.285612
+TIMING_PERF put_data ts 4 peer 125 time 0.768983
+TIMING_PERF put_data ts 4 peer 126 time 1.348757
+TIMING_PERF put_data ts 4 peer 61 time 1.387540
+TIMING_PERF put_data ts 4 peer 127 time 0.810774
+TIMING_PERF put_data ts 4 peer 62 time 0.563074
+TIMING_PERF put_data ts 4 peer 63 time 1.408609
+Timestep=5, 0 write mnd (0,0,0,),(127,255,255,) into space
+Timestep=5, 64 write mnd (0,0,512,),(127,255,767,) into space
+Timestep=5, 1 write mnd (128,0,0,),(255,255,255,) into space
+Timestep=5, 2 write mnd (256,0,0,),(383,255,255,) into space
+Timestep=5, 65 write mnd (128,0,512,),(255,255,767,) into space
+Timestep=5, 3 write mnd (384,0,0,),(511,255,255,) into space
+Timestep=5, 66 write mnd (256,0,512,),(383,255,767,) into space
+Timestep=5, 4 write mnd (512,0,0,),(639,255,255,) into space
+Timestep=5, 67 write mnd (384,0,512,),(511,255,767,) into space
+Timestep=5, 5 write mnd (640,0,0,),(767,255,255,) into space
+Timestep=5, 68 write mnd (512,0,512,),(639,255,767,) into space
+Timestep=5, 6 write mnd (768,0,0,),(895,255,255,) into space
+Timestep=5, 69 write mnd (640,0,512,),(767,255,767,) into space
+Timestep=5, 7 write mnd (896,0,0,),(1023,255,255,) into space
+Timestep=5, 70 write mnd (768,0,512,),(895,255,767,) into space
+Timestep=5, 8 write mnd (0,256,0,),(127,511,255,) into space
+Timestep=5, 71 write mnd (896,0,512,),(1023,255,767,) into space
+Timestep=5, 9 write mnd (128,256,0,),(255,511,255,) into space
+Timestep=5, 72 write mnd (0,256,512,),(127,511,767,) into space
+Timestep=5, 10 write mnd (256,256,0,),(383,511,255,) into space
+Timestep=5, 11 write mnd (384,256,0,),(511,511,255,) into space
+Timestep=5, 73 write mnd (128,256,512,),(255,511,767,) into space
+Timestep=5, 12 write mnd (512,256,0,),(639,511,255,) into space
+Timestep=5, 74 write mnd (256,256,512,),(383,511,767,) into space
+Timestep=5, 13 write mnd (640,256,0,),(767,511,255,) into space
+Timestep=5, 75 write mnd (384,256,512,),(511,511,767,) into space
+Timestep=5, 14 write mnd (768,256,0,),(895,511,255,) into space
+Timestep=5, 76 write mnd (512,256,512,),(639,511,767,) into space
+Timestep=5, 15 write mnd (896,256,0,),(1023,511,255,) into space
+Timestep=5, 77 write mnd (640,256,512,),(767,511,767,) into space
+Timestep=5, 16 write mnd (0,512,0,),(127,767,255,) into space
+Timestep=5, 78 write mnd (768,256,512,),(895,511,767,) into space
+Timestep=5, 17 write mnd (128,512,0,),(255,767,255,) into space
+Timestep=5, 79 write mnd (896,256,512,),(1023,511,767,) into space
+Timestep=5, 18 write mnd (256,512,0,),(383,767,255,) into space
+Timestep=5, 80 write mnd (0,512,512,),(127,767,767,) into space
+Timestep=5, 19 write mnd (384,512,0,),(511,767,255,) into space
+Timestep=5, 81 write mnd (128,512,512,),(255,767,767,) into space
+Timestep=5, 20 write mnd (512,512,0,),(639,767,255,) into space
+Timestep=5, 82 write mnd (256,512,512,),(383,767,767,) into space
+Timestep=5, 21 write mnd (640,512,0,),(767,767,255,) into space
+Timestep=5, 83 write mnd (384,512,512,),(511,767,767,) into space
+Timestep=5, 22 write mnd (768,512,0,),(895,767,255,) into space
+Timestep=5, 84 write mnd (512,512,512,),(639,767,767,) into space
+Timestep=5, 23 write mnd (896,512,0,),(1023,767,255,) into space
+Timestep=5, 85 write mnd (640,512,512,),(767,767,767,) into space
+Timestep=5, 24 write mnd (0,768,0,),(127,1023,255,) into space
+Timestep=5, 86 write mnd (768,512,512,),(895,767,767,) into space
+Timestep=5, 25 write mnd (128,768,0,),(255,1023,255,) into space
+Timestep=5, 87 write mnd (896,512,512,),(1023,767,767,) into space
+Timestep=5, 26 write mnd (256,768,0,),(383,1023,255,) into space
+Timestep=5, 88 write mnd (0,768,512,),(127,1023,767,) into space
+Timestep=5, 27 write mnd (384,768,0,),(511,1023,255,) into space
+Timestep=5, 89 write mnd (128,768,512,),(255,1023,767,) into space
+Timestep=5, 28 write mnd (512,768,0,),(639,1023,255,) into space
+Timestep=5, 29 write mnd (640,768,0,),(767,1023,255,) into space
+Timestep=5, 90 write mnd (256,768,512,),(383,1023,767,) into space
+Timestep=5, 30 write mnd (768,768,0,),(895,1023,255,) into space
+Timestep=5, 91 write mnd (384,768,512,),(511,1023,767,) into space
+Timestep=5, 31 write mnd (896,768,0,),(1023,1023,255,) into space
+Timestep=5, 92 write mnd (512,768,512,),(639,1023,767,) into space
+Timestep=5, 32 write mnd (0,0,256,),(127,255,511,) into space
+Timestep=5, 93 write mnd (640,768,512,),(767,1023,767,) into space
+Timestep=5, 33 write mnd (128,0,256,),(255,255,511,) into space
+Timestep=5, 94 write mnd (768,768,512,),(895,1023,767,) into space
+Timestep=5, 34 write mnd (256,0,256,),(383,255,511,) into space
+Timestep=5, 95 write mnd (896,768,512,),(1023,1023,767,) into space
+Timestep=5, 35 write mnd (384,0,256,),(511,255,511,) into space
+Timestep=5, 96 write mnd (0,0,768,),(127,255,1023,) into space
+Timestep=5, 36 write mnd (512,0,256,),(639,255,511,) into space
+Timestep=5, 97 write mnd (128,0,768,),(255,255,1023,) into space
+Timestep=5, 37 write mnd (640,0,256,),(767,255,511,) into space
+Timestep=5, 98 write mnd (256,0,768,),(383,255,1023,) into space
+Timestep=5, 38 write mnd (768,0,256,),(895,255,511,) into space
+Timestep=5, 99 write mnd (384,0,768,),(511,255,1023,) into space
+Timestep=5, 39 write mnd (896,0,256,),(1023,255,511,) into space
+Timestep=5, 100 write mnd (512,0,768,),(639,255,1023,) into space
+Timestep=5, 40 write mnd (0,256,256,),(127,511,511,) into space
+Timestep=5, 101 write mnd (640,0,768,),(767,255,1023,) into space
+Timestep=5, 41 write mnd (128,256,256,),(255,511,511,) into space
+Timestep=5, 102 write mnd (768,0,768,),(895,255,1023,) into space
+Timestep=5, 42 write mnd (256,256,256,),(383,511,511,) into space
+Timestep=5, 103 write mnd (896,0,768,),(1023,255,1023,) into space
+Timestep=5, 43 write mnd (384,256,256,),(511,511,511,) into space
+Timestep=5, 104 write mnd (0,256,768,),(127,511,1023,) into space
+Timestep=5, 44 write mnd (512,256,256,),(639,511,511,) into space
+Timestep=5, 105 write mnd (128,256,768,),(255,511,1023,) into space
+Timestep=5, 45 write mnd (640,256,256,),(767,511,511,) into space
+Timestep=5, 106 write mnd (256,256,768,),(383,511,1023,) into space
+Timestep=5, 46 write mnd (768,256,256,),(895,511,511,) into space
+Timestep=5, 107 write mnd (384,256,768,),(511,511,1023,) into space
+Timestep=5, 47 write mnd (896,256,256,),(1023,511,511,) into space
+Timestep=5, 48 write mnd (0,512,256,),(127,767,511,) into space
+Timestep=5, 108 write mnd (512,256,768,),(639,511,1023,) into space
+Timestep=5, 49 write mnd (128,512,256,),(255,767,511,) into space
+Timestep=5, 109 write mnd (640,256,768,),(767,511,1023,) into space
+Timestep=5, 110 write mnd (768,256,768,),(895,511,1023,) into space
+Timestep=5, 50 write mnd (256,512,256,),(383,767,511,) into space
+Timestep=5, 51 write mnd (384,512,256,),(511,767,511,) into space
+Timestep=5, 111 write mnd (896,256,768,),(1023,511,1023,) into space
+Timestep=5, 52 write mnd (512,512,256,),(639,767,511,) into space
+Timestep=5, 112 write mnd (0,512,768,),(127,767,1023,) into space
+Timestep=5, 53 write mnd (640,512,256,),(767,767,511,) into space
+Timestep=5, 113 write mnd (128,512,768,),(255,767,1023,) into space
+Timestep=5, 54 write mnd (768,512,256,),(895,767,511,) into space
+Timestep=5, 114 write mnd (256,512,768,),(383,767,1023,) into space
+Timestep=5, 55 write mnd (896,512,256,),(1023,767,511,) into space
+Timestep=5, 115 write mnd (384,512,768,),(511,767,1023,) into space
+Timestep=5, 56 write mnd (0,768,256,),(127,1023,511,) into space
+Timestep=5, 57 write mnd (128,768,256,),(255,1023,511,) into space
+Timestep=5, 116 write mnd (512,512,768,),(639,767,1023,) into space
+Timestep=5, 58 write mnd (256,768,256,),(383,1023,511,) into space
+Timestep=5, 117 write mnd (640,512,768,),(767,767,1023,) into space
+Timestep=5, 118 write mnd (768,512,768,),(895,767,1023,) into space
+Timestep=5, 59 write mnd (384,768,256,),(511,1023,511,) into space
+Timestep=5, 119 write mnd (896,512,768,),(1023,767,1023,) into space
+Timestep=5, 60 write mnd (512,768,256,),(639,1023,511,) into space
+Timestep=5, 120 write mnd (0,768,768,),(127,1023,1023,) into space
+Timestep=5, 61 write mnd (640,768,256,),(767,1023,511,) into space
+Timestep=5, 121 write mnd (128,768,768,),(255,1023,1023,) into space
+Timestep=5, 62 write mnd (768,768,256,),(895,1023,511,) into space
+Timestep=5, 122 write mnd (256,768,768,),(383,1023,1023,) into space
+Timestep=5, 63 write mnd (896,768,256,),(1023,1023,511,) into space
+Timestep=5, 123 write mnd (384,768,768,),(511,1023,1023,) into space
+Timestep=5, 124 write mnd (512,768,768,),(639,1023,1023,) into space
+Timestep=5, 125 write mnd (640,768,768,),(767,1023,1023,) into space
+Timestep=5, 126 write mnd (768,768,768,),(895,1023,1023,) into space
+Timestep=5, 127 write mnd (896,768,768,),(1023,1023,1023,) into space
+TIMING_PERF put_data ts 5 peer 0 time 0.339973
+TS= 5 TRANSPORT_TYPE= DATASPACES write MAX time= 1.537756
+TIMING_PERF put_data ts 5 peer 64 time 1.462180
+TIMING_PERF put_data ts 5 peer 1 time 1.163588
+TIMING_PERF put_data ts 5 peer 65 time 0.867720
+TIMING_PERF put_data ts 5 peer 2 time 0.228185
+TIMING_PERF put_data ts 5 peer 66 time 1.379850
+TIMING_PERF put_data ts 5 peer 67 time 0.740069
+TIMING_PERF put_data ts 5 peer 3 time 1.228040
+TIMING_PERF put_data ts 5 peer 4 time 1.049595
+TIMING_PERF put_data ts 5 peer 5 time 1.270464
+TIMING_PERF put_data ts 5 peer 68 time 1.483265
+TIMING_PERF put_data ts 5 peer 69 time 0.714388
+TIMING_PERF put_data ts 5 peer 6 time 0.691531
+TIMING_PERF put_data ts 5 peer 70 time 1.420932
+TIMING_PERF put_data ts 5 peer 7 time 1.394001
+TIMING_PERF put_data ts 5 peer 71 time 0.760741
+TIMING_PERF put_data ts 5 peer 8 time 1.278276
+TIMING_PERF put_data ts 5 peer 72 time 1.441917
+TIMING_PERF put_data ts 5 peer 9 time 1.475685
+TIMING_PERF put_data ts 5 peer 73 time 0.422722
+TIMING_PERF put_data ts 5 peer 10 time 1.401573
+TIMING_PERF put_data ts 5 peer 11 time 1.372023
+TIMING_PERF put_data ts 5 peer 74 time 1.504051
+TIMING_PERF put_data ts 5 peer 12 time 0.407837
+TIMING_PERF put_data ts 5 peer 13 time 1.247663
+TIMING_PERF put_data ts 5 peer 75 time 0.496493
+TIMING_PERF put_data ts 5 peer 76 time 1.151141
+TIMING_PERF put_data ts 5 peer 14 time 0.713209
+TIMING_PERF put_data ts 5 peer 77 time 0.633464
+TIMING_PERF put_data ts 5 peer 78 time 1.297644
+TIMING_PERF put_data ts 5 peer 15 time 1.454927
+TIMING_PERF put_data ts 5 peer 16 time 0.650013
+TIMING_PERF put_data ts 5 peer 79 time 0.671339
+TIMING_PERF put_data ts 5 peer 80 time 1.089520
+TIMING_PERF put_data ts 5 peer 81 time 0.235949
+TIMING_PERF put_data ts 5 peer 17 time 1.330704
+TIMING_PERF put_data ts 5 peer 18 time 0.363378
+TIMING_PERF put_data ts 5 peer 82 time 0.924456
+TIMING_PERF put_data ts 5 peer 19 time 1.351398
+TIMING_PERF put_data ts 5 peer 20 time 0.474061
+TIMING_PERF put_data ts 5 peer 83 time 0.259012
+TIMING_PERF put_data ts 5 peer 84 time 1.027705
+TIMING_PERF put_data ts 5 peer 21 time 0.929539
+TIMING_PERF put_data ts 5 peer 85 time 0.400165
+TIMING_PERF put_data ts 5 peer 22 time 0.185530
+TIMING_PERF put_data ts 5 peer 23 time 1.035828
+TIMING_PERF put_data ts 5 peer 86 time 0.757911
+TIMING_PERF put_data ts 5 peer 87 time 0.514088
+TIMING_PERF put_data ts 5 peer 24 time 0.947680
+TIMING_PERF put_data ts 5 peer 88 time 0.842826
+TIMING_PERF put_data ts 5 peer 25 time 1.120432
+TIMING_PERF put_data ts 5 peer 89 time 0.352874
+TIMING_PERF put_data ts 5 peer 90 time 0.633645
+TIMING_PERF put_data ts 5 peer 26 time 0.451813
+TIMING_PERF put_data ts 5 peer 27 time 0.952536
+TIMING_PERF put_data ts 5 peer 91 time 0.284219
+TIMING_PERF put_data ts 5 peer 28 time 0.562595
+TIMING_PERF put_data ts 5 peer 92 time 0.611262
+TIMING_PERF put_data ts 5 peer 29 time 1.141293
+TIMING_PERF put_data ts 5 peer 93 time 0.536291
+TIMING_PERF put_data ts 5 peer 94 time 0.737710
+TIMING_PERF put_data ts 5 peer 30 time 0.248367
+TIMING_PERF put_data ts 5 peer 31 time 1.205248
+TIMING_PERF put_data ts 5 peer 32 time 0.385599
+TIMING_PERF put_data ts 5 peer 95 time 0.306326
+TIMING_PERF put_data ts 5 peer 96 time 0.588900
+TIMING_PERF put_data ts 5 peer 33 time 0.889146
+TIMING_PERF put_data ts 5 peer 34 time 0.293552
+TIMING_PERF put_data ts 5 peer 97 time 0.587249
+TIMING_PERF put_data ts 5 peer 35 time 0.995189
+TIMING_PERF put_data ts 5 peer 98 time 0.499908
+TIMING_PERF put_data ts 5 peer 36 time 0.165496
+TIMING_PERF put_data ts 5 peer 99 time 0.469905
+TIMING_PERF put_data ts 5 peer 37 time 0.907296
+TIMING_PERF put_data ts 5 peer 100 time 0.966617
+TIMING_PERF put_data ts 5 peer 38 time 0.207562
+TIMING_PERF put_data ts 5 peer 39 time 1.057312
+TIMING_PERF put_data ts 5 peer 40 time 0.429536
+TIMING_PERF put_data ts 5 peer 41 time 1.185705
+TIMING_PERF put_data ts 5 peer 42 time 0.270509
+TIMING_PERF put_data ts 5 peer 43 time 0.972638
+TIMING_PERF put_data ts 5 peer 44 time 0.315585
+TIMING_PERF put_data ts 5 peer 45 time 1.077770
+TIMING_PERF put_data ts 5 peer 46 time 0.671411
+TIMING_PERF put_data ts 5 peer 47 time 1.014277
+TIMING_PERF put_data ts 5 peer 48 time 1.130660
+TIMING_PERF put_data ts 5 peer 49 time 1.288892
+TIMING_PERF put_data ts 5 peer 50 time 0.989256
+TIMING_PERF put_data ts 5 peer 51 time 1.516414
+TIMING_PERF put_data ts 5 peer 52 time 1.194314
+TIMING_PERF put_data ts 5 peer 53 time 1.412937
+TIMING_PERF put_data ts 5 peer 54 time 0.518121
+TIMING_PERF put_data ts 5 peer 55 time 1.496578
+TIMING_PERF put_data ts 5 peer 56 time 0.796113
+TIMING_PERF put_data ts 5 peer 57 time 1.309818
+TIMING_PERF put_data ts 5 peer 58 time 0.540104
+TIMING_PERF put_data ts 5 peer 59 time 1.434059
+TIMING_PERF put_data ts 5 peer 60 time 1.236042
+TIMING_PERF put_data ts 5 peer 61 time 1.099143
+TIMING_PERF put_data ts 5 peer 62 time 0.885352
+TIMING_PERF put_data ts 5 peer 63 time 1.537756
+TIMING_PERF put_data ts 5 peer 101 time 0.376674
+TIMING_PERF put_data ts 5 peer 102 time 0.902557
+TIMING_PERF put_data ts 5 peer 103 time 0.610336
+TIMING_PERF put_data ts 5 peer 104 time 0.821600
+TIMING_PERF put_data ts 5 peer 105 time 0.330981
+TIMING_PERF put_data ts 5 peer 106 time 0.779800
+TIMING_PERF put_data ts 5 peer 107 time 0.212842
+TIMING_PERF put_data ts 5 peer 108 time 1.007503
+TIMING_PERF put_data ts 5 peer 109 time 0.189151
+TIMING_PERF put_data ts 5 peer 110 time 0.864048
+TIMING_PERF put_data ts 5 peer 111 time 0.167358
+TIMING_PERF put_data ts 5 peer 112 time 1.318427
+TIMING_PERF put_data ts 5 peer 113 time 0.800044
+TIMING_PERF put_data ts 5 peer 114 time 1.359537
+TIMING_PERF put_data ts 5 peer 115 time 0.782475
+TIMING_PERF put_data ts 5 peer 116 time 1.338848
+TIMING_PERF put_data ts 5 peer 117 time 0.649692
+TIMING_PERF put_data ts 5 peer 118 time 1.172542
+TIMING_PERF put_data ts 5 peer 119 time 0.559856
+TIMING_PERF put_data ts 5 peer 120 time 1.110059
+TIMING_PERF put_data ts 5 peer 121 time 0.692672
+TIMING_PERF put_data ts 5 peer 122 time 1.068941
+TIMING_PERF put_data ts 5 peer 123 time 0.447223
+TIMING_PERF put_data ts 5 peer 124 time 1.256070
+TIMING_PERF put_data ts 5 peer 125 time 0.846250
+TIMING_PERF put_data ts 5 peer 126 time 1.214390
+TIMING_PERF put_data ts 5 peer 127 time 0.825022
+test_put_run(): done
+TIMING_PERF fini_dspaces peer 3 time= 0.342375
+TIMING_PERF fini_dspaces peer 17 time= 0.342348
+TIMING_PERF fini_dspaces peer 73 time= 0.342496
+TIMING_PERF fini_dspaces peer 25 time= 0.342433
+TIMING_PERF fini_dspaces peer 26 time= 0.342437
+TIMING_PERF fini_dspaces peer 75 time= 0.342474
+TIMING_PERF fini_dspaces peer 76 time= 0.342510
+TIMING_PERF fini_dspaces peer 27 time= 0.342366
+TIMING_PERF fini_dspaces peer 77 time= 0.342513
+TIMING_PERF fini_dspaces peer 29 time= 0.342438
+TIMING_PERF fini_dspaces peer 79 time= 0.342500
+TIMING_PERF fini_dspaces peer 33 time= 0.342426
+TIMING_PERF fini_dspaces peer 81 time= 0.342446
+TIMING_PERF fini_dspaces peer 35 time= 0.342404
+TIMING_PERF fini_dspaces peer 83 time= 0.342484
+TIMING_PERF fini_dspaces peer 39 time= 0.342362
+TIMING_PERF fini_dspaces peer 85 time= 0.342500
+TIMING_PERF fini_dspaces peer 41 time= 0.342419
+TIMING_PERF fini_dspaces peer 86 time= 0.342511
+TIMING_PERF fini_dspaces peer 43 time= 0.342466
+TIMING_PERF fini_dspaces peer 87 time= 0.342473
+TIMING_PERF fini_dspaces peer 45 time= 0.342433
+TIMING_PERF fini_dspaces peer 88 time= 0.342510
+TIMING_PERF fini_dspaces peer 46 time= 0.342456
+TIMING_PERF fini_dspaces peer 89 time= 0.342508
+TIMING_PERF fini_dspaces peer 47 time= 0.342399
+TIMING_PERF fini_dspaces peer 91 time= 0.342477
+TIMING_PERF fini_dspaces peer 49 time= 0.342429
+TIMING_PERF fini_dspaces peer 93 time= 0.342526
+TIMING_PERF fini_dspaces peer 51 time= 0.342403
+TIMING_PERF fini_dspaces peer 95 time= 0.342530
+TIMING_PERF fini_dspaces peer 53 time= 0.342419
+TIMING_PERF fini_dspaces peer 96 time= 0.342516
+TIMING_PERF fini_dspaces peer 55 time= 0.342378
+TIMING_PERF fini_dspaces peer 98 time= 0.342515
+TIMING_PERF fini_dspaces peer 56 time= 0.342448
+TIMING_PERF fini_dspaces peer 99 time= 0.342487
+TIMING_PERF fini_dspaces peer 57 time= 0.342451
+TIMING_PERF fini_dspaces peer 100 time= 0.342446
+TIMING_PERF fini_dspaces peer 58 time= 0.342469
+TIMING_PERF fini_dspaces peer 101 time= 0.342456
+TIMING_PERF fini_dspaces peer 59 time= 0.342464
+TIMING_PERF fini_dspaces peer 102 time= 0.342447
+TIMING_PERF fini_dspaces peer 103 time= 0.342496
+TIMING_PERF fini_dspaces peer 60 time= 0.342402
+TIMING_PERF fini_dspaces peer 61 time= 0.342354
+TIMING_PERF fini_dspaces peer 104 time= 0.342543
+TIMING_PERF fini_dspaces peer 105 time= 0.342459
+TIMING_PERF fini_dspaces peer 63 time= 0.342448
+TIMING_PERF fini_dspaces peer 0 time= 0.342483
+TIMING_PERF fini_dspaces peer 106 time= 0.342507
+TIMING_PERF fini_dspaces peer 107 time= 0.342511
+TIMING_PERF fini_dspaces peer 2 time= 0.342463
+TIMING_PERF fini_dspaces peer 108 time= 0.342455
+TIMING_PERF fini_dspaces peer 4 time= 0.342512
+TIMING_PERF fini_dspaces peer 109 time= 0.342455
+TIMING_PERF fini_dspaces peer 5 time= 0.342467
+TIMING_PERF fini_dspaces peer 110 time= 0.342501
+TIMING_PERF fini_dspaces peer 6 time= 0.342485
+TIMING_PERF fini_dspaces peer 111 time= 0.342490
+TIMING_PERF fini_dspaces peer 7 time= 0.342462
+TIMING_PERF fini_dspaces peer 113 time= 0.342379
+TIMING_PERF fini_dspaces peer 8 time= 0.342479
+TIMING_PERF fini_dspaces peer 115 time= 0.342474
+TIMING_PERF fini_dspaces peer 9 time= 0.342445
+TIMING_PERF fini_dspaces peer 116 time= 0.342556
+TIMING_PERF fini_dspaces peer 10 time= 0.342479
+TIMING_PERF fini_dspaces peer 117 time= 0.342510
+TIMING_PERF fini_dspaces peer 11 time= 0.342461
+TIMING_PERF fini_dspaces peer 118 time= 0.342546
+TIMING_PERF fini_dspaces peer 12 time= 0.342435
+TIMING_PERF fini_dspaces peer 119 time= 0.342480
+TIMING_PERF fini_dspaces peer 13 time= 0.342446
+TIMING_PERF fini_dspaces peer 120 time= 0.342536
+TIMING_PERF fini_dspaces peer 14 time= 0.342497
+TIMING_PERF fini_dspaces peer 121 time= 0.342492
+TIMING_PERF fini_dspaces peer 15 time= 0.342468
+TIMING_PERF fini_dspaces peer 122 time= 0.342507
+TIMING_PERF fini_dspaces peer 16 time= 0.342503
+TIMING_PERF fini_dspaces peer 123 time= 0.342474
+TIMING_PERF fini_dspaces peer 18 time= 0.342484
+TIMING_PERF fini_dspaces peer 124 time= 0.342525
+TIMING_PERF fini_dspaces peer 19 time= 0.342457
+TIMING_PERF fini_dspaces peer 125 time= 0.342518
+TIMING_PERF fini_dspaces peer 20 time= 0.342488
+TIMING_PERF fini_dspaces peer 126 time= 0.342520
+TIMING_PERF fini_dspaces peer 21 time= 0.342458
+TIMING_PERF fini_dspaces peer 127 time= 0.342492
+TIMING_PERF fini_dspaces peer 22 time= 0.342472
+TIMING_PERF fini_dspaces peer 64 time= 0.342550
+TIMING_PERF fini_dspaces peer 23 time= 0.342452
+TIMING_PERF fini_dspaces peer 65 time= 0.342532
+TIMING_PERF fini_dspaces peer 24 time= 0.342453
+TIMING_PERF fini_dspaces peer 66 time= 0.342512
+TIMING_PERF fini_dspaces peer 28 time= 0.342469
+TIMING_PERF fini_dspaces peer 67 time= 0.342527
+TIMING_PERF fini_dspaces peer 30 time= 0.342471
+TIMING_PERF fini_dspaces peer 68 time= 0.342512
+TIMING_PERF fini_dspaces peer 31 time= 0.342528
+TIMING_PERF fini_dspaces peer 69 time= 0.342536
+TIMING_PERF fini_dspaces peer 32 time= 0.342500
+TIMING_PERF fini_dspaces peer 70 time= 0.342564
+TIMING_PERF fini_dspaces peer 34 time= 0.342498
+TIMING_PERF fini_dspaces peer 71 time= 0.342528
+TIMING_PERF fini_dspaces peer 72 time= 0.342560
+TIMING_PERF fini_dspaces peer 36 time= 0.342469
+TIMING_PERF fini_dspaces peer 74 time= 0.342532
+TIMING_PERF fini_dspaces peer 37 time= 0.342495
+TIMING_PERF fini_dspaces peer 78 time= 0.342564
+TIMING_PERF fini_dspaces peer 38 time= 0.342460
+TIMING_PERF fini_dspaces peer 80 time= 0.342539
+TIMING_PERF fini_dspaces peer 40 time= 0.342500
+TIMING_PERF fini_dspaces peer 82 time= 0.342528
+TIMING_PERF fini_dspaces peer 42 time= 0.342473
+TIMING_PERF fini_dspaces peer 84 time= 0.342547
+TIMING_PERF fini_dspaces peer 44 time= 0.342486
+TIMING_PERF fini_dspaces peer 90 time= 0.342554
+TIMING_PERF fini_dspaces peer 48 time= 0.342498
+TIMING_PERF fini_dspaces peer 92 time= 0.342539
+TIMING_PERF fini_dspaces peer 50 time= 0.342489
+TIMING_PERF fini_dspaces peer 94 time= 0.342541
+TIMING_PERF fini_dspaces peer 52 time= 0.342491
+TIMING_PERF fini_dspaces peer 112 time= 0.342558
+TIMING_PERF fini_dspaces peer 54 time= 0.342497
+TIMING_PERF fini_dspaces peer 114 time= 0.342559
+TIMING_PERF fini_dspaces peer 62 time= 0.342546
+TIMING_PERF fini_dspaces peer 1 time= 0.347402
+TIMING_PERF fini_dspaces peer 97 time= 0.342476

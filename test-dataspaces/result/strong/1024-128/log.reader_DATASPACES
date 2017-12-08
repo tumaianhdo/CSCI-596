@@ -1,0 +1,2182 @@
+TIMING_PERF init_dspaces peer 73 time 7.104034
+TIMING_PERF init_dspaces peer 0 time 7.102496
+TIMING_PERF init_dspaces peer 3 time 7.102526
+TIMING_PERF init_dspaces peer 8 time 7.102693
+TIMING_PERF init_dspaces peer 9 time 7.102701
+TIMING_PERF init_dspaces peer 35 time 7.102591
+TIMING_PERF init_dspaces peer 61 time 7.102595
+TIMING_PERF init_dspaces peer 63 time 7.102496
+TIMING_PERF init_dspaces peer 1 time 7.102472
+TIMING_PERF init_dspaces peer 2 time 7.102521
+TIMING_PERF init_dspaces peer 4 time 7.102623
+TIMING_PERF init_dspaces peer 6 time 7.102719
+TIMING_PERF init_dspaces peer 7 time 7.102637
+TIMING_PERF init_dspaces peer 10 time 7.102662
+TIMING_PERF init_dspaces peer 11 time 7.102658
+TIMING_PERF init_dspaces peer 12 time 7.102598
+TIMING_PERF init_dspaces peer 13 time 7.102520
+TIMING_PERF init_dspaces peer 14 time 7.102733
+TIMING_PERF init_dspaces peer 15 time 7.102553
+TIMING_PERF init_dspaces peer 16 time 7.102731
+TIMING_PERF init_dspaces peer 17 time 7.102537
+TIMING_PERF init_dspaces peer 18 time 7.102720
+TIMING_PERF init_dspaces peer 19 time 7.102539
+TIMING_PERF init_dspaces peer 20 time 7.102631
+TIMING_PERF init_dspaces peer 21 time 7.102621
+TIMING_PERF init_dspaces peer 22 time 7.102644
+TIMING_PERF init_dspaces peer 23 time 7.102620
+TIMING_PERF init_dspaces peer 24 time 7.102620
+TIMING_PERF init_dspaces peer 25 time 7.102627
+TIMING_PERF init_dspaces peer 26 time 7.102611
+TIMING_PERF init_dspaces peer 27 time 7.102681
+TIMING_PERF init_dspaces peer 28 time 7.102692
+TIMING_PERF init_dspaces peer 29 time 7.102615
+TIMING_PERF init_dspaces peer 30 time 7.102662
+TIMING_PERF init_dspaces peer 31 time 7.102646
+TIMING_PERF init_dspaces peer 32 time 7.102637
+TIMING_PERF init_dspaces peer 33 time 7.102622
+TIMING_PERF init_dspaces peer 34 time 7.102716
+TIMING_PERF init_dspaces peer 36 time 7.102672
+TIMING_PERF init_dspaces peer 37 time 7.102539
+TIMING_PERF init_dspaces peer 38 time 7.102642
+TIMING_PERF init_dspaces peer 39 time 7.102531
+TIMING_PERF init_dspaces peer 40 time 7.102565
+TIMING_PERF init_dspaces peer 41 time 7.102627
+TIMING_PERF init_dspaces peer 42 time 7.102678
+TIMING_PERF init_dspaces peer 43 time 7.102660
+TIMING_PERF init_dspaces peer 44 time 7.102717
+TIMING_PERF init_dspaces peer 45 time 7.102652
+TIMING_PERF init_dspaces peer 46 time 7.102541
+TIMING_PERF init_dspaces peer 47 time 7.102508
+TIMING_PERF init_dspaces peer 48 time 7.102624
+TIMING_PERF init_dspaces peer 49 time 7.102476
+TIMING_PERF init_dspaces peer 50 time 7.102633
+TIMING_PERF init_dspaces peer 51 time 7.102563
+TIMING_PERF init_dspaces peer 52 time 7.102677
+TIMING_PERF init_dspaces peer 53 time 7.102582
+TIMING_PERF init_dspaces peer 54 time 7.102648
+TIMING_PERF init_dspaces peer 55 time 7.102649
+TIMING_PERF init_dspaces peer 56 time 7.102682
+TIMING_PERF init_dspaces peer 57 time 7.102486
+TIMING_PERF init_dspaces peer 58 time 7.102699
+TIMING_PERF init_dspaces peer 59 time 7.102590
+TIMING_PERF init_dspaces peer 60 time 7.102645
+TIMING_PERF init_dspaces peer 62 time 7.102709
+TIMING_PERF init_dspaces peer 5 time 7.102511
+TIMING_PERF init_dspaces peer 85 time 7.103993
+TIMING_PERF init_dspaces peer 87 time 7.104054
+TIMING_PERF init_dspaces peer 89 time 7.104046
+TIMING_PERF init_dspaces peer 95 time 7.104079
+TIMING_PERF init_dspaces peer 97 time 7.104057
+TIMING_PERF init_dspaces peer 99 time 7.104061
+TIMING_PERF init_dspaces peer 103 time 7.104046
+TIMING_PERF init_dspaces peer 105 time 7.103956
+TIMING_PERF init_dspaces peer 117 time 7.104089
+TIMING_PERF init_dspaces peer 121 time 7.103992
+TIMING_PERF init_dspaces peer 125 time 7.104032
+TIMING_PERF init_dspaces peer 127 time 7.104010
+TIMING_PERF init_dspaces peer 64 time 7.104281
+TIMING_PERF init_dspaces peer 65 time 7.104110
+TIMING_PERF init_dspaces peer 66 time 7.104181
+TIMING_PERF init_dspaces peer 67 time 7.104247
+TIMING_PERF init_dspaces peer 68 time 7.104128
+TIMING_PERF init_dspaces peer 69 time 7.104251
+TIMING_PERF init_dspaces peer 70 time 7.104138
+TIMING_PERF init_dspaces peer 71 time 7.104179
+TIMING_PERF init_dspaces peer 74 time 7.104161
+TIMING_PERF init_dspaces peer 75 time 7.104142
+TIMING_PERF init_dspaces peer 76 time 7.104194
+TIMING_PERF init_dspaces peer 77 time 7.104289
+TIMING_PERF init_dspaces peer 78 time 7.104227
+TIMING_PERF init_dspaces peer 79 time 7.104258
+TIMING_PERF init_dspaces peer 80 time 7.104265
+TIMING_PERF init_dspaces peer 81 time 7.104293
+TIMING_PERF init_dspaces peer 82 time 7.104232
+TIMING_PERF init_dspaces peer 83 time 7.104277
+TIMING_PERF init_dspaces peer 84 time 7.104148
+TIMING_PERF init_dspaces peer 86 time 7.104120
+TIMING_PERF init_dspaces peer 88 time 7.104133
+TIMING_PERF init_dspaces peer 90 time 7.104243
+TIMING_PERF init_dspaces peer 91 time 7.104146
+TIMING_PERF init_dspaces peer 92 time 7.104038
+TIMING_PERF init_dspaces peer 93 time 7.104073
+TIMING_PERF init_dspaces peer 94 time 7.104164
+TIMING_PERF init_dspaces peer 96 time 7.104089
+TIMING_PERF init_dspaces peer 98 time 7.104254
+TIMING_PERF init_dspaces peer 100 time 7.104273
+TIMING_PERF init_dspaces peer 101 time 7.104177
+TIMING_PERF init_dspaces peer 102 time 7.104170
+TIMING_PERF init_dspaces peer 104 time 7.104300
+TIMING_PERF init_dspaces peer 106 time 7.104096
+TIMING_PERF init_dspaces peer 107 time 7.104211
+TIMING_PERF init_dspaces peer 108 time 7.104160
+TIMING_PERF init_dspaces peer 109 time 7.104243
+TIMING_PERF init_dspaces peer 110 time 7.104317
+TIMING_PERF init_dspaces peer 111 time 7.104206
+TIMING_PERF init_dspaces peer 112 time 7.104274
+TIMING_PERF init_dspaces peer 113 time 7.104077
+TIMING_PERF init_dspaces peer 114 time 7.104246
+TIMING_PERF init_dspaces peer 115 time 7.104138
+TIMING_PERF init_dspaces peer 116 time 7.104133
+TIMING_PERF init_dspaces peer 118 time 7.104099
+TIMING_PERF init_dspaces peer 119 time 7.104083
+TIMING_PERF init_dspaces peer 120 time 7.104086
+TIMING_PERF init_dspaces peer 122 time 7.104270
+TIMING_PERF init_dspaces peer 123 time 7.104248
+TIMING_PERF init_dspaces peer 124 time 7.104252
+TIMING_PERF init_dspaces peer 126 time 7.104201
+TIMING_PERF init_dspaces peer 72 time 7.108734
+Timestep=1, 64 read mnd (0,0,512,),(127,255,767,) from space
+Timestep=1, 0 read mnd (0,0,0,),(127,255,255,) from space
+Timestep=1, 65 read mnd (128,0,512,),(255,255,767,) from space
+Timestep=1, 1 read mnd (128,0,0,),(255,255,255,) from space
+Timestep=1, 66 read mnd (256,0,512,),(383,255,767,) from space
+Timestep=1, 2 read mnd (256,0,0,),(383,255,255,) from space
+Timestep=1, 67 read mnd (384,0,512,),(511,255,767,) from space
+Timestep=1, 3 read mnd (384,0,0,),(511,255,255,) from space
+Timestep=1, 68 read mnd (512,0,512,),(639,255,767,) from space
+Timestep=1, 4 read mnd (512,0,0,),(639,255,255,) from space
+Timestep=1, 69 read mnd (640,0,512,),(767,255,767,) from space
+Timestep=1, 5 read mnd (640,0,0,),(767,255,255,) from space
+Timestep=1, 70 read mnd (768,0,512,),(895,255,767,) from space
+Timestep=1, 6 read mnd (768,0,0,),(895,255,255,) from space
+Timestep=1, 71 read mnd (896,0,512,),(1023,255,767,) from space
+Timestep=1, 7 read mnd (896,0,0,),(1023,255,255,) from space
+Timestep=1, 72 read mnd (0,256,512,),(127,511,767,) from space
+Timestep=1, 8 read mnd (0,256,0,),(127,511,255,) from space
+Timestep=1, 73 read mnd (128,256,512,),(255,511,767,) from space
+Timestep=1, 9 read mnd (128,256,0,),(255,511,255,) from space
+Timestep=1, 74 read mnd (256,256,512,),(383,511,767,) from space
+Timestep=1, 10 read mnd (256,256,0,),(383,511,255,) from space
+Timestep=1, 75 read mnd (384,256,512,),(511,511,767,) from space
+Timestep=1, 76 read mnd (512,256,512,),(639,511,767,) from space
+Timestep=1, 11 read mnd (384,256,0,),(511,511,255,) from space
+Timestep=1, 12 read mnd (512,256,0,),(639,511,255,) from space
+Timestep=1, 77 read mnd (640,256,512,),(767,511,767,) from space
+Timestep=1, 13 read mnd (640,256,0,),(767,511,255,) from space
+Timestep=1, 78 read mnd (768,256,512,),(895,511,767,) from space
+Timestep=1, 14 read mnd (768,256,0,),(895,511,255,) from space
+Timestep=1, 79 read mnd (896,256,512,),(1023,511,767,) from space
+Timestep=1, 15 read mnd (896,256,0,),(1023,511,255,) from space
+Timestep=1, 80 read mnd (0,512,512,),(127,767,767,) from space
+Timestep=1, 16 read mnd (0,512,0,),(127,767,255,) from space
+Timestep=1, 81 read mnd (128,512,512,),(255,767,767,) from space
+Timestep=1, 17 read mnd (128,512,0,),(255,767,255,) from space
+Timestep=1, 82 read mnd (256,512,512,),(383,767,767,) from space
+Timestep=1, 18 read mnd (256,512,0,),(383,767,255,) from space
+Timestep=1, 83 read mnd (384,512,512,),(511,767,767,) from space
+Timestep=1, 19 read mnd (384,512,0,),(511,767,255,) from space
+Timestep=1, 84 read mnd (512,512,512,),(639,767,767,) from space
+Timestep=1, 20 read mnd (512,512,0,),(639,767,255,) from space
+Timestep=1, 85 read mnd (640,512,512,),(767,767,767,) from space
+Timestep=1, 21 read mnd (640,512,0,),(767,767,255,) from space
+Timestep=1, 86 read mnd (768,512,512,),(895,767,767,) from space
+Timestep=1, 22 read mnd (768,512,0,),(895,767,255,) from space
+Timestep=1, 87 read mnd (896,512,512,),(1023,767,767,) from space
+Timestep=1, 23 read mnd (896,512,0,),(1023,767,255,) from space
+Timestep=1, 88 read mnd (0,768,512,),(127,1023,767,) from space
+Timestep=1, 89 read mnd (128,768,512,),(255,1023,767,) from space
+Timestep=1, 90 read mnd (256,768,512,),(383,1023,767,) from space
+Timestep=1, 24 read mnd (0,768,0,),(127,1023,255,) from space
+Timestep=1, 25 read mnd (128,768,0,),(255,1023,255,) from space
+Timestep=1, 91 read mnd (384,768,512,),(511,1023,767,) from space
+Timestep=1, 92 read mnd (512,768,512,),(639,1023,767,) from space
+Timestep=1, 26 read mnd (256,768,0,),(383,1023,255,) from space
+Timestep=1, 93 read mnd (640,768,512,),(767,1023,767,) from space
+Timestep=1, 27 read mnd (384,768,0,),(511,1023,255,) from space
+Timestep=1, 28 read mnd (512,768,0,),(639,1023,255,) from space
+Timestep=1, 94 read mnd (768,768,512,),(895,1023,767,) from space
+Timestep=1, 29 read mnd (640,768,0,),(767,1023,255,) from space
+Timestep=1, 95 read mnd (896,768,512,),(1023,1023,767,) from space
+Timestep=1, 30 read mnd (768,768,0,),(895,1023,255,) from space
+Timestep=1, 96 read mnd (0,0,768,),(127,255,1023,) from space
+Timestep=1, 31 read mnd (896,768,0,),(1023,1023,255,) from space
+Timestep=1, 97 read mnd (128,0,768,),(255,255,1023,) from space
+Timestep=1, 32 read mnd (0,0,256,),(127,255,511,) from space
+Timestep=1, 98 read mnd (256,0,768,),(383,255,1023,) from space
+Timestep=1, 33 read mnd (128,0,256,),(255,255,511,) from space
+Timestep=1, 99 read mnd (384,0,768,),(511,255,1023,) from space
+Timestep=1, 34 read mnd (256,0,256,),(383,255,511,) from space
+Timestep=1, 100 read mnd (512,0,768,),(639,255,1023,) from space
+Timestep=1, 35 read mnd (384,0,256,),(511,255,511,) from space
+Timestep=1, 101 read mnd (640,0,768,),(767,255,1023,) from space
+Timestep=1, 36 read mnd (512,0,256,),(639,255,511,) from space
+Timestep=1, 102 read mnd (768,0,768,),(895,255,1023,) from space
+Timestep=1, 37 read mnd (640,0,256,),(767,255,511,) from space
+Timestep=1, 103 read mnd (896,0,768,),(1023,255,1023,) from space
+Timestep=1, 38 read mnd (768,0,256,),(895,255,511,) from space
+Timestep=1, 104 read mnd (0,256,768,),(127,511,1023,) from space
+Timestep=1, 39 read mnd (896,0,256,),(1023,255,511,) from space
+Timestep=1, 105 read mnd (128,256,768,),(255,511,1023,) from space
+Timestep=1, 106 read mnd (256,256,768,),(383,511,1023,) from space
+Timestep=1, 40 read mnd (0,256,256,),(127,511,511,) from space
+Timestep=1, 107 read mnd (384,256,768,),(511,511,1023,) from space
+Timestep=1, 41 read mnd (128,256,256,),(255,511,511,) from space
+Timestep=1, 108 read mnd (512,256,768,),(639,511,1023,) from space
+Timestep=1, 42 read mnd (256,256,256,),(383,511,511,) from space
+Timestep=1, 109 read mnd (640,256,768,),(767,511,1023,) from space
+Timestep=1, 43 read mnd (384,256,256,),(511,511,511,) from space
+Timestep=1, 110 read mnd (768,256,768,),(895,511,1023,) from space
+Timestep=1, 44 read mnd (512,256,256,),(639,511,511,) from space
+Timestep=1, 111 read mnd (896,256,768,),(1023,511,1023,) from space
+Timestep=1, 45 read mnd (640,256,256,),(767,511,511,) from space
+Timestep=1, 112 read mnd (0,512,768,),(127,767,1023,) from space
+Timestep=1, 46 read mnd (768,256,256,),(895,511,511,) from space
+Timestep=1, 113 read mnd (128,512,768,),(255,767,1023,) from space
+Timestep=1, 47 read mnd (896,256,256,),(1023,511,511,) from space
+Timestep=1, 114 read mnd (256,512,768,),(383,767,1023,) from space
+Timestep=1, 48 read mnd (0,512,256,),(127,767,511,) from space
+Timestep=1, 115 read mnd (384,512,768,),(511,767,1023,) from space
+Timestep=1, 49 read mnd (128,512,256,),(255,767,511,) from space
+Timestep=1, 116 read mnd (512,512,768,),(639,767,1023,) from space
+Timestep=1, 50 read mnd (256,512,256,),(383,767,511,) from space
+Timestep=1, 117 read mnd (640,512,768,),(767,767,1023,) from space
+Timestep=1, 51 read mnd (384,512,256,),(511,767,511,) from space
+Timestep=1, 118 read mnd (768,512,768,),(895,767,1023,) from space
+Timestep=1, 119 read mnd (896,512,768,),(1023,767,1023,) from space
+Timestep=1, 52 read mnd (512,512,256,),(639,767,511,) from space
+Timestep=1, 120 read mnd (0,768,768,),(127,1023,1023,) from space
+Timestep=1, 53 read mnd (640,512,256,),(767,767,511,) from space
+Timestep=1, 121 read mnd (128,768,768,),(255,1023,1023,) from space
+Timestep=1, 54 read mnd (768,512,256,),(895,767,511,) from space
+Timestep=1, 122 read mnd (256,768,768,),(383,1023,1023,) from space
+Timestep=1, 55 read mnd (896,512,256,),(1023,767,511,) from space
+Timestep=1, 123 read mnd (384,768,768,),(511,1023,1023,) from space
+Timestep=1, 56 read mnd (0,768,256,),(127,1023,511,) from space
+Timestep=1, 124 read mnd (512,768,768,),(639,1023,1023,) from space
+Timestep=1, 57 read mnd (128,768,256,),(255,1023,511,) from space
+Timestep=1, 125 read mnd (640,768,768,),(767,1023,1023,) from space
+Timestep=1, 58 read mnd (256,768,256,),(383,1023,511,) from space
+Timestep=1, 126 read mnd (768,768,768,),(895,1023,1023,) from space
+Timestep=1, 59 read mnd (384,768,256,),(511,1023,511,) from space
+Timestep=1, 127 read mnd (896,768,768,),(1023,1023,1023,) from space
+Timestep=1, 60 read mnd (512,768,256,),(639,1023,511,) from space
+Timestep=1, 61 read mnd (640,768,256,),(767,1023,511,) from space
+Timestep=1, 62 read mnd (768,768,256,),(895,1023,511,) from space
+Timestep=1, 63 read mnd (896,768,256,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 1 peer 71 time 1.486878
+TIMING_PERF get_data ts 1 peer 75 time 1.468640
+TIMING_PERF get_data ts 1 peer 77 time 1.518864
+TIMING_PERF get_data ts 1 peer 105 time 1.473501
+TIMING_PERF get_data ts 1 peer 118 time 1.559926
+TIMING_PERF get_data ts 1 peer 119 time 1.518359
+TIMING_PERF get_data ts 1 peer 123 time 1.505175
+TIMING_PERF get_data ts 1 peer 65 time 1.507682
+TIMING_PERF get_data ts 1 peer 66 time 1.545082
+TIMING_PERF get_data ts 1 peer 67 time 1.514305
+TIMING_PERF get_data ts 1 peer 70 time 1.545205
+TIMING_PERF get_data ts 1 peer 73 time 1.451893
+TIMING_PERF get_data ts 1 peer 74 time 1.521626
+TIMING_PERF get_data ts 1 peer 76 time 1.557207
+TIMING_PERF get_data ts 1 peer 78 time 1.516657
+TIMING_PERF get_data ts 1 peer 79 time 1.516894
+TIMING_PERF get_data ts 1 peer 81 time 1.478987
+TIMING_PERF get_data ts 1 peer 82 time 1.500342
+TIMING_PERF get_data ts 1 peer 83 time 1.512734
+TIMING_PERF get_data ts 1 peer 86 time 1.554474
+TIMING_PERF get_data ts 1 peer 87 time 1.515513
+TIMING_PERF get_data ts 1 peer 89 time 1.446604
+TIMING_PERF get_data ts 1 peer 90 time 1.531528
+TIMING_PERF get_data ts 1 peer 91 time 1.487973
+TIMING_PERF get_data ts 1 peer 93 time 1.505254
+TIMING_PERF get_data ts 1 peer 97 time 1.438147
+TIMING_PERF get_data ts 1 peer 98 time 1.471237
+TIMING_PERF get_data ts 1 peer 99 time 1.498472
+TIMING_PERF get_data ts 1 peer 100 time 1.555105
+TIMING_PERF get_data ts 1 peer 101 time 1.479582
+TIMING_PERF get_data ts 1 peer 102 time 1.528748
+TIMING_PERF get_data ts 1 peer 103 time 1.513077
+TIMING_PERF get_data ts 1 peer 109 time 1.517147
+TIMING_PERF get_data ts 1 peer 111 time 1.500335
+TIMING_PERF get_data ts 1 peer 114 time 1.550550
+TIMING_PERF get_data ts 1 peer 115 time 1.509865
+TIMING_PERF get_data ts 1 peer 126 time 1.542152
+TIMING_PERF get_data ts 1 peer 127 time 1.496110
+TIMING_PERF get_data ts 1 peer 68 time 1.558662
+TIMING_PERF get_data ts 1 peer 69 time 1.511222
+TIMING_PERF get_data ts 1 peer 80 time 1.517876
+TIMING_PERF get_data ts 1 peer 84 time 1.552856
+TIMING_PERF get_data ts 1 peer 85 time 1.512981
+TIMING_PERF get_data ts 1 peer 88 time 1.538079
+TIMING_PERF get_data ts 1 peer 92 time 1.525740
+TIMING_PERF get_data ts 1 peer 94 time 1.537334
+TIMING_PERF get_data ts 1 peer 95 time 1.515865
+TIMING_PERF get_data ts 1 peer 96 time 1.500089
+TIMING_PERF get_data ts 1 peer 104 time 1.502309
+TIMING_PERF get_data ts 1 peer 106 time 1.527459
+TIMING_PERF get_data ts 1 peer 107 time 1.448431
+TIMING_PERF get_data ts 1 peer 108 time 1.549389
+TIMING_PERF get_data ts 1 peer 110 time 1.557451
+TIMING_PERF get_data ts 1 peer 112 time 1.554209
+TIMING_PERF get_data ts 1 peer 113 time 1.471182
+TIMING_PERF get_data ts 1 peer 116 time 1.560570
+TIMING_PERF get_data ts 1 peer 117 time 1.518722
+TIMING_PERF get_data ts 1 peer 120 time 1.548357
+TIMING_PERF get_data ts 1 peer 121 time 1.492659
+TIMING_PERF get_data ts 1 peer 122 time 1.545185
+TIMING_PERF get_data ts 1 peer 124 time 1.556374
+TIMING_PERF get_data ts 1 peer 125 time 1.501532
+TIMING_PERF get_data ts 1 peer 3 time 1.580269
+TIMING_PERF get_data ts 1 peer 64 time 1.579355
+TIMING_PERF get_data ts 1 peer 72 time 1.463854
+TIMING_PERF get_data ts 1 peer 9 time 1.610887
+TIMING_PERF get_data ts 1 peer 15 time 1.551858
+TIMING_PERF get_data ts 1 peer 19 time 1.538196
+TIMING_PERF get_data ts 1 peer 31 time 1.549431
+TIMING_PERF get_data ts 1 peer 33 time 1.594191
+TIMING_PERF get_data ts 1 peer 37 time 1.594200
+TIMING_PERF get_data ts 1 peer 45 time 1.619166
+TIMING_PERF get_data ts 1 peer 57 time 1.581961
+TIMING_PERF get_data ts 1 peer 63 time 1.573648
+TIMING_PERF get_data ts 1 peer 1 time 1.575617
+TIMING_PERF get_data ts 1 peer 5 time 1.621617
+TIMING_PERF get_data ts 1 peer 7 time 1.601668
+TIMING_PERF get_data ts 1 peer 13 time 1.588296
+TIMING_PERF get_data ts 1 peer 21 time 1.580112
+TIMING_PERF get_data ts 1 peer 23 time 1.582990
+TIMING_PERF get_data ts 1 peer 25 time 1.595226
+TIMING_PERF get_data ts 1 peer 27 time 1.529403
+TIMING_PERF get_data ts 1 peer 35 time 1.565232
+TIMING_PERF get_data ts 1 peer 39 time 1.566288
+TIMING_PERF get_data ts 1 peer 41 time 1.524935
+TIMING_PERF get_data ts 1 peer 47 time 1.604724
+TIMING_PERF get_data ts 1 peer 51 time 1.597726
+TIMING_PERF get_data ts 1 peer 53 time 1.611098
+TIMING_PERF get_data ts 1 peer 55 time 1.613595
+TIMING_PERF get_data ts 1 peer 59 time 1.589974
+TIMING_PERF get_data ts 1 peer 61 time 1.591914
+TIMING_PERF get_data ts 1 peer 4 time 1.575109
+TIMING_PERF get_data ts 1 peer 6 time 1.550794
+TIMING_PERF get_data ts 1 peer 12 time 1.626146
+TIMING_PERF get_data ts 1 peer 14 time 1.628067
+TIMING_PERF get_data ts 1 peer 18 time 1.599707
+TIMING_PERF get_data ts 1 peer 22 time 1.608021
+TIMING_PERF get_data ts 1 peer 26 time 1.610650
+TIMING_PERF get_data ts 1 peer 30 time 1.588728
+TIMING_PERF get_data ts 1 peer 34 time 1.504606
+TIMING_PERF get_data ts 1 peer 46 time 1.629334
+TIMING_PERF get_data ts 1 peer 50 time 1.606796
+TIMING_PERF get_data ts 1 peer 54 time 1.624086
+TIMING_PERF get_data ts 1 peer 58 time 1.480804
+TIMING_PERF get_data ts 1 peer 60 time 1.594831
+TIMING_PERF get_data ts 1 peer 62 time 1.584155
+TIMING_PERF get_data ts 1 peer 2 time 1.501285
+TIMING_PERF get_data ts 1 peer 20 time 1.602133
+TIMING_PERF get_data ts 1 peer 36 time 1.624731
+TIMING_PERF get_data ts 1 peer 38 time 1.611926
+TIMING_PERF get_data ts 1 peer 44 time 1.626951
+TIMING_PERF get_data ts 1 peer 56 time 1.588759
+TIMING_PERF get_data ts 1 peer 8 time 1.619453
+TIMING_PERF get_data ts 1 peer 10 time 1.617108
+TIMING_PERF get_data ts 1 peer 11 time 1.601985
+TIMING_PERF get_data ts 1 peer 49 time 1.591322
+TIMING_PERF get_data ts 1 peer 52 time 1.620222
+TIMING_PERF get_data ts 1 peer 0 time 1.623173
+TS= 1 TRANSPORT_TYPE= DATASPACES read MAX time= 1.629334
+TIMING_PERF get_data ts 1 peer 16 time 1.566672
+TIMING_PERF get_data ts 1 peer 17 time 1.521803
+TIMING_PERF get_data ts 1 peer 24 time 1.601585
+TIMING_PERF get_data ts 1 peer 28 time 1.599541
+TIMING_PERF get_data ts 1 peer 29 time 1.566413
+TIMING_PERF get_data ts 1 peer 32 time 1.560195
+TIMING_PERF get_data ts 1 peer 40 time 1.481522
+TIMING_PERF get_data ts 1 peer 42 time 1.517126
+TIMING_PERF get_data ts 1 peer 43 time 1.531242
+TIMING_PERF get_data ts 1 peer 48 time 1.620675
+check_data(): var= mnd_0, rank= 74, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 66, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 100, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 102, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 118, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 82, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 98, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 90, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 86, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 108, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 105, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 110, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 114, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 122, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 126, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 70, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 80, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 83, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 84, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 88, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 92, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 94, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 96, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 104, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 106, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 112, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 116, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 119, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 120, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 124, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 68, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 71, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 76, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 77, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 78, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 79, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 81, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 87, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 89, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 91, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 93, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 95, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 97, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 99, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 101, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 103, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 109, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 111, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 115, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 123, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 65, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 67, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 69, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 73, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 75, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 85, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 107, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 113, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 117, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 121, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 125, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 127, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 64, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 19, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 41, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 9, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 31, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 51, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 45, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 37, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 47, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 33, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 23, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 35, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 39, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 63, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 5, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 7, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 15, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 21, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 72, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 25, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 27, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 53, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 55, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 57, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 61, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 1, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 3, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 13, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 59, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 43, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 17, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 29, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 11, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 26, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 34, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 54, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 18, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 46, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 50, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 30, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 2, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 38, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 60, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 62, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 20, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 22, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 36, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 44, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 58, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 56, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 6, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 4, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 12, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 14, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 32, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 16, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 24, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 48, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 52, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 28, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 40, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 42, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 8, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 10, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 0, max= 1.000000, min= 1.000000, avg= 1.000000
+check_data(): var= mnd_0, rank= 49, max= 1.000000, min= 1.000000, avg= 1.000000
+Timestep=2, 64 read mnd (0,0,512,),(127,255,767,) from space
+Timestep=2, 0 read mnd (0,0,0,),(127,255,255,) from space
+Timestep=2, 65 read mnd (128,0,512,),(255,255,767,) from space
+Timestep=2, 1 read mnd (128,0,0,),(255,255,255,) from space
+Timestep=2, 66 read mnd (256,0,512,),(383,255,767,) from space
+Timestep=2, 2 read mnd (256,0,0,),(383,255,255,) from space
+Timestep=2, 67 read mnd (384,0,512,),(511,255,767,) from space
+Timestep=2, 3 read mnd (384,0,0,),(511,255,255,) from space
+Timestep=2, 68 read mnd (512,0,512,),(639,255,767,) from space
+Timestep=2, 4 read mnd (512,0,0,),(639,255,255,) from space
+Timestep=2, 69 read mnd (640,0,512,),(767,255,767,) from space
+Timestep=2, 5 read mnd (640,0,0,),(767,255,255,) from space
+Timestep=2, 70 read mnd (768,0,512,),(895,255,767,) from space
+Timestep=2, 6 read mnd (768,0,0,),(895,255,255,) from space
+Timestep=2, 71 read mnd (896,0,512,),(1023,255,767,) from space
+Timestep=2, 7 read mnd (896,0,0,),(1023,255,255,) from space
+Timestep=2, 72 read mnd (0,256,512,),(127,511,767,) from space
+Timestep=2, 8 read mnd (0,256,0,),(127,511,255,) from space
+Timestep=2, 73 read mnd (128,256,512,),(255,511,767,) from space
+Timestep=2, 9 read mnd (128,256,0,),(255,511,255,) from space
+Timestep=2, 74 read mnd (256,256,512,),(383,511,767,) from space
+Timestep=2, 75 read mnd (384,256,512,),(511,511,767,) from space
+Timestep=2, 10 read mnd (256,256,0,),(383,511,255,) from space
+Timestep=2, 76 read mnd (512,256,512,),(639,511,767,) from space
+Timestep=2, 11 read mnd (384,256,0,),(511,511,255,) from space
+Timestep=2, 77 read mnd (640,256,512,),(767,511,767,) from space
+Timestep=2, 12 read mnd (512,256,0,),(639,511,255,) from space
+Timestep=2, 78 read mnd (768,256,512,),(895,511,767,) from space
+Timestep=2, 13 read mnd (640,256,0,),(767,511,255,) from space
+Timestep=2, 79 read mnd (896,256,512,),(1023,511,767,) from space
+Timestep=2, 14 read mnd (768,256,0,),(895,511,255,) from space
+Timestep=2, 15 read mnd (896,256,0,),(1023,511,255,) from space
+Timestep=2, 80 read mnd (0,512,512,),(127,767,767,) from space
+Timestep=2, 16 read mnd (0,512,0,),(127,767,255,) from space
+Timestep=2, 81 read mnd (128,512,512,),(255,767,767,) from space
+Timestep=2, 82 read mnd (256,512,512,),(383,767,767,) from space
+Timestep=2, 17 read mnd (128,512,0,),(255,767,255,) from space
+Timestep=2, 18 read mnd (256,512,0,),(383,767,255,) from space
+Timestep=2, 83 read mnd (384,512,512,),(511,767,767,) from space
+Timestep=2, 19 read mnd (384,512,0,),(511,767,255,) from space
+Timestep=2, 84 read mnd (512,512,512,),(639,767,767,) from space
+Timestep=2, 20 read mnd (512,512,0,),(639,767,255,) from space
+Timestep=2, 85 read mnd (640,512,512,),(767,767,767,) from space
+Timestep=2, 86 read mnd (768,512,512,),(895,767,767,) from space
+Timestep=2, 21 read mnd (640,512,0,),(767,767,255,) from space
+Timestep=2, 87 read mnd (896,512,512,),(1023,767,767,) from space
+Timestep=2, 88 read mnd (0,768,512,),(127,1023,767,) from space
+Timestep=2, 22 read mnd (768,512,0,),(895,767,255,) from space
+Timestep=2, 89 read mnd (128,768,512,),(255,1023,767,) from space
+Timestep=2, 23 read mnd (896,512,0,),(1023,767,255,) from space
+Timestep=2, 90 read mnd (256,768,512,),(383,1023,767,) from space
+Timestep=2, 24 read mnd (0,768,0,),(127,1023,255,) from space
+Timestep=2, 91 read mnd (384,768,512,),(511,1023,767,) from space
+Timestep=2, 25 read mnd (128,768,0,),(255,1023,255,) from space
+Timestep=2, 92 read mnd (512,768,512,),(639,1023,767,) from space
+Timestep=2, 26 read mnd (256,768,0,),(383,1023,255,) from space
+Timestep=2, 93 read mnd (640,768,512,),(767,1023,767,) from space
+Timestep=2, 27 read mnd (384,768,0,),(511,1023,255,) from space
+Timestep=2, 94 read mnd (768,768,512,),(895,1023,767,) from space
+Timestep=2, 28 read mnd (512,768,0,),(639,1023,255,) from space
+Timestep=2, 95 read mnd (896,768,512,),(1023,1023,767,) from space
+Timestep=2, 96 read mnd (0,0,768,),(127,255,1023,) from space
+Timestep=2, 29 read mnd (640,768,0,),(767,1023,255,) from space
+Timestep=2, 97 read mnd (128,0,768,),(255,255,1023,) from space
+Timestep=2, 30 read mnd (768,768,0,),(895,1023,255,) from space
+Timestep=2, 98 read mnd (256,0,768,),(383,255,1023,) from space
+Timestep=2, 31 read mnd (896,768,0,),(1023,1023,255,) from space
+Timestep=2, 99 read mnd (384,0,768,),(511,255,1023,) from space
+Timestep=2, 32 read mnd (0,0,256,),(127,255,511,) from space
+Timestep=2, 100 read mnd (512,0,768,),(639,255,1023,) from space
+Timestep=2, 33 read mnd (128,0,256,),(255,255,511,) from space
+Timestep=2, 101 read mnd (640,0,768,),(767,255,1023,) from space
+Timestep=2, 34 read mnd (256,0,256,),(383,255,511,) from space
+Timestep=2, 102 read mnd (768,0,768,),(895,255,1023,) from space
+Timestep=2, 35 read mnd (384,0,256,),(511,255,511,) from space
+Timestep=2, 103 read mnd (896,0,768,),(1023,255,1023,) from space
+Timestep=2, 36 read mnd (512,0,256,),(639,255,511,) from space
+Timestep=2, 104 read mnd (0,256,768,),(127,511,1023,) from space
+Timestep=2, 37 read mnd (640,0,256,),(767,255,511,) from space
+Timestep=2, 105 read mnd (128,256,768,),(255,511,1023,) from space
+Timestep=2, 38 read mnd (768,0,256,),(895,255,511,) from space
+Timestep=2, 106 read mnd (256,256,768,),(383,511,1023,) from space
+Timestep=2, 39 read mnd (896,0,256,),(1023,255,511,) from space
+Timestep=2, 107 read mnd (384,256,768,),(511,511,1023,) from space
+Timestep=2, 40 read mnd (0,256,256,),(127,511,511,) from space
+Timestep=2, 108 read mnd (512,256,768,),(639,511,1023,) from space
+Timestep=2, 41 read mnd (128,256,256,),(255,511,511,) from space
+Timestep=2, 109 read mnd (640,256,768,),(767,511,1023,) from space
+Timestep=2, 42 read mnd (256,256,256,),(383,511,511,) from space
+Timestep=2, 110 read mnd (768,256,768,),(895,511,1023,) from space
+Timestep=2, 43 read mnd (384,256,256,),(511,511,511,) from space
+Timestep=2, 111 read mnd (896,256,768,),(1023,511,1023,) from space
+Timestep=2, 112 read mnd (0,512,768,),(127,767,1023,) from space
+Timestep=2, 44 read mnd (512,256,256,),(639,511,511,) from space
+Timestep=2, 45 read mnd (640,256,256,),(767,511,511,) from space
+Timestep=2, 113 read mnd (128,512,768,),(255,767,1023,) from space
+Timestep=2, 46 read mnd (768,256,256,),(895,511,511,) from space
+Timestep=2, 114 read mnd (256,512,768,),(383,767,1023,) from space
+Timestep=2, 115 read mnd (384,512,768,),(511,767,1023,) from space
+Timestep=2, 47 read mnd (896,256,256,),(1023,511,511,) from space
+Timestep=2, 116 read mnd (512,512,768,),(639,767,1023,) from space
+Timestep=2, 48 read mnd (0,512,256,),(127,767,511,) from space
+Timestep=2, 117 read mnd (640,512,768,),(767,767,1023,) from space
+Timestep=2, 49 read mnd (128,512,256,),(255,767,511,) from space
+Timestep=2, 118 read mnd (768,512,768,),(895,767,1023,) from space
+Timestep=2, 50 read mnd (256,512,256,),(383,767,511,) from space
+Timestep=2, 119 read mnd (896,512,768,),(1023,767,1023,) from space
+Timestep=2, 51 read mnd (384,512,256,),(511,767,511,) from space
+Timestep=2, 120 read mnd (0,768,768,),(127,1023,1023,) from space
+Timestep=2, 52 read mnd (512,512,256,),(639,767,511,) from space
+Timestep=2, 121 read mnd (128,768,768,),(255,1023,1023,) from space
+Timestep=2, 53 read mnd (640,512,256,),(767,767,511,) from space
+Timestep=2, 122 read mnd (256,768,768,),(383,1023,1023,) from space
+Timestep=2, 54 read mnd (768,512,256,),(895,767,511,) from space
+Timestep=2, 123 read mnd (384,768,768,),(511,1023,1023,) from space
+Timestep=2, 55 read mnd (896,512,256,),(1023,767,511,) from space
+Timestep=2, 124 read mnd (512,768,768,),(639,1023,1023,) from space
+Timestep=2, 125 read mnd (640,768,768,),(767,1023,1023,) from space
+Timestep=2, 56 read mnd (0,768,256,),(127,1023,511,) from space
+Timestep=2, 126 read mnd (768,768,768,),(895,1023,1023,) from space
+Timestep=2, 57 read mnd (128,768,256,),(255,1023,511,) from space
+Timestep=2, 127 read mnd (896,768,768,),(1023,1023,1023,) from space
+Timestep=2, 58 read mnd (256,768,256,),(383,1023,511,) from space
+Timestep=2, 59 read mnd (384,768,256,),(511,1023,511,) from space
+Timestep=2, 60 read mnd (512,768,256,),(639,1023,511,) from space
+Timestep=2, 61 read mnd (640,768,256,),(767,1023,511,) from space
+Timestep=2, 62 read mnd (768,768,256,),(895,1023,511,) from space
+Timestep=2, 63 read mnd (896,768,256,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 2 peer 1 time 1.421088
+TIMING_PERF get_data ts 2 peer 2 time 1.560914
+TIMING_PERF get_data ts 2 peer 65 time 1.507599
+TIMING_PERF get_data ts 2 peer 3 time 1.406142
+TIMING_PERF get_data ts 2 peer 66 time 1.484127
+TIMING_PERF get_data ts 2 peer 4 time 1.610971
+TIMING_PERF get_data ts 2 peer 67 time 1.463879
+TIMING_PERF get_data ts 2 peer 5 time 1.552452
+TIMING_PERF get_data ts 2 peer 68 time 1.604320
+TIMING_PERF get_data ts 2 peer 6 time 1.661763
+TIMING_PERF get_data ts 2 peer 69 time 1.565920
+TIMING_PERF get_data ts 2 peer 7 time 1.516176
+TIMING_PERF get_data ts 2 peer 70 time 1.538277
+TIMING_PERF get_data ts 2 peer 8 time 1.527563
+TIMING_PERF get_data ts 2 peer 71 time 1.574941
+TIMING_PERF get_data ts 2 peer 9 time 1.406210
+TIMING_PERF get_data ts 2 peer 72 time 1.477111
+TIMING_PERF get_data ts 2 peer 10 time 1.555511
+TIMING_PERF get_data ts 2 peer 11 time 1.389970
+TIMING_PERF get_data ts 2 peer 73 time 1.487814
+TIMING_PERF get_data ts 2 peer 12 time 1.677430
+TIMING_PERF get_data ts 2 peer 74 time 1.499522
+TIMING_PERF get_data ts 2 peer 13 time 1.575161
+TIMING_PERF get_data ts 2 peer 75 time 1.497609
+TIMING_PERF get_data ts 2 peer 14 time 1.661558
+TIMING_PERF get_data ts 2 peer 76 time 1.599450
+TIMING_PERF get_data ts 2 peer 15 time 1.523872
+TIMING_PERF get_data ts 2 peer 77 time 1.533009
+TIMING_PERF get_data ts 2 peer 16 time 1.545479
+TIMING_PERF get_data ts 2 peer 78 time 1.586684
+TIMING_PERF get_data ts 2 peer 17 time 1.440653
+TIMING_PERF get_data ts 2 peer 79 time 1.519830
+TIMING_PERF get_data ts 2 peer 18 time 1.550613
+TIMING_PERF get_data ts 2 peer 80 time 1.525914
+TIMING_PERF get_data ts 2 peer 19 time 1.444047
+TIMING_PERF get_data ts 2 peer 81 time 1.383236
+TIMING_PERF get_data ts 2 peer 20 time 1.608393
+TIMING_PERF get_data ts 2 peer 82 time 1.501859
+TIMING_PERF get_data ts 2 peer 21 time 1.488727
+TIMING_PERF get_data ts 2 peer 83 time 1.464446
+TIMING_PERF get_data ts 2 peer 22 time 1.654878
+TIMING_PERF get_data ts 2 peer 84 time 1.547049
+TIMING_PERF get_data ts 2 peer 23 time 1.519558
+TIMING_PERF get_data ts 2 peer 85 time 1.635591
+TIMING_PERF get_data ts 2 peer 24 time 1.515700
+TIMING_PERF get_data ts 2 peer 86 time 1.552196
+TIMING_PERF get_data ts 2 peer 25 time 1.433822
+TIMING_PERF get_data ts 2 peer 87 time 1.599990
+TIMING_PERF get_data ts 2 peer 26 time 1.527186
+TIMING_PERF get_data ts 2 peer 88 time 1.520822
+TIMING_PERF get_data ts 2 peer 27 time 1.430914
+TIMING_PERF get_data ts 2 peer 89 time 1.400354
+TIMING_PERF get_data ts 2 peer 28 time 1.640645
+TIMING_PERF get_data ts 2 peer 90 time 1.508844
+TIMING_PERF get_data ts 2 peer 29 time 1.488976
+TIMING_PERF get_data ts 2 peer 91 time 1.455153
+TIMING_PERF get_data ts 2 peer 30 time 1.576646
+TIMING_PERF get_data ts 2 peer 92 time 1.524203
+TIMING_PERF get_data ts 2 peer 31 time 1.500154
+TIMING_PERF get_data ts 2 peer 93 time 1.471138
+TIMING_PERF get_data ts 2 peer 33 time 1.397460
+TIMING_PERF get_data ts 2 peer 94 time 1.539048
+TIMING_PERF get_data ts 2 peer 34 time 1.455281
+TIMING_PERF get_data ts 2 peer 95 time 1.553232
+TIMING_PERF get_data ts 2 peer 35 time 1.386411
+TIMING_PERF get_data ts 2 peer 101 time 1.576036
+TIMING_PERF get_data ts 2 peer 37 time 1.501138
+TIMING_PERF get_data ts 2 peer 103 time 1.643139
+TIMING_PERF get_data ts 2 peer 45 time 1.568704
+TIMING_PERF get_data ts 2 peer 109 time 1.556050
+TIMING_PERF get_data ts 2 peer 53 time 1.562118
+TIMING_PERF get_data ts 2 peer 113 time 1.466942
+TIMING_PERF get_data ts 2 peer 58 time 1.531007
+TIMING_PERF get_data ts 2 peer 120 time 1.528341
+TIMING_PERF get_data ts 2 peer 59 time 1.464663
+TIMING_PERF get_data ts 2 peer 121 time 1.439477
+TIMING_PERF get_data ts 2 peer 62 time 1.645284
+TIMING_PERF get_data ts 2 peer 122 time 1.540205
+TIMING_PERF get_data ts 2 peer 63 time 1.513872
+TIMING_PERF get_data ts 2 peer 123 time 1.444786
+TIMING_PERF get_data ts 2 peer 36 time 1.683452
+TIMING_PERF get_data ts 2 peer 124 time 1.621288
+TIMING_PERF get_data ts 2 peer 38 time 1.680013
+TIMING_PERF get_data ts 2 peer 125 time 1.546884
+TIMING_PERF get_data ts 2 peer 39 time 1.509675
+TIMING_PERF get_data ts 2 peer 126 time 1.603256
+TIMING_PERF get_data ts 2 peer 40 time 1.550040
+TIMING_PERF get_data ts 2 peer 127 time 1.579965
+TIMING_PERF get_data ts 2 peer 41 time 1.437895
+TIMING_PERF get_data ts 2 peer 64 time 1.563160
+TIMING_PERF get_data ts 2 peer 42 time 1.560117
+TIMING_PERF get_data ts 2 peer 43 time 1.422916
+TIMING_PERF get_data ts 2 peer 96 time 1.408913
+TIMING_PERF get_data ts 2 peer 44 time 1.603518
+TIMING_PERF get_data ts 2 peer 97 time 1.399875
+TIMING_PERF get_data ts 2 peer 46 time 1.587766
+TIMING_PERF get_data ts 2 peer 98 time 1.443620
+TIMING_PERF get_data ts 2 peer 47 time 1.489282
+TIMING_PERF get_data ts 2 peer 99 time 1.383811
+TIMING_PERF get_data ts 2 peer 50 time 1.567855
+TIMING_PERF get_data ts 2 peer 100 time 1.517507
+TIMING_PERF get_data ts 2 peer 51 time 1.403646
+TIMING_PERF get_data ts 2 peer 102 time 1.535775
+TIMING_PERF get_data ts 2 peer 52 time 1.633363
+TIMING_PERF get_data ts 2 peer 104 time 1.444767
+TIMING_PERF get_data ts 2 peer 105 time 1.478892
+TIMING_PERF get_data ts 2 peer 54 time 1.674102
+TIMING_PERF get_data ts 2 peer 106 time 1.454531
+TIMING_PERF get_data ts 2 peer 55 time 1.541644
+TIMING_PERF get_data ts 2 peer 107 time 1.466660
+TIMING_PERF get_data ts 2 peer 56 time 1.540619
+TIMING_PERF get_data ts 2 peer 108 time 1.611015
+TIMING_PERF get_data ts 2 peer 57 time 1.447984
+TIMING_PERF get_data ts 2 peer 110 time 1.633565
+TIMING_PERF get_data ts 2 peer 60 time 1.671348
+TIMING_PERF get_data ts 2 peer 111 time 1.583140
+TIMING_PERF get_data ts 2 peer 61 time 1.478706
+TIMING_PERF get_data ts 2 peer 112 time 1.492248
+TIMING_PERF get_data ts 2 peer 114 time 1.462162
+TIMING_PERF get_data ts 2 peer 115 time 1.394191
+TIMING_PERF get_data ts 2 peer 116 time 1.664717
+TIMING_PERF get_data ts 2 peer 0 time 1.571887
+TS= 2 TRANSPORT_TYPE= DATASPACES read MAX time= 1.683452
+TIMING_PERF get_data ts 2 peer 117 time 1.629955
+TIMING_PERF get_data ts 2 peer 32 time 1.556921
+TIMING_PERF get_data ts 2 peer 118 time 1.651543
+TIMING_PERF get_data ts 2 peer 48 time 1.565854
+TIMING_PERF get_data ts 2 peer 119 time 1.608964
+TIMING_PERF get_data ts 2 peer 49 time 1.418654
+check_data(): var= mnd_0, rank= 34, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 2, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 50, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 45, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 74, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 51, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 16, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 68, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 24, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 26, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 80, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 58, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 82, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 62, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 84, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 4, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 86, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 6, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 88, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 10, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 92, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 18, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 94, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 20, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 96, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 22, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 98, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 28, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 100, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 30, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 104, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 36, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 106, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 38, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 110, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 42, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 120, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 44, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 126, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 46, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 66, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 54, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 70, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 60, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 76, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 8, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 77, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 12, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 78, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 14, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 81, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 19, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 23, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 90, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 25, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 93, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 95, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 29, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 97, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 37, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 99, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 39, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 101, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 40, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 102, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 47, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 103, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 52, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 105, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 56, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 107, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 1, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 108, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 3, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 109, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 9, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 112, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 11, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 114, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 15, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 116, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 118, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 17, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 122, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 21, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 123, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 27, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 124, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 31, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 125, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 33, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 65, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 35, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 67, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 41, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 69, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 43, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 71, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 53, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 73, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 55, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 75, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 57, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 59, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 79, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 83, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 61, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 85, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 87, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 89, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 63, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 5, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 7, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 91, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 111, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 13, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 113, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 32, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 115, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 48, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 0, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 117, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 119, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 121, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 127, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 64, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 49, max= 2.000000, min= 2.000000, avg= 2.000000
+check_data(): var= mnd_0, rank= 72, max= 2.000000, min= 2.000000, avg= 2.000000
+Timestep=3, 64 read mnd (0,0,512,),(127,255,767,) from space
+Timestep=3, 0 read mnd (0,0,0,),(127,255,255,) from space
+Timestep=3, 65 read mnd (128,0,512,),(255,255,767,) from space
+Timestep=3, 1 read mnd (128,0,0,),(255,255,255,) from space
+Timestep=3, 66 read mnd (256,0,512,),(383,255,767,) from space
+Timestep=3, 2 read mnd (256,0,0,),(383,255,255,) from space
+Timestep=3, 67 read mnd (384,0,512,),(511,255,767,) from space
+Timestep=3, 3 read mnd (384,0,0,),(511,255,255,) from space
+Timestep=3, 68 read mnd (512,0,512,),(639,255,767,) from space
+Timestep=3, 4 read mnd (512,0,0,),(639,255,255,) from space
+Timestep=3, 69 read mnd (640,0,512,),(767,255,767,) from space
+Timestep=3, 5 read mnd (640,0,0,),(767,255,255,) from space
+Timestep=3, 70 read mnd (768,0,512,),(895,255,767,) from space
+Timestep=3, 6 read mnd (768,0,0,),(895,255,255,) from space
+Timestep=3, 71 read mnd (896,0,512,),(1023,255,767,) from space
+Timestep=3, 7 read mnd (896,0,0,),(1023,255,255,) from space
+Timestep=3, 72 read mnd (0,256,512,),(127,511,767,) from space
+Timestep=3, 8 read mnd (0,256,0,),(127,511,255,) from space
+Timestep=3, 73 read mnd (128,256,512,),(255,511,767,) from space
+Timestep=3, 9 read mnd (128,256,0,),(255,511,255,) from space
+Timestep=3, 74 read mnd (256,256,512,),(383,511,767,) from space
+Timestep=3, 10 read mnd (256,256,0,),(383,511,255,) from space
+Timestep=3, 75 read mnd (384,256,512,),(511,511,767,) from space
+Timestep=3, 11 read mnd (384,256,0,),(511,511,255,) from space
+Timestep=3, 76 read mnd (512,256,512,),(639,511,767,) from space
+Timestep=3, 12 read mnd (512,256,0,),(639,511,255,) from space
+Timestep=3, 77 read mnd (640,256,512,),(767,511,767,) from space
+Timestep=3, 13 read mnd (640,256,0,),(767,511,255,) from space
+Timestep=3, 78 read mnd (768,256,512,),(895,511,767,) from space
+Timestep=3, 14 read mnd (768,256,0,),(895,511,255,) from space
+Timestep=3, 79 read mnd (896,256,512,),(1023,511,767,) from space
+Timestep=3, 80 read mnd (0,512,512,),(127,767,767,) from space
+Timestep=3, 15 read mnd (896,256,0,),(1023,511,255,) from space
+Timestep=3, 81 read mnd (128,512,512,),(255,767,767,) from space
+Timestep=3, 16 read mnd (0,512,0,),(127,767,255,) from space
+Timestep=3, 82 read mnd (256,512,512,),(383,767,767,) from space
+Timestep=3, 17 read mnd (128,512,0,),(255,767,255,) from space
+Timestep=3, 83 read mnd (384,512,512,),(511,767,767,) from space
+Timestep=3, 18 read mnd (256,512,0,),(383,767,255,) from space
+Timestep=3, 84 read mnd (512,512,512,),(639,767,767,) from space
+Timestep=3, 19 read mnd (384,512,0,),(511,767,255,) from space
+Timestep=3, 85 read mnd (640,512,512,),(767,767,767,) from space
+Timestep=3, 20 read mnd (512,512,0,),(639,767,255,) from space
+Timestep=3, 86 read mnd (768,512,512,),(895,767,767,) from space
+Timestep=3, 21 read mnd (640,512,0,),(767,767,255,) from space
+Timestep=3, 87 read mnd (896,512,512,),(1023,767,767,) from space
+Timestep=3, 22 read mnd (768,512,0,),(895,767,255,) from space
+Timestep=3, 88 read mnd (0,768,512,),(127,1023,767,) from space
+Timestep=3, 23 read mnd (896,512,0,),(1023,767,255,) from space
+Timestep=3, 89 read mnd (128,768,512,),(255,1023,767,) from space
+Timestep=3, 24 read mnd (0,768,0,),(127,1023,255,) from space
+Timestep=3, 90 read mnd (256,768,512,),(383,1023,767,) from space
+Timestep=3, 25 read mnd (128,768,0,),(255,1023,255,) from space
+Timestep=3, 91 read mnd (384,768,512,),(511,1023,767,) from space
+Timestep=3, 26 read mnd (256,768,0,),(383,1023,255,) from space
+Timestep=3, 92 read mnd (512,768,512,),(639,1023,767,) from space
+Timestep=3, 27 read mnd (384,768,0,),(511,1023,255,) from space
+Timestep=3, 93 read mnd (640,768,512,),(767,1023,767,) from space
+Timestep=3, 28 read mnd (512,768,0,),(639,1023,255,) from space
+Timestep=3, 94 read mnd (768,768,512,),(895,1023,767,) from space
+Timestep=3, 29 read mnd (640,768,0,),(767,1023,255,) from space
+Timestep=3, 95 read mnd (896,768,512,),(1023,1023,767,) from space
+Timestep=3, 30 read mnd (768,768,0,),(895,1023,255,) from space
+Timestep=3, 96 read mnd (0,0,768,),(127,255,1023,) from space
+Timestep=3, 31 read mnd (896,768,0,),(1023,1023,255,) from space
+Timestep=3, 97 read mnd (128,0,768,),(255,255,1023,) from space
+Timestep=3, 98 read mnd (256,0,768,),(383,255,1023,) from space
+Timestep=3, 32 read mnd (0,0,256,),(127,255,511,) from space
+Timestep=3, 33 read mnd (128,0,256,),(255,255,511,) from space
+Timestep=3, 99 read mnd (384,0,768,),(511,255,1023,) from space
+Timestep=3, 100 read mnd (512,0,768,),(639,255,1023,) from space
+Timestep=3, 34 read mnd (256,0,256,),(383,255,511,) from space
+Timestep=3, 101 read mnd (640,0,768,),(767,255,1023,) from space
+Timestep=3, 35 read mnd (384,0,256,),(511,255,511,) from space
+Timestep=3, 102 read mnd (768,0,768,),(895,255,1023,) from space
+Timestep=3, 36 read mnd (512,0,256,),(639,255,511,) from space
+Timestep=3, 103 read mnd (896,0,768,),(1023,255,1023,) from space
+Timestep=3, 37 read mnd (640,0,256,),(767,255,511,) from space
+Timestep=3, 104 read mnd (0,256,768,),(127,511,1023,) from space
+Timestep=3, 38 read mnd (768,0,256,),(895,255,511,) from space
+Timestep=3, 105 read mnd (128,256,768,),(255,511,1023,) from space
+Timestep=3, 39 read mnd (896,0,256,),(1023,255,511,) from space
+Timestep=3, 106 read mnd (256,256,768,),(383,511,1023,) from space
+Timestep=3, 40 read mnd (0,256,256,),(127,511,511,) from space
+Timestep=3, 107 read mnd (384,256,768,),(511,511,1023,) from space
+Timestep=3, 108 read mnd (512,256,768,),(639,511,1023,) from space
+Timestep=3, 41 read mnd (128,256,256,),(255,511,511,) from space
+Timestep=3, 109 read mnd (640,256,768,),(767,511,1023,) from space
+Timestep=3, 42 read mnd (256,256,256,),(383,511,511,) from space
+Timestep=3, 110 read mnd (768,256,768,),(895,511,1023,) from space
+Timestep=3, 43 read mnd (384,256,256,),(511,511,511,) from space
+Timestep=3, 111 read mnd (896,256,768,),(1023,511,1023,) from space
+Timestep=3, 44 read mnd (512,256,256,),(639,511,511,) from space
+Timestep=3, 112 read mnd (0,512,768,),(127,767,1023,) from space
+Timestep=3, 45 read mnd (640,256,256,),(767,511,511,) from space
+Timestep=3, 113 read mnd (128,512,768,),(255,767,1023,) from space
+Timestep=3, 46 read mnd (768,256,256,),(895,511,511,) from space
+Timestep=3, 114 read mnd (256,512,768,),(383,767,1023,) from space
+Timestep=3, 47 read mnd (896,256,256,),(1023,511,511,) from space
+Timestep=3, 115 read mnd (384,512,768,),(511,767,1023,) from space
+Timestep=3, 48 read mnd (0,512,256,),(127,767,511,) from space
+Timestep=3, 116 read mnd (512,512,768,),(639,767,1023,) from space
+Timestep=3, 49 read mnd (128,512,256,),(255,767,511,) from space
+Timestep=3, 117 read mnd (640,512,768,),(767,767,1023,) from space
+Timestep=3, 50 read mnd (256,512,256,),(383,767,511,) from space
+Timestep=3, 118 read mnd (768,512,768,),(895,767,1023,) from space
+Timestep=3, 51 read mnd (384,512,256,),(511,767,511,) from space
+Timestep=3, 119 read mnd (896,512,768,),(1023,767,1023,) from space
+Timestep=3, 120 read mnd (0,768,768,),(127,1023,1023,) from space
+Timestep=3, 52 read mnd (512,512,256,),(639,767,511,) from space
+Timestep=3, 121 read mnd (128,768,768,),(255,1023,1023,) from space
+Timestep=3, 53 read mnd (640,512,256,),(767,767,511,) from space
+Timestep=3, 122 read mnd (256,768,768,),(383,1023,1023,) from space
+Timestep=3, 54 read mnd (768,512,256,),(895,767,511,) from space
+Timestep=3, 123 read mnd (384,768,768,),(511,1023,1023,) from space
+Timestep=3, 55 read mnd (896,512,256,),(1023,767,511,) from space
+Timestep=3, 124 read mnd (512,768,768,),(639,1023,1023,) from space
+Timestep=3, 56 read mnd (0,768,256,),(127,1023,511,) from space
+Timestep=3, 125 read mnd (640,768,768,),(767,1023,1023,) from space
+Timestep=3, 57 read mnd (128,768,256,),(255,1023,511,) from space
+Timestep=3, 126 read mnd (768,768,768,),(895,1023,1023,) from space
+Timestep=3, 58 read mnd (256,768,256,),(383,1023,511,) from space
+Timestep=3, 127 read mnd (896,768,768,),(1023,1023,1023,) from space
+Timestep=3, 59 read mnd (384,768,256,),(511,1023,511,) from space
+Timestep=3, 60 read mnd (512,768,256,),(639,1023,511,) from space
+Timestep=3, 61 read mnd (640,768,256,),(767,1023,511,) from space
+Timestep=3, 62 read mnd (768,768,256,),(895,1023,511,) from space
+Timestep=3, 63 read mnd (896,768,256,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 3 peer 0 time 1.589614
+TS= 3 TRANSPORT_TYPE= DATASPACES read MAX time= 1.682248
+TIMING_PERF get_data ts 3 peer 64 time 1.581062
+TIMING_PERF get_data ts 3 peer 1 time 1.481894
+TIMING_PERF get_data ts 3 peer 65 time 1.425113
+TIMING_PERF get_data ts 3 peer 2 time 1.412153
+TIMING_PERF get_data ts 3 peer 66 time 1.501226
+TIMING_PERF get_data ts 3 peer 3 time 1.515542
+TIMING_PERF get_data ts 3 peer 67 time 1.410870
+TIMING_PERF get_data ts 3 peer 4 time 1.569154
+TIMING_PERF get_data ts 3 peer 68 time 1.645554
+TIMING_PERF get_data ts 3 peer 5 time 1.601789
+TIMING_PERF get_data ts 3 peer 69 time 1.477243
+TIMING_PERF get_data ts 3 peer 6 time 1.655859
+TIMING_PERF get_data ts 3 peer 70 time 1.635171
+TIMING_PERF get_data ts 3 peer 7 time 1.503065
+TIMING_PERF get_data ts 3 peer 71 time 1.562044
+TIMING_PERF get_data ts 3 peer 8 time 1.536657
+TIMING_PERF get_data ts 3 peer 72 time 1.494145
+TIMING_PERF get_data ts 3 peer 9 time 1.494861
+TIMING_PERF get_data ts 3 peer 73 time 1.460113
+TIMING_PERF get_data ts 3 peer 10 time 1.576804
+TIMING_PERF get_data ts 3 peer 74 time 1.541411
+TIMING_PERF get_data ts 3 peer 11 time 1.390723
+TIMING_PERF get_data ts 3 peer 75 time 1.466150
+TIMING_PERF get_data ts 3 peer 12 time 1.639137
+TIMING_PERF get_data ts 3 peer 76 time 1.659643
+TIMING_PERF get_data ts 3 peer 13 time 1.629983
+TIMING_PERF get_data ts 3 peer 77 time 1.534207
+TIMING_PERF get_data ts 3 peer 14 time 1.678478
+TIMING_PERF get_data ts 3 peer 78 time 1.604216
+TIMING_PERF get_data ts 3 peer 15 time 1.583855
+TIMING_PERF get_data ts 3 peer 79 time 1.504029
+TIMING_PERF get_data ts 3 peer 16 time 1.562961
+TIMING_PERF get_data ts 3 peer 80 time 1.530061
+TIMING_PERF get_data ts 3 peer 17 time 1.444984
+TIMING_PERF get_data ts 3 peer 81 time 1.430191
+TIMING_PERF get_data ts 3 peer 18 time 1.558764
+TIMING_PERF get_data ts 3 peer 82 time 1.512025
+TIMING_PERF get_data ts 3 peer 19 time 1.440299
+TIMING_PERF get_data ts 3 peer 83 time 1.457333
+TIMING_PERF get_data ts 3 peer 20 time 1.491712
+TIMING_PERF get_data ts 3 peer 84 time 1.514047
+TIMING_PERF get_data ts 3 peer 21 time 1.577907
+TIMING_PERF get_data ts 3 peer 85 time 1.499087
+TIMING_PERF get_data ts 3 peer 22 time 1.525849
+TIMING_PERF get_data ts 3 peer 86 time 1.530512
+TIMING_PERF get_data ts 3 peer 23 time 1.597505
+TIMING_PERF get_data ts 3 peer 87 time 1.521978
+TIMING_PERF get_data ts 3 peer 24 time 1.484722
+TIMING_PERF get_data ts 3 peer 88 time 1.567716
+TIMING_PERF get_data ts 3 peer 25 time 1.487799
+TIMING_PERF get_data ts 3 peer 89 time 1.411148
+TIMING_PERF get_data ts 3 peer 26 time 1.439403
+TIMING_PERF get_data ts 3 peer 90 time 1.573338
+TIMING_PERF get_data ts 3 peer 27 time 1.477565
+TIMING_PERF get_data ts 3 peer 91 time 1.390008
+TIMING_PERF get_data ts 3 peer 28 time 1.665702
+TIMING_PERF get_data ts 3 peer 92 time 1.464976
+TIMING_PERF get_data ts 3 peer 29 time 1.472098
+TIMING_PERF get_data ts 3 peer 93 time 1.591732
+TIMING_PERF get_data ts 3 peer 30 time 1.610807
+TIMING_PERF get_data ts 3 peer 94 time 1.540062
+TIMING_PERF get_data ts 3 peer 31 time 1.554238
+TIMING_PERF get_data ts 3 peer 95 time 1.536012
+TIMING_PERF get_data ts 3 peer 32 time 1.586801
+TIMING_PERF get_data ts 3 peer 96 time 1.373247
+TIMING_PERF get_data ts 3 peer 33 time 1.426953
+TIMING_PERF get_data ts 3 peer 97 time 1.428723
+TIMING_PERF get_data ts 3 peer 34 time 1.584739
+TIMING_PERF get_data ts 3 peer 98 time 1.467590
+TIMING_PERF get_data ts 3 peer 35 time 1.391055
+TIMING_PERF get_data ts 3 peer 99 time 1.418354
+TIMING_PERF get_data ts 3 peer 36 time 1.640130
+TIMING_PERF get_data ts 3 peer 100 time 1.668125
+TIMING_PERF get_data ts 3 peer 37 time 1.501009
+TIMING_PERF get_data ts 3 peer 101 time 1.557877
+TIMING_PERF get_data ts 3 peer 38 time 1.572867
+TIMING_PERF get_data ts 3 peer 102 time 1.571378
+TIMING_PERF get_data ts 3 peer 39 time 1.516726
+TIMING_PERF get_data ts 3 peer 103 time 1.547996
+TIMING_PERF get_data ts 3 peer 40 time 1.551375
+TIMING_PERF get_data ts 3 peer 104 time 1.508253
+TIMING_PERF get_data ts 3 peer 41 time 1.447148
+TIMING_PERF get_data ts 3 peer 105 time 1.509565
+TIMING_PERF get_data ts 3 peer 42 time 1.565655
+TIMING_PERF get_data ts 3 peer 106 time 1.525825
+TIMING_PERF get_data ts 3 peer 43 time 1.424032
+TIMING_PERF get_data ts 3 peer 107 time 1.502596
+TIMING_PERF get_data ts 3 peer 44 time 1.580765
+TIMING_PERF get_data ts 3 peer 108 time 1.552452
+TIMING_PERF get_data ts 3 peer 45 time 1.564008
+TIMING_PERF get_data ts 3 peer 109 time 1.612699
+TIMING_PERF get_data ts 3 peer 46 time 1.633827
+TIMING_PERF get_data ts 3 peer 110 time 1.646316
+TIMING_PERF get_data ts 3 peer 47 time 1.480802
+TIMING_PERF get_data ts 3 peer 111 time 1.527654
+TIMING_PERF get_data ts 3 peer 48 time 1.536370
+TIMING_PERF get_data ts 3 peer 112 time 1.466015
+TIMING_PERF get_data ts 3 peer 49 time 1.403199
+TIMING_PERF get_data ts 3 peer 113 time 1.484232
+TIMING_PERF get_data ts 3 peer 50 time 1.529002
+TIMING_PERF get_data ts 3 peer 114 time 1.550179
+TIMING_PERF get_data ts 3 peer 51 time 1.449561
+TIMING_PERF get_data ts 3 peer 115 time 1.470673
+TIMING_PERF get_data ts 3 peer 52 time 1.670723
+TIMING_PERF get_data ts 3 peer 116 time 1.658772
+TIMING_PERF get_data ts 3 peer 53 time 1.609177
+TIMING_PERF get_data ts 3 peer 117 time 1.586023
+TIMING_PERF get_data ts 3 peer 54 time 1.682248
+TIMING_PERF get_data ts 3 peer 118 time 1.675259
+TIMING_PERF get_data ts 3 peer 55 time 1.622492
+TIMING_PERF get_data ts 3 peer 119 time 1.522811
+TIMING_PERF get_data ts 3 peer 56 time 1.582561
+TIMING_PERF get_data ts 3 peer 120 time 1.541462
+TIMING_PERF get_data ts 3 peer 121 time 1.479118
+TIMING_PERF get_data ts 3 peer 57 time 1.535914
+TIMING_PERF get_data ts 3 peer 122 time 1.562216
+TIMING_PERF get_data ts 3 peer 58 time 1.568191
+TIMING_PERF get_data ts 3 peer 123 time 1.465671
+TIMING_PERF get_data ts 3 peer 59 time 1.522269
+TIMING_PERF get_data ts 3 peer 124 time 1.608231
+TIMING_PERF get_data ts 3 peer 60 time 1.653417
+TIMING_PERF get_data ts 3 peer 125 time 1.548874
+TIMING_PERF get_data ts 3 peer 61 time 1.604885
+TIMING_PERF get_data ts 3 peer 126 time 1.565738
+TIMING_PERF get_data ts 3 peer 62 time 1.610515
+TIMING_PERF get_data ts 3 peer 127 time 1.576973
+TIMING_PERF get_data ts 3 peer 63 time 1.518630
+check_data(): var= mnd_0, rank= 51, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 25, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 17, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 35, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 74, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 43, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 47, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 66, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 21, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 80, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 23, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 82, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 27, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 84, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 31, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 86, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 36, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 88, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 41, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 53, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 90, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 55, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 92, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 57, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 59, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 93, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 94, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 1, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 95, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 3, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 96, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 7, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 98, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 9, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 100, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 15, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 102, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 103, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 19, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 104, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 106, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 107, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 108, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 110, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 112, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 114, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 116, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 118, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 120, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 122, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 124, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 126, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 65, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 67, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 68, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 69, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 70, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 71, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 73, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 75, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 76, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 77, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 78, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 29, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 33, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 34, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 37, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 38, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 39, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 40, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 42, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 44, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 45, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 46, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 52, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 61, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 2, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 4, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 5, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 6, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 8, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 10, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 11, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 12, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 13, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 14, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 16, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 18, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 20, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 22, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 24, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 26, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 28, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 30, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 32, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 79, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 81, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 83, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 85, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 87, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 89, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 91, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 97, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 99, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 101, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 105, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 109, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 111, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 113, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 115, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 48, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 50, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 54, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 56, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 58, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 60, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 62, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 63, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 0, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 49, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 117, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 119, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 121, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 123, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 125, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 127, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 64, max= 3.000000, min= 3.000000, avg= 3.000000
+check_data(): var= mnd_0, rank= 72, max= 3.000000, min= 3.000000, avg= 3.000000
+Timestep=4, 64 read mnd (0,0,512,),(127,255,767,) from space
+Timestep=4, 0 read mnd (0,0,0,),(127,255,255,) from space
+Timestep=4, 65 read mnd (128,0,512,),(255,255,767,) from space
+Timestep=4, 1 read mnd (128,0,0,),(255,255,255,) from space
+Timestep=4, 66 read mnd (256,0,512,),(383,255,767,) from space
+Timestep=4, 2 read mnd (256,0,0,),(383,255,255,) from space
+Timestep=4, 67 read mnd (384,0,512,),(511,255,767,) from space
+Timestep=4, 3 read mnd (384,0,0,),(511,255,255,) from space
+Timestep=4, 68 read mnd (512,0,512,),(639,255,767,) from space
+Timestep=4, 4 read mnd (512,0,0,),(639,255,255,) from space
+Timestep=4, 69 read mnd (640,0,512,),(767,255,767,) from space
+Timestep=4, 5 read mnd (640,0,0,),(767,255,255,) from space
+Timestep=4, 70 read mnd (768,0,512,),(895,255,767,) from space
+Timestep=4, 6 read mnd (768,0,0,),(895,255,255,) from space
+Timestep=4, 71 read mnd (896,0,512,),(1023,255,767,) from space
+Timestep=4, 7 read mnd (896,0,0,),(1023,255,255,) from space
+Timestep=4, 72 read mnd (0,256,512,),(127,511,767,) from space
+Timestep=4, 8 read mnd (0,256,0,),(127,511,255,) from space
+Timestep=4, 73 read mnd (128,256,512,),(255,511,767,) from space
+Timestep=4, 9 read mnd (128,256,0,),(255,511,255,) from space
+Timestep=4, 74 read mnd (256,256,512,),(383,511,767,) from space
+Timestep=4, 10 read mnd (256,256,0,),(383,511,255,) from space
+Timestep=4, 75 read mnd (384,256,512,),(511,511,767,) from space
+Timestep=4, 11 read mnd (384,256,0,),(511,511,255,) from space
+Timestep=4, 76 read mnd (512,256,512,),(639,511,767,) from space
+Timestep=4, 12 read mnd (512,256,0,),(639,511,255,) from space
+Timestep=4, 77 read mnd (640,256,512,),(767,511,767,) from space
+Timestep=4, 13 read mnd (640,256,0,),(767,511,255,) from space
+Timestep=4, 78 read mnd (768,256,512,),(895,511,767,) from space
+Timestep=4, 14 read mnd (768,256,0,),(895,511,255,) from space
+Timestep=4, 79 read mnd (896,256,512,),(1023,511,767,) from space
+Timestep=4, 15 read mnd (896,256,0,),(1023,511,255,) from space
+Timestep=4, 80 read mnd (0,512,512,),(127,767,767,) from space
+Timestep=4, 16 read mnd (0,512,0,),(127,767,255,) from space
+Timestep=4, 81 read mnd (128,512,512,),(255,767,767,) from space
+Timestep=4, 17 read mnd (128,512,0,),(255,767,255,) from space
+Timestep=4, 82 read mnd (256,512,512,),(383,767,767,) from space
+Timestep=4, 18 read mnd (256,512,0,),(383,767,255,) from space
+Timestep=4, 83 read mnd (384,512,512,),(511,767,767,) from space
+Timestep=4, 84 read mnd (512,512,512,),(639,767,767,) from space
+Timestep=4, 19 read mnd (384,512,0,),(511,767,255,) from space
+Timestep=4, 85 read mnd (640,512,512,),(767,767,767,) from space
+Timestep=4, 20 read mnd (512,512,0,),(639,767,255,) from space
+Timestep=4, 86 read mnd (768,512,512,),(895,767,767,) from space
+Timestep=4, 21 read mnd (640,512,0,),(767,767,255,) from space
+Timestep=4, 87 read mnd (896,512,512,),(1023,767,767,) from space
+Timestep=4, 22 read mnd (768,512,0,),(895,767,255,) from space
+Timestep=4, 88 read mnd (0,768,512,),(127,1023,767,) from space
+Timestep=4, 23 read mnd (896,512,0,),(1023,767,255,) from space
+Timestep=4, 89 read mnd (128,768,512,),(255,1023,767,) from space
+Timestep=4, 24 read mnd (0,768,0,),(127,1023,255,) from space
+Timestep=4, 90 read mnd (256,768,512,),(383,1023,767,) from space
+Timestep=4, 25 read mnd (128,768,0,),(255,1023,255,) from space
+Timestep=4, 91 read mnd (384,768,512,),(511,1023,767,) from space
+Timestep=4, 26 read mnd (256,768,0,),(383,1023,255,) from space
+Timestep=4, 92 read mnd (512,768,512,),(639,1023,767,) from space
+Timestep=4, 93 read mnd (640,768,512,),(767,1023,767,) from space
+Timestep=4, 27 read mnd (384,768,0,),(511,1023,255,) from space
+Timestep=4, 94 read mnd (768,768,512,),(895,1023,767,) from space
+Timestep=4, 28 read mnd (512,768,0,),(639,1023,255,) from space
+Timestep=4, 95 read mnd (896,768,512,),(1023,1023,767,) from space
+Timestep=4, 29 read mnd (640,768,0,),(767,1023,255,) from space
+Timestep=4, 96 read mnd (0,0,768,),(127,255,1023,) from space
+Timestep=4, 30 read mnd (768,768,0,),(895,1023,255,) from space
+Timestep=4, 97 read mnd (128,0,768,),(255,255,1023,) from space
+Timestep=4, 31 read mnd (896,768,0,),(1023,1023,255,) from space
+Timestep=4, 98 read mnd (256,0,768,),(383,255,1023,) from space
+Timestep=4, 32 read mnd (0,0,256,),(127,255,511,) from space
+Timestep=4, 99 read mnd (384,0,768,),(511,255,1023,) from space
+Timestep=4, 33 read mnd (128,0,256,),(255,255,511,) from space
+Timestep=4, 100 read mnd (512,0,768,),(639,255,1023,) from space
+Timestep=4, 34 read mnd (256,0,256,),(383,255,511,) from space
+Timestep=4, 101 read mnd (640,0,768,),(767,255,1023,) from space
+Timestep=4, 35 read mnd (384,0,256,),(511,255,511,) from space
+Timestep=4, 102 read mnd (768,0,768,),(895,255,1023,) from space
+Timestep=4, 103 read mnd (896,0,768,),(1023,255,1023,) from space
+Timestep=4, 36 read mnd (512,0,256,),(639,255,511,) from space
+Timestep=4, 104 read mnd (0,256,768,),(127,511,1023,) from space
+Timestep=4, 37 read mnd (640,0,256,),(767,255,511,) from space
+Timestep=4, 105 read mnd (128,256,768,),(255,511,1023,) from space
+Timestep=4, 38 read mnd (768,0,256,),(895,255,511,) from space
+Timestep=4, 106 read mnd (256,256,768,),(383,511,1023,) from space
+Timestep=4, 39 read mnd (896,0,256,),(1023,255,511,) from space
+Timestep=4, 107 read mnd (384,256,768,),(511,511,1023,) from space
+Timestep=4, 40 read mnd (0,256,256,),(127,511,511,) from space
+Timestep=4, 108 read mnd (512,256,768,),(639,511,1023,) from space
+Timestep=4, 41 read mnd (128,256,256,),(255,511,511,) from space
+Timestep=4, 109 read mnd (640,256,768,),(767,511,1023,) from space
+Timestep=4, 42 read mnd (256,256,256,),(383,511,511,) from space
+Timestep=4, 110 read mnd (768,256,768,),(895,511,1023,) from space
+Timestep=4, 43 read mnd (384,256,256,),(511,511,511,) from space
+Timestep=4, 111 read mnd (896,256,768,),(1023,511,1023,) from space
+Timestep=4, 44 read mnd (512,256,256,),(639,511,511,) from space
+Timestep=4, 112 read mnd (0,512,768,),(127,767,1023,) from space
+Timestep=4, 113 read mnd (128,512,768,),(255,767,1023,) from space
+Timestep=4, 45 read mnd (640,256,256,),(767,511,511,) from space
+Timestep=4, 114 read mnd (256,512,768,),(383,767,1023,) from space
+Timestep=4, 46 read mnd (768,256,256,),(895,511,511,) from space
+Timestep=4, 115 read mnd (384,512,768,),(511,767,1023,) from space
+Timestep=4, 47 read mnd (896,256,256,),(1023,511,511,) from space
+Timestep=4, 116 read mnd (512,512,768,),(639,767,1023,) from space
+Timestep=4, 48 read mnd (0,512,256,),(127,767,511,) from space
+Timestep=4, 117 read mnd (640,512,768,),(767,767,1023,) from space
+Timestep=4, 49 read mnd (128,512,256,),(255,767,511,) from space
+Timestep=4, 118 read mnd (768,512,768,),(895,767,1023,) from space
+Timestep=4, 50 read mnd (256,512,256,),(383,767,511,) from space
+Timestep=4, 119 read mnd (896,512,768,),(1023,767,1023,) from space
+Timestep=4, 120 read mnd (0,768,768,),(127,1023,1023,) from space
+Timestep=4, 51 read mnd (384,512,256,),(511,767,511,) from space
+Timestep=4, 121 read mnd (128,768,768,),(255,1023,1023,) from space
+Timestep=4, 52 read mnd (512,512,256,),(639,767,511,) from space
+Timestep=4, 122 read mnd (256,768,768,),(383,1023,1023,) from space
+Timestep=4, 53 read mnd (640,512,256,),(767,767,511,) from space
+Timestep=4, 123 read mnd (384,768,768,),(511,1023,1023,) from space
+Timestep=4, 54 read mnd (768,512,256,),(895,767,511,) from space
+Timestep=4, 124 read mnd (512,768,768,),(639,1023,1023,) from space
+Timestep=4, 55 read mnd (896,512,256,),(1023,767,511,) from space
+Timestep=4, 125 read mnd (640,768,768,),(767,1023,1023,) from space
+Timestep=4, 56 read mnd (0,768,256,),(127,1023,511,) from space
+Timestep=4, 126 read mnd (768,768,768,),(895,1023,1023,) from space
+Timestep=4, 57 read mnd (128,768,256,),(255,1023,511,) from space
+Timestep=4, 127 read mnd (896,768,768,),(1023,1023,1023,) from space
+Timestep=4, 58 read mnd (256,768,256,),(383,1023,511,) from space
+Timestep=4, 59 read mnd (384,768,256,),(511,1023,511,) from space
+Timestep=4, 60 read mnd (512,768,256,),(639,1023,511,) from space
+Timestep=4, 61 read mnd (640,768,256,),(767,1023,511,) from space
+Timestep=4, 62 read mnd (768,768,256,),(895,1023,511,) from space
+Timestep=4, 63 read mnd (896,768,256,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 4 peer 0 time 1.256441
+TS= 4 TRANSPORT_TYPE= DATASPACES read MAX time= 1.638164
+TIMING_PERF get_data ts 4 peer 1 time 1.166301
+TIMING_PERF get_data ts 4 peer 64 time 1.638018
+TIMING_PERF get_data ts 4 peer 2 time 1.262948
+TIMING_PERF get_data ts 4 peer 65 time 1.137796
+TIMING_PERF get_data ts 4 peer 3 time 1.128549
+TIMING_PERF get_data ts 4 peer 66 time 1.565527
+TIMING_PERF get_data ts 4 peer 4 time 1.242692
+TIMING_PERF get_data ts 4 peer 67 time 1.133881
+TIMING_PERF get_data ts 4 peer 5 time 1.594145
+TIMING_PERF get_data ts 4 peer 68 time 1.193868
+TIMING_PERF get_data ts 4 peer 6 time 1.267784
+TIMING_PERF get_data ts 4 peer 69 time 1.328319
+TIMING_PERF get_data ts 4 peer 7 time 1.559766
+TIMING_PERF get_data ts 4 peer 70 time 1.187526
+TIMING_PERF get_data ts 4 peer 8 time 1.184922
+TIMING_PERF get_data ts 4 peer 71 time 1.525147
+TIMING_PERF get_data ts 4 peer 9 time 1.176241
+TIMING_PERF get_data ts 4 peer 72 time 1.315506
+TIMING_PERF get_data ts 4 peer 10 time 1.518500
+TIMING_PERF get_data ts 4 peer 73 time 1.113523
+TIMING_PERF get_data ts 4 peer 74 time 1.466860
+TIMING_PERF get_data ts 4 peer 11 time 1.179636
+TIMING_PERF get_data ts 4 peer 75 time 1.101058
+TIMING_PERF get_data ts 4 peer 12 time 1.279761
+TIMING_PERF get_data ts 4 peer 76 time 1.179778
+TIMING_PERF get_data ts 4 peer 13 time 1.532692
+TIMING_PERF get_data ts 4 peer 77 time 1.420064
+TIMING_PERF get_data ts 4 peer 14 time 1.286135
+TIMING_PERF get_data ts 4 peer 78 time 1.164980
+TIMING_PERF get_data ts 4 peer 15 time 1.017607
+TIMING_PERF get_data ts 4 peer 79 time 1.507756
+TIMING_PERF get_data ts 4 peer 16 time 1.264841
+TIMING_PERF get_data ts 4 peer 80 time 1.614813
+TIMING_PERF get_data ts 4 peer 17 time 1.170575
+TIMING_PERF get_data ts 4 peer 81 time 1.128427
+TIMING_PERF get_data ts 4 peer 18 time 1.054519
+TIMING_PERF get_data ts 4 peer 82 time 1.375301
+TIMING_PERF get_data ts 4 peer 19 time 1.131728
+TIMING_PERF get_data ts 4 peer 83 time 1.126376
+TIMING_PERF get_data ts 4 peer 20 time 1.226746
+TIMING_PERF get_data ts 4 peer 84 time 1.153223
+TIMING_PERF get_data ts 4 peer 21 time 1.179689
+TIMING_PERF get_data ts 4 peer 85 time 1.427645
+TIMING_PERF get_data ts 4 peer 22 time 1.242692
+TIMING_PERF get_data ts 4 peer 86 time 1.169849
+TIMING_PERF get_data ts 4 peer 23 time 1.638164
+TIMING_PERF get_data ts 4 peer 87 time 1.236474
+TIMING_PERF get_data ts 4 peer 24 time 1.224502
+TIMING_PERF get_data ts 4 peer 88 time 1.621578
+TIMING_PERF get_data ts 4 peer 25 time 1.164202
+TIMING_PERF get_data ts 4 peer 89 time 1.081338
+TIMING_PERF get_data ts 4 peer 26 time 1.205502
+TIMING_PERF get_data ts 4 peer 90 time 1.626272
+TIMING_PERF get_data ts 4 peer 27 time 1.146559
+TIMING_PERF get_data ts 4 peer 91 time 1.097030
+TIMING_PERF get_data ts 4 peer 28 time 1.261128
+TIMING_PERF get_data ts 4 peer 92 time 1.114876
+TIMING_PERF get_data ts 4 peer 29 time 1.456295
+TIMING_PERF get_data ts 4 peer 93 time 1.538332
+TIMING_PERF get_data ts 4 peer 30 time 1.227847
+TIMING_PERF get_data ts 4 peer 94 time 1.146293
+TIMING_PERF get_data ts 4 peer 31 time 1.598871
+TIMING_PERF get_data ts 4 peer 95 time 1.576994
+TIMING_PERF get_data ts 4 peer 32 time 1.564265
+TIMING_PERF get_data ts 4 peer 96 time 1.333303
+TIMING_PERF get_data ts 4 peer 33 time 1.155025
+TIMING_PERF get_data ts 4 peer 97 time 1.116921
+TIMING_PERF get_data ts 4 peer 34 time 1.296976
+TIMING_PERF get_data ts 4 peer 98 time 1.401762
+TIMING_PERF get_data ts 4 peer 35 time 1.068932
+TIMING_PERF get_data ts 4 peer 99 time 1.107782
+TIMING_PERF get_data ts 4 peer 36 time 1.265947
+TIMING_PERF get_data ts 4 peer 100 time 1.121421
+TIMING_PERF get_data ts 4 peer 37 time 1.452542
+TIMING_PERF get_data ts 4 peer 101 time 1.345288
+TIMING_PERF get_data ts 4 peer 38 time 1.249993
+TIMING_PERF get_data ts 4 peer 102 time 1.164220
+TIMING_PERF get_data ts 4 peer 39 time 1.363948
+TIMING_PERF get_data ts 4 peer 103 time 1.470198
+TIMING_PERF get_data ts 4 peer 40 time 1.263612
+TIMING_PERF get_data ts 4 peer 104 time 1.240838
+TIMING_PERF get_data ts 4 peer 41 time 1.148863
+TIMING_PERF get_data ts 4 peer 105 time 1.134694
+TIMING_PERF get_data ts 4 peer 106 time 1.370685
+TIMING_PERF get_data ts 4 peer 42 time 1.325624
+TIMING_PERF get_data ts 4 peer 107 time 1.116649
+TIMING_PERF get_data ts 4 peer 43 time 1.104951
+TIMING_PERF get_data ts 4 peer 108 time 1.130013
+TIMING_PERF get_data ts 4 peer 44 time 1.275765
+TIMING_PERF get_data ts 4 peer 109 time 1.296549
+TIMING_PERF get_data ts 4 peer 45 time 1.615481
+TIMING_PERF get_data ts 4 peer 110 time 1.175389
+TIMING_PERF get_data ts 4 peer 46 time 1.272349
+TIMING_PERF get_data ts 4 peer 111 time 1.422144
+TIMING_PERF get_data ts 4 peer 47 time 1.267274
+TIMING_PERF get_data ts 4 peer 112 time 1.357735
+TIMING_PERF get_data ts 4 peer 48 time 1.414972
+TIMING_PERF get_data ts 4 peer 113 time 1.123507
+TIMING_PERF get_data ts 4 peer 49 time 1.180419
+TIMING_PERF get_data ts 4 peer 50 time 1.288135
+TIMING_PERF get_data ts 4 peer 114 time 1.626785
+TIMING_PERF get_data ts 4 peer 51 time 1.154092
+TIMING_PERF get_data ts 4 peer 115 time 1.117662
+TIMING_PERF get_data ts 4 peer 52 time 1.282983
+TIMING_PERF get_data ts 4 peer 116 time 1.195941
+TIMING_PERF get_data ts 4 peer 53 time 1.289352
+TIMING_PERF get_data ts 4 peer 117 time 1.556213
+TIMING_PERF get_data ts 4 peer 54 time 1.285531
+TIMING_PERF get_data ts 4 peer 118 time 1.182815
+TIMING_PERF get_data ts 4 peer 55 time 1.362006
+TIMING_PERF get_data ts 4 peer 119 time 1.476486
+TIMING_PERF get_data ts 4 peer 56 time 1.290433
+TIMING_PERF get_data ts 4 peer 120 time 1.605954
+TIMING_PERF get_data ts 4 peer 121 time 1.139616
+TIMING_PERF get_data ts 4 peer 57 time 1.173844
+TIMING_PERF get_data ts 4 peer 122 time 1.266450
+TIMING_PERF get_data ts 4 peer 58 time 1.288724
+TIMING_PERF get_data ts 4 peer 123 time 1.130438
+TIMING_PERF get_data ts 4 peer 59 time 1.168477
+TIMING_PERF get_data ts 4 peer 124 time 1.198037
+TIMING_PERF get_data ts 4 peer 60 time 1.277642
+TIMING_PERF get_data ts 4 peer 125 time 1.419400
+TIMING_PERF get_data ts 4 peer 61 time 1.338367
+TIMING_PERF get_data ts 4 peer 126 time 1.189395
+TIMING_PERF get_data ts 4 peer 62 time 1.253110
+TIMING_PERF get_data ts 4 peer 127 time 1.276492
+TIMING_PERF get_data ts 4 peer 63 time 1.027752
+check_data(): var= mnd_0, rank= 51, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 74, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 29, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 82, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 33, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 45, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 84, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 3, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 88, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 92, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 18, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 94, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 19, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 96, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 20, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 98, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 22, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 100, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 30, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 34, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 104, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 106, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 37, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 39, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 108, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 40, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 110, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 41, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 112, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 42, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 43, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 124, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 44, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 66, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 68, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 46, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 70, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 47, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 76, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 1, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 77, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 78, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 2, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 4, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 5, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 6, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 7, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 8, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 9, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 10, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 11, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 12, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 13, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 14, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 15, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 16, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 17, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 79, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 80, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 86, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 90, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 93, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 95, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 97, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 99, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 101, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 21, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 102, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 103, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 105, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 107, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 109, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 111, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 23, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 113, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 24, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 114, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 25, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 115, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 26, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 27, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 28, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 31, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 32, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 35, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 36, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 38, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 48, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 50, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 52, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 53, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 54, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 55, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 56, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 57, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 58, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 59, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 60, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 61, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 62, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 63, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 0, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 49, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 116, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 118, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 120, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 121, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 122, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 123, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 125, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 126, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 64, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 65, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 67, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 69, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 71, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 73, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 75, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 81, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 83, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 85, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 87, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 89, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 91, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 117, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 119, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 127, max= 4.000000, min= 4.000000, avg= 4.000000
+check_data(): var= mnd_0, rank= 72, max= 4.000000, min= 4.000000, avg= 4.000000
+Timestep=5, 64 read mnd (0,0,512,),(127,255,767,) from space
+Timestep=5, 0 read mnd (0,0,0,),(127,255,255,) from space
+Timestep=5, 65 read mnd (128,0,512,),(255,255,767,) from space
+Timestep=5, 1 read mnd (128,0,0,),(255,255,255,) from space
+Timestep=5, 66 read mnd (256,0,512,),(383,255,767,) from space
+Timestep=5, 2 read mnd (256,0,0,),(383,255,255,) from space
+Timestep=5, 67 read mnd (384,0,512,),(511,255,767,) from space
+Timestep=5, 3 read mnd (384,0,0,),(511,255,255,) from space
+Timestep=5, 68 read mnd (512,0,512,),(639,255,767,) from space
+Timestep=5, 4 read mnd (512,0,0,),(639,255,255,) from space
+Timestep=5, 69 read mnd (640,0,512,),(767,255,767,) from space
+Timestep=5, 5 read mnd (640,0,0,),(767,255,255,) from space
+Timestep=5, 70 read mnd (768,0,512,),(895,255,767,) from space
+Timestep=5, 6 read mnd (768,0,0,),(895,255,255,) from space
+Timestep=5, 71 read mnd (896,0,512,),(1023,255,767,) from space
+Timestep=5, 7 read mnd (896,0,0,),(1023,255,255,) from space
+Timestep=5, 72 read mnd (0,256,512,),(127,511,767,) from space
+Timestep=5, 73 read mnd (128,256,512,),(255,511,767,) from space
+Timestep=5, 8 read mnd (0,256,0,),(127,511,255,) from space
+Timestep=5, 74 read mnd (256,256,512,),(383,511,767,) from space
+Timestep=5, 9 read mnd (128,256,0,),(255,511,255,) from space
+Timestep=5, 10 read mnd (256,256,0,),(383,511,255,) from space
+Timestep=5, 75 read mnd (384,256,512,),(511,511,767,) from space
+Timestep=5, 11 read mnd (384,256,0,),(511,511,255,) from space
+Timestep=5, 76 read mnd (512,256,512,),(639,511,767,) from space
+Timestep=5, 77 read mnd (640,256,512,),(767,511,767,) from space
+Timestep=5, 12 read mnd (512,256,0,),(639,511,255,) from space
+Timestep=5, 13 read mnd (640,256,0,),(767,511,255,) from space
+Timestep=5, 78 read mnd (768,256,512,),(895,511,767,) from space
+Timestep=5, 14 read mnd (768,256,0,),(895,511,255,) from space
+Timestep=5, 79 read mnd (896,256,512,),(1023,511,767,) from space
+Timestep=5, 80 read mnd (0,512,512,),(127,767,767,) from space
+Timestep=5, 15 read mnd (896,256,0,),(1023,511,255,) from space
+Timestep=5, 81 read mnd (128,512,512,),(255,767,767,) from space
+Timestep=5, 16 read mnd (0,512,0,),(127,767,255,) from space
+Timestep=5, 82 read mnd (256,512,512,),(383,767,767,) from space
+Timestep=5, 17 read mnd (128,512,0,),(255,767,255,) from space
+Timestep=5, 83 read mnd (384,512,512,),(511,767,767,) from space
+Timestep=5, 18 read mnd (256,512,0,),(383,767,255,) from space
+Timestep=5, 84 read mnd (512,512,512,),(639,767,767,) from space
+Timestep=5, 19 read mnd (384,512,0,),(511,767,255,) from space
+Timestep=5, 85 read mnd (640,512,512,),(767,767,767,) from space
+Timestep=5, 20 read mnd (512,512,0,),(639,767,255,) from space
+Timestep=5, 86 read mnd (768,512,512,),(895,767,767,) from space
+Timestep=5, 21 read mnd (640,512,0,),(767,767,255,) from space
+Timestep=5, 87 read mnd (896,512,512,),(1023,767,767,) from space
+Timestep=5, 22 read mnd (768,512,0,),(895,767,255,) from space
+Timestep=5, 88 read mnd (0,768,512,),(127,1023,767,) from space
+Timestep=5, 23 read mnd (896,512,0,),(1023,767,255,) from space
+Timestep=5, 89 read mnd (128,768,512,),(255,1023,767,) from space
+Timestep=5, 24 read mnd (0,768,0,),(127,1023,255,) from space
+Timestep=5, 90 read mnd (256,768,512,),(383,1023,767,) from space
+Timestep=5, 25 read mnd (128,768,0,),(255,1023,255,) from space
+Timestep=5, 91 read mnd (384,768,512,),(511,1023,767,) from space
+Timestep=5, 26 read mnd (256,768,0,),(383,1023,255,) from space
+Timestep=5, 92 read mnd (512,768,512,),(639,1023,767,) from space
+Timestep=5, 93 read mnd (640,768,512,),(767,1023,767,) from space
+Timestep=5, 27 read mnd (384,768,0,),(511,1023,255,) from space
+Timestep=5, 94 read mnd (768,768,512,),(895,1023,767,) from space
+Timestep=5, 28 read mnd (512,768,0,),(639,1023,255,) from space
+Timestep=5, 95 read mnd (896,768,512,),(1023,1023,767,) from space
+Timestep=5, 29 read mnd (640,768,0,),(767,1023,255,) from space
+Timestep=5, 96 read mnd (0,0,768,),(127,255,1023,) from space
+Timestep=5, 30 read mnd (768,768,0,),(895,1023,255,) from space
+Timestep=5, 97 read mnd (128,0,768,),(255,255,1023,) from space
+Timestep=5, 31 read mnd (896,768,0,),(1023,1023,255,) from space
+Timestep=5, 98 read mnd (256,0,768,),(383,255,1023,) from space
+Timestep=5, 32 read mnd (0,0,256,),(127,255,511,) from space
+Timestep=5, 99 read mnd (384,0,768,),(511,255,1023,) from space
+Timestep=5, 33 read mnd (128,0,256,),(255,255,511,) from space
+Timestep=5, 100 read mnd (512,0,768,),(639,255,1023,) from space
+Timestep=5, 34 read mnd (256,0,256,),(383,255,511,) from space
+Timestep=5, 101 read mnd (640,0,768,),(767,255,1023,) from space
+Timestep=5, 35 read mnd (384,0,256,),(511,255,511,) from space
+Timestep=5, 102 read mnd (768,0,768,),(895,255,1023,) from space
+Timestep=5, 36 read mnd (512,0,256,),(639,255,511,) from space
+Timestep=5, 103 read mnd (896,0,768,),(1023,255,1023,) from space
+Timestep=5, 37 read mnd (640,0,256,),(767,255,511,) from space
+Timestep=5, 104 read mnd (0,256,768,),(127,511,1023,) from space
+Timestep=5, 38 read mnd (768,0,256,),(895,255,511,) from space
+Timestep=5, 105 read mnd (128,256,768,),(255,511,1023,) from space
+Timestep=5, 39 read mnd (896,0,256,),(1023,255,511,) from space
+Timestep=5, 106 read mnd (256,256,768,),(383,511,1023,) from space
+Timestep=5, 40 read mnd (0,256,256,),(127,511,511,) from space
+Timestep=5, 107 read mnd (384,256,768,),(511,511,1023,) from space
+Timestep=5, 41 read mnd (128,256,256,),(255,511,511,) from space
+Timestep=5, 108 read mnd (512,256,768,),(639,511,1023,) from space
+Timestep=5, 42 read mnd (256,256,256,),(383,511,511,) from space
+Timestep=5, 109 read mnd (640,256,768,),(767,511,1023,) from space
+Timestep=5, 43 read mnd (384,256,256,),(511,511,511,) from space
+Timestep=5, 110 read mnd (768,256,768,),(895,511,1023,) from space
+Timestep=5, 111 read mnd (896,256,768,),(1023,511,1023,) from space
+Timestep=5, 44 read mnd (512,256,256,),(639,511,511,) from space
+Timestep=5, 112 read mnd (0,512,768,),(127,767,1023,) from space
+Timestep=5, 45 read mnd (640,256,256,),(767,511,511,) from space
+Timestep=5, 113 read mnd (128,512,768,),(255,767,1023,) from space
+Timestep=5, 46 read mnd (768,256,256,),(895,511,511,) from space
+Timestep=5, 114 read mnd (256,512,768,),(383,767,1023,) from space
+Timestep=5, 47 read mnd (896,256,256,),(1023,511,511,) from space
+Timestep=5, 115 read mnd (384,512,768,),(511,767,1023,) from space
+Timestep=5, 48 read mnd (0,512,256,),(127,767,511,) from space
+Timestep=5, 116 read mnd (512,512,768,),(639,767,1023,) from space
+Timestep=5, 49 read mnd (128,512,256,),(255,767,511,) from space
+Timestep=5, 117 read mnd (640,512,768,),(767,767,1023,) from space
+Timestep=5, 50 read mnd (256,512,256,),(383,767,511,) from space
+Timestep=5, 118 read mnd (768,512,768,),(895,767,1023,) from space
+Timestep=5, 51 read mnd (384,512,256,),(511,767,511,) from space
+Timestep=5, 119 read mnd (896,512,768,),(1023,767,1023,) from space
+Timestep=5, 52 read mnd (512,512,256,),(639,767,511,) from space
+Timestep=5, 120 read mnd (0,768,768,),(127,1023,1023,) from space
+Timestep=5, 53 read mnd (640,512,256,),(767,767,511,) from space
+Timestep=5, 121 read mnd (128,768,768,),(255,1023,1023,) from space
+Timestep=5, 54 read mnd (768,512,256,),(895,767,511,) from space
+Timestep=5, 122 read mnd (256,768,768,),(383,1023,1023,) from space
+Timestep=5, 55 read mnd (896,512,256,),(1023,767,511,) from space
+Timestep=5, 123 read mnd (384,768,768,),(511,1023,1023,) from space
+Timestep=5, 56 read mnd (0,768,256,),(127,1023,511,) from space
+Timestep=5, 124 read mnd (512,768,768,),(639,1023,1023,) from space
+Timestep=5, 57 read mnd (128,768,256,),(255,1023,511,) from space
+Timestep=5, 125 read mnd (640,768,768,),(767,1023,1023,) from space
+Timestep=5, 58 read mnd (256,768,256,),(383,1023,511,) from space
+Timestep=5, 126 read mnd (768,768,768,),(895,1023,1023,) from space
+Timestep=5, 59 read mnd (384,768,256,),(511,1023,511,) from space
+Timestep=5, 127 read mnd (896,768,768,),(1023,1023,1023,) from space
+Timestep=5, 60 read mnd (512,768,256,),(639,1023,511,) from space
+Timestep=5, 61 read mnd (640,768,256,),(767,1023,511,) from space
+Timestep=5, 62 read mnd (768,768,256,),(895,1023,511,) from space
+Timestep=5, 63 read mnd (896,768,256,),(1023,1023,511,) from space
+TIMING_PERF get_data ts 5 peer 0 time 1.159386
+TS= 5 TRANSPORT_TYPE= DATASPACES read MAX time= 1.714332
+TIMING_PERF get_data ts 5 peer 64 time 1.223459
+TIMING_PERF get_data ts 5 peer 1 time 1.517288
+TIMING_PERF get_data ts 5 peer 65 time 1.351602
+TIMING_PERF get_data ts 5 peer 2 time 1.122159
+TIMING_PERF get_data ts 5 peer 66 time 1.180589
+TIMING_PERF get_data ts 5 peer 3 time 1.338817
+TIMING_PERF get_data ts 5 peer 67 time 1.022971
+TIMING_PERF get_data ts 5 peer 4 time 1.459347
+TIMING_PERF get_data ts 5 peer 5 time 1.180268
+TIMING_PERF get_data ts 5 peer 68 time 1.303894
+TIMING_PERF get_data ts 5 peer 69 time 1.219682
+TIMING_PERF get_data ts 5 peer 6 time 1.657508
+TIMING_PERF get_data ts 5 peer 70 time 1.341276
+TIMING_PERF get_data ts 5 peer 7 time 1.169647
+TIMING_PERF get_data ts 5 peer 71 time 1.233569
+TIMING_PERF get_data ts 5 peer 8 time 1.147300
+TIMING_PERF get_data ts 5 peer 9 time 1.617610
+TIMING_PERF get_data ts 5 peer 72 time 1.180115
+TIMING_PERF get_data ts 5 peer 73 time 1.654652
+TIMING_PERF get_data ts 5 peer 10 time 1.153320
+TIMING_PERF get_data ts 5 peer 74 time 1.204900
+TIMING_PERF get_data ts 5 peer 11 time 1.360219
+TIMING_PERF get_data ts 5 peer 75 time 1.697593
+TIMING_PERF get_data ts 5 peer 12 time 1.448921
+TIMING_PERF get_data ts 5 peer 76 time 1.374492
+TIMING_PERF get_data ts 5 peer 13 time 1.206480
+TIMING_PERF get_data ts 5 peer 77 time 1.274267
+TIMING_PERF get_data ts 5 peer 14 time 1.546185
+TIMING_PERF get_data ts 5 peer 78 time 1.202034
+TIMING_PERF get_data ts 5 peer 15 time 1.188401
+TIMING_PERF get_data ts 5 peer 79 time 1.276607
+TIMING_PERF get_data ts 5 peer 16 time 1.088318
+TIMING_PERF get_data ts 5 peer 80 time 1.193089
+TIMING_PERF get_data ts 5 peer 17 time 1.444852
+TIMING_PERF get_data ts 5 peer 81 time 1.624026
+TIMING_PERF get_data ts 5 peer 18 time 1.107805
+TIMING_PERF get_data ts 5 peer 82 time 1.155321
+TIMING_PERF get_data ts 5 peer 19 time 1.508601
+TIMING_PERF get_data ts 5 peer 20 time 1.283488
+TIMING_PERF get_data ts 5 peer 83 time 1.305367
+TIMING_PERF get_data ts 5 peer 84 time 1.072204
+TIMING_PERF get_data ts 5 peer 21 time 1.157000
+TIMING_PERF get_data ts 5 peer 85 time 1.242515
+TIMING_PERF get_data ts 5 peer 22 time 1.428979
+TIMING_PERF get_data ts 5 peer 86 time 1.702414
+TIMING_PERF get_data ts 5 peer 23 time 1.168614
+TIMING_PERF get_data ts 5 peer 24 time 1.099793
+TIMING_PERF get_data ts 5 peer 87 time 1.236386
+TIMING_PERF get_data ts 5 peer 88 time 1.212374
+TIMING_PERF get_data ts 5 peer 25 time 1.349255
+TIMING_PERF get_data ts 5 peer 89 time 1.165350
+TIMING_PERF get_data ts 5 peer 26 time 1.111822
+TIMING_PERF get_data ts 5 peer 90 time 1.214976
+TIMING_PERF get_data ts 5 peer 27 time 1.454214
+TIMING_PERF get_data ts 5 peer 28 time 1.615748
+TIMING_PERF get_data ts 5 peer 91 time 1.138898
+TIMING_PERF get_data ts 5 peer 29 time 1.155080
+TIMING_PERF get_data ts 5 peer 92 time 1.066079
+TIMING_PERF get_data ts 5 peer 30 time 1.384171
+TIMING_PERF get_data ts 5 peer 93 time 1.248591
+TIMING_PERF get_data ts 5 peer 31 time 1.184366
+TIMING_PERF get_data ts 5 peer 94 time 1.364759
+TIMING_PERF get_data ts 5 peer 95 time 1.205915
+TIMING_PERF get_data ts 5 peer 32 time 1.145115
+TIMING_PERF get_data ts 5 peer 96 time 1.164692
+TIMING_PERF get_data ts 5 peer 33 time 1.574621
+TIMING_PERF get_data ts 5 peer 97 time 1.630153
+TIMING_PERF get_data ts 5 peer 34 time 1.139486
+TIMING_PERF get_data ts 5 peer 98 time 1.198411
+TIMING_PERF get_data ts 5 peer 35 time 1.470339
+TIMING_PERF get_data ts 5 peer 99 time 1.316397
+TIMING_PERF get_data ts 5 peer 36 time 1.435573
+TIMING_PERF get_data ts 5 peer 100 time 1.678737
+TIMING_PERF get_data ts 5 peer 37 time 1.186134
+TIMING_PERF get_data ts 5 peer 101 time 1.261225
+TIMING_PERF get_data ts 5 peer 38 time 1.537070
+TIMING_PERF get_data ts 5 peer 102 time 1.643723
+TIMING_PERF get_data ts 5 peer 39 time 1.195451
+TIMING_PERF get_data ts 5 peer 103 time 1.257696
+TIMING_PERF get_data ts 5 peer 40 time 1.109399
+TIMING_PERF get_data ts 5 peer 104 time 1.170946
+TIMING_PERF get_data ts 5 peer 41 time 1.641860
+TIMING_PERF get_data ts 5 peer 105 time 1.485469
+TIMING_PERF get_data ts 5 peer 42 time 1.124384
+TIMING_PERF get_data ts 5 peer 106 time 1.181788
+TIMING_PERF get_data ts 5 peer 43 time 1.287444
+TIMING_PERF get_data ts 5 peer 107 time 1.404587
+TIMING_PERF get_data ts 5 peer 44 time 1.555347
+TIMING_PERF get_data ts 5 peer 108 time 1.068644
+TIMING_PERF get_data ts 5 peer 45 time 1.197925
+TIMING_PERF get_data ts 5 peer 109 time 1.252079
+TIMING_PERF get_data ts 5 peer 46 time 1.473412
+TIMING_PERF get_data ts 5 peer 110 time 1.416685
+TIMING_PERF get_data ts 5 peer 47 time 1.204258
+TIMING_PERF get_data ts 5 peer 111 time 1.243240
+TIMING_PERF get_data ts 5 peer 112 time 1.194187
+TIMING_PERF get_data ts 5 peer 48 time 1.140941
+TIMING_PERF get_data ts 5 peer 113 time 1.027901
+TIMING_PERF get_data ts 5 peer 49 time 1.477242
+TIMING_PERF get_data ts 5 peer 114 time 1.203630
+TIMING_PERF get_data ts 5 peer 50 time 1.155038
+TIMING_PERF get_data ts 5 peer 115 time 1.664383
+TIMING_PERF get_data ts 5 peer 51 time 1.599813
+TIMING_PERF get_data ts 5 peer 116 time 1.264278
+TIMING_PERF get_data ts 5 peer 52 time 1.623046
+TIMING_PERF get_data ts 5 peer 117 time 1.271779
+TIMING_PERF get_data ts 5 peer 53 time 1.209533
+TIMING_PERF get_data ts 5 peer 118 time 1.693154
+TIMING_PERF get_data ts 5 peer 54 time 1.586143
+TIMING_PERF get_data ts 5 peer 119 time 1.268818
+TIMING_PERF get_data ts 5 peer 55 time 1.200789
+TIMING_PERF get_data ts 5 peer 120 time 1.197368
+TIMING_PERF get_data ts 5 peer 56 time 1.138416
+TIMING_PERF get_data ts 5 peer 121 time 1.252960
+TIMING_PERF get_data ts 5 peer 57 time 1.570577
+TIMING_PERF get_data ts 5 peer 122 time 1.217477
+TIMING_PERF get_data ts 5 peer 58 time 1.134900
+TIMING_PERF get_data ts 5 peer 123 time 1.246477
+TIMING_PERF get_data ts 5 peer 59 time 1.554701
+TIMING_PERF get_data ts 5 peer 124 time 1.714332
+TIMING_PERF get_data ts 5 peer 60 time 1.499778
+TIMING_PERF get_data ts 5 peer 125 time 1.207326
+TIMING_PERF get_data ts 5 peer 61 time 1.163775
+TIMING_PERF get_data ts 5 peer 126 time 1.256932
+TIMING_PERF get_data ts 5 peer 62 time 1.594150
+TIMING_PERF get_data ts 5 peer 127 time 1.276677
+TIMING_PERF get_data ts 5 peer 63 time 1.211214
+check_data(): var= mnd_0, rank= 51, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 39, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 33, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 53, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 29, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 74, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 35, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 37, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 84, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 45, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 55, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 19, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 86, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 21, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 88, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 23, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 25, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 90, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 27, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 92, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 41, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 94, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 43, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 96, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 61, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 98, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 1, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 100, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 3, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 102, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 5, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 7, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 104, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 13, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 106, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 15, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 17, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 31, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 46, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 47, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 57, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 59, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 9, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 11, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 108, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 110, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 112, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 114, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 118, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 122, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 66, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 68, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 70, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 76, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 77, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 78, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 80, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 81, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 82, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 83, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 89, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 16, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 18, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 20, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 22, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 24, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 28, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 32, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 34, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 36, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 38, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 40, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 42, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 44, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 48, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 50, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 54, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 58, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 60, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 62, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 63, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 2, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 4, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 6, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 8, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 10, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 12, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 14, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 26, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 30, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 52, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 56, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 0, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 49, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 91, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 93, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 95, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 97, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 99, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 101, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 103, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 105, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 107, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 109, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 111, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 113, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 115, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 116, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 119, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 120, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 123, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 124, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 125, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 126, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 64, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 65, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 67, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 69, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 71, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 73, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 75, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 79, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 85, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 87, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 117, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 121, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 127, max= 5.000000, min= 5.000000, avg= 5.000000
+check_data(): var= mnd_0, rank= 72, max= 5.000000, min= 5.000000, avg= 5.000000
+test_get_run(): done
+TIMING_PERF fini_dspaces peer 64 time= 0.387957
+TIMING_PERF fini_dspaces peer 0 time= 0.387969
+TIMING_PERF fini_dspaces peer 66 time= 0.387977
+TIMING_PERF fini_dspaces peer 1 time= 0.387942
+TIMING_PERF fini_dspaces peer 67 time= 0.387957
+TIMING_PERF fini_dspaces peer 2 time= 0.387926
+TIMING_PERF fini_dspaces peer 68 time= 0.387817
+TIMING_PERF fini_dspaces peer 3 time= 0.387806
+TIMING_PERF fini_dspaces peer 69 time= 0.387992
+TIMING_PERF fini_dspaces peer 4 time= 0.387899
+TIMING_PERF fini_dspaces peer 70 time= 0.387818
+TIMING_PERF fini_dspaces peer 5 time= 0.387928
+TIMING_PERF fini_dspaces peer 71 time= 0.387969
+TIMING_PERF fini_dspaces peer 6 time= 0.387765
+TIMING_PERF fini_dspaces peer 73 time= 0.387861
+TIMING_PERF fini_dspaces peer 7 time= 0.387969
+TIMING_PERF fini_dspaces peer 74 time= 0.387831
+TIMING_PERF fini_dspaces peer 8 time= 0.387944
+TIMING_PERF fini_dspaces peer 75 time= 0.387860
+TIMING_PERF fini_dspaces peer 9 time= 0.387965
+TIMING_PERF fini_dspaces peer 76 time= 0.387979
+TIMING_PERF fini_dspaces peer 10 time= 0.387905
+TIMING_PERF fini_dspaces peer 77 time= 0.387978
+TIMING_PERF fini_dspaces peer 12 time= 0.387903
+TIMING_PERF fini_dspaces peer 78 time= 0.387833
+TIMING_PERF fini_dspaces peer 13 time= 0.387830
+TIMING_PERF fini_dspaces peer 81 time= 0.387838
+TIMING_PERF fini_dspaces peer 14 time= 0.387953
+TIMING_PERF fini_dspaces peer 82 time= 0.387989
+TIMING_PERF fini_dspaces peer 15 time= 0.387934
+TIMING_PERF fini_dspaces peer 83 time= 0.387840
+TIMING_PERF fini_dspaces peer 16 time= 0.387974
+TIMING_PERF fini_dspaces peer 84 time= 0.387852
+TIMING_PERF fini_dspaces peer 17 time= 0.387813
+TIMING_PERF fini_dspaces peer 86 time= 0.387928
+TIMING_PERF fini_dspaces peer 18 time= 0.387972
+TIMING_PERF fini_dspaces peer 88 time= 0.387966
+TIMING_PERF fini_dspaces peer 19 time= 0.387790
+TIMING_PERF fini_dspaces peer 89 time= 0.387996
+TIMING_PERF fini_dspaces peer 20 time= 0.387977
+TIMING_PERF fini_dspaces peer 90 time= 0.388008
+TIMING_PERF fini_dspaces peer 21 time= 0.387823
+TIMING_PERF fini_dspaces peer 91 time= 0.387858
+TIMING_PERF fini_dspaces peer 22 time= 0.387957
+TIMING_PERF fini_dspaces peer 92 time= 0.387985
+TIMING_PERF fini_dspaces peer 23 time= 0.387793
+TIMING_PERF fini_dspaces peer 93 time= 0.387953
+TIMING_PERF fini_dspaces peer 24 time= 0.387801
+TIMING_PERF fini_dspaces peer 94 time= 0.388006
+TIMING_PERF fini_dspaces peer 26 time= 0.387771
+TIMING_PERF fini_dspaces peer 95 time= 0.387965
+TIMING_PERF fini_dspaces peer 27 time= 0.387920
+TIMING_PERF fini_dspaces peer 96 time= 0.387982
+TIMING_PERF fini_dspaces peer 28 time= 0.387939
+TIMING_PERF fini_dspaces peer 98 time= 0.387998
+TIMING_PERF fini_dspaces peer 29 time= 0.387922
+TIMING_PERF fini_dspaces peer 100 time= 0.387854
+TIMING_PERF fini_dspaces peer 30 time= 0.387922
+TIMING_PERF fini_dspaces peer 101 time= 0.387971
+TIMING_PERF fini_dspaces peer 31 time= 0.387950
+TIMING_PERF fini_dspaces peer 102 time= 0.387962
+TIMING_PERF fini_dspaces peer 32 time= 0.387954
+TIMING_PERF fini_dspaces peer 103 time= 0.387948
+TIMING_PERF fini_dspaces peer 33 time= 0.387960
+TIMING_PERF fini_dspaces peer 104 time= 0.387968
+TIMING_PERF fini_dspaces peer 34 time= 0.387979
+TIMING_PERF fini_dspaces peer 105 time= 0.388003
+TIMING_PERF fini_dspaces peer 35 time= 0.387923
+TIMING_PERF fini_dspaces peer 106 time= 0.387935
+TIMING_PERF fini_dspaces peer 36 time= 0.387930
+TIMING_PERF fini_dspaces peer 108 time= 0.387951
+TIMING_PERF fini_dspaces peer 37 time= 0.387799
+TIMING_PERF fini_dspaces peer 110 time= 0.387953
+TIMING_PERF fini_dspaces peer 38 time= 0.387933
+TIMING_PERF fini_dspaces peer 111 time= 0.388005
+TIMING_PERF fini_dspaces peer 39 time= 0.387904
+TIMING_PERF fini_dspaces peer 112 time= 0.387837
+TIMING_PERF fini_dspaces peer 40 time= 0.387907
+TIMING_PERF fini_dspaces peer 113 time= 0.387958
+TIMING_PERF fini_dspaces peer 41 time= 0.387993
+TIMING_PERF fini_dspaces peer 114 time= 0.387846
+TIMING_PERF fini_dspaces peer 42 time= 0.387946
+TIMING_PERF fini_dspaces peer 115 time= 0.387851
+TIMING_PERF fini_dspaces peer 43 time= 0.387989
+TIMING_PERF fini_dspaces peer 116 time= 0.387873
+TIMING_PERF fini_dspaces peer 44 time= 0.387918
+TIMING_PERF fini_dspaces peer 117 time= 0.387988
+TIMING_PERF fini_dspaces peer 45 time= 0.387930
+TIMING_PERF fini_dspaces peer 118 time= 0.387822
+TIMING_PERF fini_dspaces peer 46 time= 0.387911
+TIMING_PERF fini_dspaces peer 120 time= 0.387945
+TIMING_PERF fini_dspaces peer 47 time= 0.387978
+TIMING_PERF fini_dspaces peer 121 time= 0.387819
+TIMING_PERF fini_dspaces peer 48 time= 0.387791
+TIMING_PERF fini_dspaces peer 122 time= 0.387943
+TIMING_PERF fini_dspaces peer 50 time= 0.387790
+TIMING_PERF fini_dspaces peer 123 time= 0.387796
+TIMING_PERF fini_dspaces peer 51 time= 0.387975
+TIMING_PERF fini_dspaces peer 124 time= 0.387992
+TIMING_PERF fini_dspaces peer 52 time= 0.387801
+TIMING_PERF fini_dspaces peer 125 time= 0.387981
+TIMING_PERF fini_dspaces peer 53 time= 0.387938
+TIMING_PERF fini_dspaces peer 126 time= 0.387995
+TIMING_PERF fini_dspaces peer 54 time= 0.387964
+TIMING_PERF fini_dspaces peer 127 time= 0.388011
+TIMING_PERF fini_dspaces peer 55 time= 0.387944
+TIMING_PERF fini_dspaces peer 65 time= 0.388000
+TIMING_PERF fini_dspaces peer 56 time= 0.387940
+TIMING_PERF fini_dspaces peer 79 time= 0.388019
+TIMING_PERF fini_dspaces peer 57 time= 0.387776
+TIMING_PERF fini_dspaces peer 80 time= 0.388013
+TIMING_PERF fini_dspaces peer 58 time= 0.387913
+TIMING_PERF fini_dspaces peer 85 time= 0.388009
+TIMING_PERF fini_dspaces peer 59 time= 0.387984
+TIMING_PERF fini_dspaces peer 87 time= 0.388036
+TIMING_PERF fini_dspaces peer 60 time= 0.387824
+TIMING_PERF fini_dspaces peer 97 time= 0.388025
+TIMING_PERF fini_dspaces peer 61 time= 0.387982
+TIMING_PERF fini_dspaces peer 99 time= 0.388016
+TIMING_PERF fini_dspaces peer 62 time= 0.387796
+TIMING_PERF fini_dspaces peer 107 time= 0.388031
+TIMING_PERF fini_dspaces peer 63 time= 0.387957
+TIMING_PERF fini_dspaces peer 109 time= 0.388024
+TIMING_PERF fini_dspaces peer 11 time= 0.387999
+TIMING_PERF fini_dspaces peer 119 time= 0.388027
+TIMING_PERF fini_dspaces peer 25 time= 0.387997
+TIMING_PERF fini_dspaces peer 49 time= 0.392951
+TIMING_PERF fini_dspaces peer 72 time= 0.392900
