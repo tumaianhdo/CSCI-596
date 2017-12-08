@@ -1,6 +1,6 @@
-CC := mpicc
-CXX := mpicxx
-FC := mpif90
+CC := cc
+CXX := CC
+FC := ftn
 
 override ADIOS_DIR := ${SCRATCH}/software/install/adios
 override ADIOS_INC := $(shell ${ADIOS_DIR}/bin/adios_config -c)
